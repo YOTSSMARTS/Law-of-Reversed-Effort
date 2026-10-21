@@ -13,6 +13,8 @@ FEEDS = [
     ("เศรษฐกิจ", "เศรษฐกิจ OR การเงิน OR ตลาดหุ้น", "TH:th"),
     ("เทคโนโลยี", "เทคโนโลยี OR ปัญญาประดิษฐ์ OR AI", "TH:th"),
     ("ธุรกิจ", "ธุรกิจ OR บริษัท OR business", "TH:th"),
+    ("จราจร", "รถติด OR การจราจร OR อุบัติเหตุทางถนน OR ปิดถนน OR ทางด่วน", "TH:th"),
+    ("สภาพอากาศ", "พยากรณ์อากาศ OR ฝนตก OR พายุ OR น้ำท่วม OR กรมอุตุนิยมวิทยา", "TH:th"),
 ]
 def fetch(category, query, edition):
     url = "https://news.google.com/rss/search?q=" + quote(query) + "&hl=" + ("en-US" if edition=="US:en" else "th") + "&gl=" + edition.split(":")[0] + "&ceid=" + edition
