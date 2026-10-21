@@ -1,0 +1,38 @@
+name: Refresh news feeds
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - "scripts/fetch_news.py"
+      - ".github/workflows/refresh-news.yml"
+permissions:
+  contents: write
+concurrency:
+  group: refresh-news
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch public RSS feeds
+        run: python scripts/fetch_news.py
+      - name: Commit updated news data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/news.json
+          if git diff --cached --quiet; then
+            echo "No news data changes to commit"
+          else
+            git commit -m "Refresh aggregated news feed"
+            git push
+          fi
