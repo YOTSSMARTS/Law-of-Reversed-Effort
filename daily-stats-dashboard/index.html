@@ -91,8 +91,31 @@ function renderChart(){
  const byLabel=new Map();points.forEach(p=>byLabel.set(p.label,(byLabel.get(p.label)||0)+p.y));const labels=[...byLabel.keys()],values=[...byLabel.values()];
  $("chartEmpty").style.display=points.length?"none":"block";
  const canvas=$("statsChart");canvas.style.display=points.length?"block":"none";
- if(chart)chart.destroy();if(!points.length)return;
+ if(chart)chart.destroy();if(!points.length){if(typeof updateShareCard==="function")updateShareCard();return;}
  chart=new Chart(canvas,{type:"line",data:{labels,datasets:[{label:headers[+vIdx]||"สถิติ",data:values,borderColor:"#8da5ff",backgroundColor:"rgba(124,156,255,.16)",fill:true,tension:.25,pointRadius:3}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{labels:{color:"#eef3ff"}}},scales:{x:{ticks:{color:"#a7b4ce",maxTicksLimit:10},grid:{color:"rgba(167,180,206,.12)"}},y:{beginAtZero:true,ticks:{color:"#a7b4ce"},grid:{color:"rgba(167,180,206,.12)"}}}}});
+}
+function updateShareCard(){
+ const dIdx=$("dateCol").value,vIdx=$("valueCol").value;
+ let total=0,count=0;const dayMap=new Map();const foundDates=[];
+ rows.forEach(r=>{
+  const value=num(r[+vIdx]);if(!Number.isFinite(value))return;
+  total+=value;count++;
+  if(dIdx!==""){
+   const d=dateVal(r[+dIdx]);
+   if(d){foundDates.push(d);const key=d.getFullYear()+"-"+(d.getMonth()+1)+"-"+d.getDate();const old=dayMap.get(key)||{date:d,total:0,count:0};old.total+=value;old.count++;dayMap.set(key,old);}
+  }
+ });
+ const sorted=foundDates.sort((a,b)=>a-b);
+ $("shareHeading").textContent="สรุปสถิติ "+(headers[+vIdx]||"รายวัน");
+ $("shareSource").textContent=($("sheetTab").value.trim()||"Google Sheets")+" · "+(headers[+vIdx]||"คอลัมน์ตัวเลข");
+ $("shareMainLabel").textContent="ผลรวมของคอลัมน์ที่เลือก";
+ $("shareMainValue").textContent=count?total.toLocaleString("th-TH",{maximumFractionDigits:2}):"ไม่พบตัวเลข";
+ $("shareCount").textContent=count.toLocaleString("th-TH");
+ $("shareFirstDate").textContent=sorted.length?fmtDate(sorted[0]):"ไม่พบวันที่";
+ $("shareLastDate").textContent=sorted.length?fmtDate(sorted[sorted.length-1]):"ไม่พบวันที่";
+ $("shareGeneratedAt").textContent="สร้างภาพ "+new Date().toLocaleString("th-TH-u-ca-gregory",{calendar:"gregory",dateStyle:"medium",timeStyle:"short"});
+ const box=$("dailyBreakdown");
+ if(box){box.innerHTML="";const list=[...dayMap.values()].sort((a,b)=>b.date-a.date).slice(0,12);list.forEach(item=>{const tile=document.createElement("div");tile.className="daily-tile";const date=document.createElement("div");date.className="daily-tile-date";date.textContent=fmtDate(item.date);const value=document.createElement("div");value.className="daily-tile-value";value.textContent=item.total.toLocaleString("th-TH",{maximumFractionDigits:2});const note=document.createElement("div");note.className="daily-tile-note";note.textContent=item.count.toLocaleString("th-TH")+" รายการ";tile.appendChild(date);tile.appendChild(value);tile.appendChild(note);box.appendChild(tile);});if(!list.length){const note=document.createElement("div");note.textContent="เลือกคอลัมน์วันที่จริงเพื่อแสดงยอดแยกแต่ละวัน";note.style.gridColumn="1/-1";box.appendChild(note);}}
 }
 function showData(matrix){
  if(matrix.length<1)throw Error("ไม่พบข้อมูลในชีตนี้");
