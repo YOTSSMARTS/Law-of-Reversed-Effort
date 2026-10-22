@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="th">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Dashboard สถิติรายวัน</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<style>
+:root{color-scheme:dark;--bg:#0b1020;--panel:#131b2e;--panel2:#18233a;--text:#eef3ff;--muted:#a7b4ce;--line:#293653;--accent:#7c9cff;--green:#66dfb2;--red:#ff9caa}
+*{box-sizing:border-box}body{margin:0;background:radial-gradient(ellipse at top,#172644 0,#0b1020 55%);color:var(--text);font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif}
+main{max-width:1200px;margin:auto;padding:28px 18px 50px}.hero{display:flex;justify-content:space-between;gap:20px;align-items:flex-start;flex-wrap:wrap;margin-bottom:22px}
+h1{font-size:clamp(26px,4vw,38px);margin:0 0 6px;letter-spacing:-.03em}.sub{color:var(--muted);margin:0}.tag{display:inline-flex;padding:6px 11px;border:1px solid #344568;border-radius:999px;color:#c9d6ff;font-size:12px}
+.panel{background:linear-gradient(145deg,rgba(24,35,58,.96),rgba(16,24,42,.96));border:1px solid var(--line);border-radius:18px;padding:20px;margin:16px 0;box-shadow:0 12px 35px #0002}
+h2{font-size:18px;margin:0 0 14px}.presets{display:flex;gap:9px;flex-wrap:wrap;margin-bottom:18px}
+button{cursor:pointer;border:1px solid #3b4b6c;background:#202e49;color:var(--text);border-radius:10px;padding:10px 14px;font:inherit;transition:.15s}
+button:hover{border-color:var(--accent);transform:translateY(-1px)}button.primary{background:#6c86f7;border-color:#6c86f7;color:#fff;font-weight:650}
+.fields{display:grid;grid-template-columns:2fr 1fr;gap:12px}.field label{display:block;color:var(--muted);font-size:13px;margin-bottom:6px}.field input,.field select{width:100%;padding:12px;border-radius:10px;border:1px solid #34435f;background:#0d1527;color:var(--text);font:inherit;min-width:0}
+.actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:14px}.hint{font-size:13px;color:var(--muted);margin:12px 0 0}.status{margin-top:12px;color:var(--muted);min-height:24px}.status.error{color:var(--red)}.status.ok{color:var(--green)}
+.metrics{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}.metric{padding:18px;border-radius:14px;background:#0e1729;border:1px solid var(--line);min-width:0}.metric .label{font-size:13px;color:var(--muted)}.metric .value{font-size:clamp(22px,3vw,30px);font-weight:750;overflow-wrap:anywhere;margin-top:4px}.chart-wrap{height:330px;position:relative}.table-wrap{overflow:auto;max-height:560px;border:1px solid var(--line);border-radius:12px}
+table{border-collapse:collapse;width:100%;font-size:13px;white-space:nowrap}th,td{padding:11px 13px;border-bottom:1px solid var(--line);text-align:left}th{position:sticky;top:0;background:#202d47;color:#dbe5ff;z-index:1}tbody tr:hover{background:#ffffff08}.empty{padding:28px;text-align:center;color:var(--muted)}
+.selectors{display:flex;gap:12px;flex-wrap:wrap;margin-bottom:14px}.selectors .field{min-width:190px;flex:1}
+footer{text-align:center;color:var(--muted);font-size:12px;padding:20px}
+@media(max-width:700px){main{padding:20px 12px}.fields{grid-template-columns:1fr}.metrics{grid-template-columns:repeat(2,minmax(0,1fr))}.panel{padding:15px}.chart-wrap{height:280px}}
+</style>
+</head>
+<body><main>
+<header class="hero"><div><div class="tag">GOOGLE SHEETS · LIVE DATA</div><h1>Dashboard สถิติรายวัน</h1><p class="sub">สรุปข้อมูลจากชีตของคุณ เปลี่ยนแหล่งข้อมูลได้ทุกเมื่อ</p></div><button id="reloadTop" class="primary">↻ โหลดข้อมูลใหม่</button></header>
+<section class="panel"><h2>เลือกแหล่งข้อมูล</h2>
+<div class="presets" id="presets"></div>
+<div class="fields">
+<div class="field"><label for="sheetUrl">ลิงก์ Google Sheets</label><input id="sheetUrl" type="url" placeholder="วางลิงก์ Google Sheets ที่นี่"></div>
+<div class="field"><label for="sheetTab">ชื่อแท็บ (ถ้ามี)</label><input id="sheetTab" type="text" placeholder="เช่น หยุดเรียนพิเศษ"></div>
+</div>
+<div class="actions"><button class="primary" id="loadBtn">แสดงสถิติจากชีตนี้</button><button id="clearBtn">ล้างค่าที่บันทึกไว้</button></div>
+<p class="hint">ตั้งค่าแหล่งข้อมูลจะถูกบันทึกไว้ในเบราว์เซอร์นี้เท่านั้น ชีตต้องเปิดให้ดูได้ด้วยลิงก์ หรือเผยแพร่เป็น CSV จึงจะโหลดข้อมูลได้</p><div id="status" class="status" role="status"></div>
+</section>
+<section class="panel"><h2>ภาพรวมข้อมูล</h2><div class="metrics">
+<div class="metric"><div class="label">จำนวนแถวข้อมูล</div><div id="rowCount" class="value">—</div></div>
+<div class="metric"><div class="label">จำนวนคอลัมน์</div><div id="colCount" class="value">—</div></div>
+<div class="metric"><div class="label">วันที่แรกในข้อมูล</div><div id="firstDate" class="value">—</div></div>
+<div class="metric"><div class="label">วันที่ล่าสุดในข้อมูล</div><div id="lastDate" class="value">—</div></div>
+</div></section>
+<section class="panel"><h2>กราฟสถิติ</h2><div class="selectors">
+<div class="field"><label for="dateCol">คอลัมน์วันที่ (ถ้ามี)</label><select id="dateCol" disabled><option>รอข้อมูล</option></select></div>
+<div class="field"><label for="valueCol">คอลัมน์ตัวเลข</label><select id="valueCol" disabled><option>รอข้อมูล</option></select></div>
+</div><div class="chart-wrap"><canvas id="statsChart" aria-label="กราฟสถิติ" role="img"></canvas></div><div id="chartEmpty" class="empty">เลือกชีตและโหลดข้อมูลเพื่อดูกราฟ</div></section>
+<section class="panel"><h2>ข้อมูลจากชีต <span id="tableTitle" style="color:var(--muted);font-size:13px;font-weight:400"></span></h2><div class="table-wrap" id="tableWrap"><div class="empty">ยังไม่มีข้อมูล กรุณาเลือกชีตด้านบน</div></div></section>
+<footer>Dashboard สถิติรายวัน · ข้อมูลถูกดึงจาก Google Sheets โดยตรงเมื่อกดโหลดใหม่</footer>
+</main>
+<script>
+const SOURCES = [
+ {name:"หยุดเรียนพิเศษ",url:"https://docs.google.com/spreadsheets/d/15fgGm2WSN6Ryqo8xHrKwlIh9cZ2OC2kHNJTCx0L6uIc/edit?gid=896700417#gid=896700417",tab:"หยุดเรียนพิเศษ"},
+ {name:"เปิดเทอม",url:"https://docs.google.com/spreadsheets/d/15fgGm2WSN6Ryqo8xHrKwlIh9cZ2OC2kHNJTCx0L6uIc/edit",tab:"เปิดเทอม"},
+ {name:"ชีตลิงก์ที่ 2",url:"https://docs.google.com/spreadsheets/d/1sbvPBteGDqGupcxJKpClYISWQygY4IlQIBx9g10yb6M/edit?gid=1075427804#gid=1075427804",tab:""},
+ {name:"ชีตลิงก์ที่ 3",url:"https://docs.google.com/spreadsheets/d/1JVFrSjiVwSPKRyzzYHF9yT0YYl2l_QoMFIxjhS6LgNo/edit?gid=1650667051#gid=1650667051",tab:""},
+ {name:"ชีตลิงก์ที่ 4",url:"https://docs.google.com/spreadsheets/d/1hOqb387CwaQvGGe60Y4Pd51GgIvpZuSoxPQ2J_y3VW0/edit?gid=1936793359#gid=1936793359",tab:""}
+];
+const $=id=>document.getElementById(id);
+let rows=[],headers=[],chart=null;
+const status=(msg,type="")=>{$("status").textContent=msg;$("status").className="status "+type};
+function renderPresets(){$("presets").innerHTML="";SOURCES.forEach((s,i)=>{const b=document.createElement("button");b.textContent=s.name;b.addEventListener("click",()=>{ $("sheetUrl").value=s.url;$("sheetTab").value=s.tab;loadData();});$("presets").appendChild(b);});}
+function parseSheetUrl(url,tab){
+ let id="",gid="";
+ try{const u=new URL(url);const m=u.pathname.match(/\/spreadsheets\/d\/([a-zA-Z0-9-_]+)/);if(m)id=m[1];gid=u.searchParams.get("gid")||"";}catch(e){}
+ if(!id)throw Error("ลิงก์ไม่ถูกต้อง กรุณาใช้ลิงก์ Google Sheets");
+ const base="https://docs.google.com/spreadsheets/d/"+id;
+ if(tab.trim())return base+"/gviz/tq?tqx=out:csv&sheet="+encodeURIComponent(tab.trim());
+ if(gid)return base+"/export?format=csv&gid="+encodeURIComponent(gid);
+ return base+"/export?format=csv";
+}
+function parseCSV(text){
+ const out=[];let row=[],cell="",quoted=false;
+ for(let i=0;i<text.length;i++){const c=text[i];if(quoted){if(c=='"'&&text[i+1]=='"'){cell+='"';i++;}else if(c=='"')quoted=false;else cell+=c;}else{if(c=='"')quoted=true;else if(c==','){row.push(cell);cell="";}else if(c==='\n'){row.push(cell.replace(/\r$/,""));out.push(row);row=[];cell="";}else cell+=c;}}
+ if(cell.length||row.length){row.push(cell.replace(/\r$/,""));out.push(row);}
+ return out.filter(r=>r.some(v=>String(v).trim()!==""));
+}
+function num(v){if(v===null||v===undefined)return NaN;const s=String(v).trim().replace(/,/g,"").replace(/[฿%]/g,"");if(!s||s==="-"||s==="—")return NaN;return Number(s);}
+function dateVal(v){if(!v)return null;let s=String(v).trim();let m=s.match(/^(\d{1,2})[/-](\d{1,2})[/-](\d{2,4})$/);if(m){let a=+m[1],b=+m[2],y=+m[3];if(y>2400)y-=543;if(y<100)y+=2000;return new Date(y,b-1,a);}let d=new Date(s);return isNaN(d)?null:d;}
+function fmtDate(d){if(!d)return"—";return new Intl.DateTimeFormat("th-TH",{day:"numeric",month:"short",year:"numeric"}).format(d);}
+function populateSelect(el,opts,chosen){el.innerHTML="";opts.forEach(o=>{const x=document.createElement("option");x.value=o.value;x.textContent=o.label;el.appendChild(x);});if(chosen&&opts.some(o=>o.value===chosen))el.value=chosen;}
+function renderTable(){
+ const wrap=$("tableWrap");wrap.innerHTML="";const table=document.createElement("table"),thead=document.createElement("thead"),tr=document.createElement("tr");
+ headers.forEach(h=>{const th=document.createElement("th");th.textContent=h;tr.appendChild(th)});thead.appendChild(tr);table.appendChild(thead);
+ const tbody=document.createElement("tbody");rows.slice(0,1000).forEach(r=>{const tr=document.createElement("tr");headers.forEach((_,i)=>{const td=document.createElement("td");td.textContent=r[i]??"";tr.appendChild(td)});tbody.appendChild(tr)});table.appendChild(tbody);wrap.appendChild(table);
+ if(rows.length>1000){const note=document.createElement("p");note.className="hint";note.textContent="แสดง 1,000 แถวแรกจาก "+rows.length.toLocaleString("th-TH")+" แถว";wrap.appendChild(note);}
+}
+function renderChart(){
+ const dIdx=$("dateCol").value,vIdx=$("valueCol").value;const points=[];
+ rows.forEach((r,i)=>{const y=num(r[+vIdx]);if(!Number.isFinite(y))return;const d=dIdx===""?null:dateVal(r[+dIdx]);points.push({x:d?d.getTime():i,label:d?fmtDate(d):String(r[+dIdx]||i+1),y});});
+ const byLabel=new Map();points.forEach(p=>byLabel.set(p.label,(byLabel.get(p.label)||0)+p.y));const labels=[...byLabel.keys()],values=[...byLabel.values()];
+ $("chartEmpty").style.display=points.length?"none":"block";
+ const canvas=$("statsChart");canvas.style.display=points.length?"block":"none";
+ if(chart)chart.destroy();if(!points.length)return;
+ chart=new Chart(canvas,{type:"line",data:{labels,datasets:[{label:headers[+vIdx]||"สถิติ",data:values,borderColor:"#8da5ff",backgroundColor:"rgba(124,156,255,.16)",fill:true,tension:.25,pointRadius:3}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{labels:{color:"#eef3ff"}}},scales:{x:{ticks:{color:"#a7b4ce",maxTicksLimit:10},grid:{color:"rgba(167,180,206,.12)"}},y:{beginAtZero:true,ticks:{color:"#a7b4ce"},grid:{color:"rgba(167,180,206,.12)"}}}}});
+}
+function showData(matrix){
+ if(matrix.length<1)throw Error("ไม่พบข้อมูลในชีตนี้");
+ headers=matrix[0].map((h,i)=>String(h||"คอลัมน์ "+(i+1)).trim());rows=matrix.slice(1).filter(r=>r.some(v=>String(v??"").trim()!=="")).map(r=>headers.map((_,i)=>r[i]??""));
+ $("rowCount").textContent=rows.length.toLocaleString("th-TH");$("colCount").textContent=headers.length.toLocaleString("th-TH");
+ const dates=headers.map((h,i)=>({h,i})).filter(o=>/วันที่|date|วัน$|เวลา|time/i.test(o.h));
+ const dateCandidates=dates.length?dates:headers.map((h,i)=>({h,i})).filter(o=>rows.slice(0,30).some(r=>dateVal(r[o.i])));
+ const nums=headers.map((h,i)=>({h,i})).filter(o=>rows.some(r=>Number.isFinite(num(r[o.i]))));
+ const dateOpts=[{label:"ไม่ใช้คอลัมน์วันที่",value:""},...dateCandidates.map(o=>({label:o.h,value:String(o.i)}))];
+ const numOpts=nums.map(o=>({label:o.h,value:String(o.i)}));
+ populateSelect($("dateCol"),dateOpts,dateCandidates.length?String(dateCandidates[0].i):"");populateSelect($("valueCol"),numOpts,numOpts.length?numOpts[0].value:"");
+ $("dateCol").disabled=false;$("valueCol").disabled=false;
+ const ds=rows.map(r=>dateVal(dateCandidates.length?r[dateCandidates[0].i]:"")).filter(Boolean).sort((a,b)=>a-b);
+ $("firstDate").textContent=ds.length?fmtDate(ds[0]):"—";$("lastDate").textContent=ds.length?fmtDate(ds[ds.length-1]):"—";
+ $("tableTitle").textContent="· "+rows.length.toLocaleString("th-TH")+" แถว";renderTable();
+ if(!nums.length){$("chartEmpty").textContent="ไม่พบคอลัมน์ตัวเลขในชีตนี้ กราฟจะแสดงเมื่อมีข้อมูลตัวเลข";$("chartEmpty").style.display="block";$("statsChart").style.display="none";if(chart)chart.destroy();chart=null;}else{$("chartEmpty").textContent="";renderChart();}
+}
+async function loadData(){
+ const url=$("sheetUrl").value.trim(),tab=$("sheetTab").value.trim();if(!url){status("กรุณาวางลิงก์ Google Sheets ก่อนครับ","error");return;}
+ status("กำลังโหลดข้อมูลจาก Google Sheets…");$("loadBtn").disabled=true;
+ try{
+  localStorage.setItem("dailyStatsUrl",url);localStorage.setItem("dailyStatsTab",tab);
+  const csvUrl=parseSheetUrl(url,tab);const res=await fetch(csvUrl,{cache:"no-store"});if(!res.ok)throw Error("เปิดข้อมูลไม่ได้ (HTTP "+res.status+")");
+  const text=await res.text();if(/<!doctype html|<html/i.test(text.slice(0,300)))throw Error("Google ส่งหน้าเว็บกลับมาแทนข้อมูล กรุณาตรวจสอบสิทธิ์การแชร์ชีต");
+  const matrix=parseCSV(text);if(!matrix.length)throw Error("ไม่พบข้อมูล กรุณาตรวจสอบชื่อแท็บและสิทธิ์การเข้าถึง");
+  showData(matrix);status("โหลดสำเร็จ · อัปเดต "+new Date().toLocaleTimeString("th-TH"),"ok");
+ }catch(e){status("โหลดไม่สำเร็จ: "+e.message+". ตรวจสอบว่าแชร์ชีตเป็น Anyone with the link (Viewer) หรือเผยแพร่ชีตเป็น CSV แล้วลองอีกครั้ง","error");}
+ finally{$("loadBtn").disabled=false;}
+}
+renderPresets();
+$("loadBtn").addEventListener("click",loadData);$("reloadTop").addEventListener("click",loadData);
+$("clearBtn").addEventListener("click",()=>{localStorage.removeItem("dailyStatsUrl");localStorage.removeItem("dailyStatsTab");$("sheetUrl").value="";$("sheetTab").value="";status("ล้างค่าที่บันทึกไว้แล้ว");});
+$("dateCol").addEventListener("change",renderChart);$("valueCol").addEventListener("change",renderChart);
+const savedUrl=localStorage.getItem("dailyStatsUrl"),savedTab=localStorage.getItem("dailyStatsTab");
+$("sheetUrl").value=savedUrl||SOURCES[0].url;$("sheetTab").value=savedTab??SOURCES[0].tab;
+loadData();
+</script></body></html>
