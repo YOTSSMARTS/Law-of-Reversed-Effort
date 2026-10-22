@@ -37,8 +37,8 @@ footer{text-align:center;color:var(--muted);font-size:12px;padding:20px}
 <section class="panel"><h2>ภาพรวมข้อมูล</h2><div class="metrics">
 <div class="metric"><div class="label">จำนวนแถวข้อมูล</div><div id="rowCount" class="value">—</div></div>
 <div class="metric"><div class="label">จำนวนคอลัมน์</div><div id="colCount" class="value">—</div></div>
-<div class="metric"><div class="label">วันที่แรกในข้อมูล</div><div id="firstDate" class="value">—</div></div>
-<div class="metric"><div class="label">วันที่ล่าสุดในข้อมูล</div><div id="lastDate" class="value">—</div></div>
+<div class="metric"><div class="label">วันที่เก่าสุดในชีต</div><div id="firstDate" class="value">—</div></div>
+<div class="metric"><div class="label">วันที่ใหม่สุดในชีต</div><div id="lastDate" class="value">—</div></div>
 </div></section>
 <section class="panel"><h2>กราฟสถิติ</h2><div class="selectors">
 <div class="field"><label for="dateCol">คอลัมน์วันที่ (ถ้ามี)</label><select id="dateCol" disabled><option>รอข้อมูล</option></select></div>
@@ -117,7 +117,7 @@ async function loadData(){
   const csvUrl=parseSheetUrl(url,tab);const res=await fetch(csvUrl,{cache:"no-store"});if(!res.ok)throw Error("เปิดข้อมูลไม่ได้ (HTTP "+res.status+")");
   const text=await res.text();if(/<!doctype html|<html/i.test(text.slice(0,300)))throw Error("Google ส่งหน้าเว็บกลับมาแทนข้อมูล กรุณาตรวจสอบสิทธิ์การแชร์ชีต");
   const matrix=parseCSV(text);if(!matrix.length)throw Error("ไม่พบข้อมูล กรุณาตรวจสอบชื่อแท็บและสิทธิ์การเข้าถึง");
-  showData(matrix);status("โหลดสำเร็จ · อัปเดต "+new Date().toLocaleTimeString("th-TH"),"ok");
+  showData(matrix);status("โหลดสำเร็จ · ตรวจข้อมูลล่าสุดเมื่อ "+new Date().toLocaleTimeString("th-TH")+" · รีเฟรชอัตโนมัติทุก 60 วินาที","ok");
  }catch(e){status("โหลดไม่สำเร็จ: "+e.message+". ตรวจสอบว่าแชร์ชีตเป็น Anyone with the link (Viewer) หรือเผยแพร่ชีตเป็น CSV แล้วลองอีกครั้ง","error");}
  finally{$("loadBtn").disabled=false;}
 }
@@ -128,4 +128,6 @@ $("dateCol").addEventListener("change",renderChart);$("valueCol").addEventListen
 const savedUrl=localStorage.getItem("dailyStatsUrl"),savedTab=localStorage.getItem("dailyStatsTab");
 $("sheetUrl").value=savedUrl||SOURCES[0].url;$("sheetTab").value=savedTab??SOURCES[0].tab;
 loadData();
+// Refresh source data periodically so edits in the Google Sheet appear without a manual reload.
+setInterval(()=>{ if(document.visibilityState==="visible" && !$("loadBtn").disabled) loadData(); },60000);
 </script></body></html>
