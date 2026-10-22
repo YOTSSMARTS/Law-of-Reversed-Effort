@@ -22,6 +22,9 @@ table{border-collapse:collapse;width:100%;font-size:13px;white-space:nowrap}th,t
 .selectors{display:flex;gap:12px;flex-wrap:wrap;margin-bottom:14px}.selectors .field{min-width:190px;flex:1}
 footer{text-align:center;color:var(--muted);font-size:12px;padding:20px}
 @media(max-width:700px){main{padding:20px 12px}.fields{grid-template-columns:1fr}.metrics{grid-template-columns:repeat(2,minmax(0,1fr))}.panel{padding:15px}.chart-wrap{height:280px}}
+
+.daily-tables{display:grid;grid-template-columns:1fr;gap:16px}.daily-card{border:1px solid var(--line);border-radius:14px;overflow:hidden;background:#0e1729}.daily-card-head{display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap;padding:14px 16px;background:#202d47;border-bottom:1px solid var(--line)}.daily-card-head h3{margin:0;font-size:17px}.daily-badge{border:1px solid #47659a;background:#20365e;border-radius:999px;padding:4px 9px;font-size:12px;color:#dbe5ff}.daily-card .table-wrap{max-height:none;border:0;border-radius:0}.daily-card table{min-width:520px}.daily-card th{position:static}.daily-card tfoot td{font-weight:800;background:#17243b}.daily-empty{padding:18px;color:var(--muted)}@media(min-width:900px){.daily-tables{grid-template-columns:repeat(2,minmax(0,1fr))}}
+
 </style>
 </head>
 <body><main>
@@ -35,6 +38,7 @@ footer{text-align:center;color:var(--muted);font-size:12px;padding:20px}
 <div class="actions"><button class="primary" id="loadBtn">แสดงสถิติจากชีตนี้</button><button id="clearBtn">ล้างค่าที่บันทึกไว้</button></div>
 <p class="hint">ตั้งค่าแหล่งข้อมูลจะถูกบันทึกไว้ในเบราว์เซอร์นี้เท่านั้น ชีตต้องเปิดให้ดูได้ด้วยลิงก์ หรือเผยแพร่เป็น CSV จึงจะโหลดข้อมูลได้</p><div id="status" class="status" role="status"></div>
 </section>
+<section class="panel" id="lunchDailySection"><h2>ตารางสถิติอาหารกลางวันรายวัน</h2><p class="hint">ระบบจะแยกข้อมูลตามหัวข้อ “สถิติอาหารกลางวัน วันที่ …” และแสดง ชั้น · จำนวนนักเรียน · ครูแจ้ง · เบิกเพิ่ม จากแต่ละวัน</p><div id="dailyTableStatus" class="status">รอโหลดข้อมูลจาก Google Sheets</div><div id="dailyTables" class="daily-tables"></div></section>
 <section class="panel"><h2>ภาพรวมข้อมูล</h2><div class="metrics">
 <div class="metric"><div class="label">จำนวนแถวข้อมูล</div><div id="rowCount" class="value">—</div></div>
 <div class="metric"><div class="label">จำนวนคอลัมน์</div><div id="colCount" class="value">—</div></div>
@@ -117,6 +121,61 @@ function updateShareCard(){
  const box=$("dailyBreakdown");
  if(box){box.innerHTML="";const list=[...dayMap.values()].sort((a,b)=>b.date-a.date).slice(0,12);list.forEach(item=>{const tile=document.createElement("div");tile.className="daily-tile";const date=document.createElement("div");date.className="daily-tile-date";date.textContent=fmtDate(item.date);const value=document.createElement("div");value.className="daily-tile-value";value.textContent=item.total.toLocaleString("th-TH",{maximumFractionDigits:2});const note=document.createElement("div");note.className="daily-tile-note";note.textContent=item.count.toLocaleString("th-TH")+" รายการ";tile.appendChild(date);tile.appendChild(value);tile.appendChild(note);box.appendChild(tile);});if(!list.length){const note=document.createElement("div");note.textContent="เลือกคอลัมน์วันที่จริงเพื่อแสดงยอดแยกแต่ละวัน";note.style.gridColumn="1/-1";box.appendChild(note);}}
 }
+
+function renderDailyLunch(matrix){
+ const host=$("dailyTables"),msg=$("dailyTableStatus");if(!host||!msg)return;
+ host.innerHTML="";
+ const titles=[];
+ matrix.forEach((row,ri)=>row.forEach((cell,ci)=>{
+  const s=String(cell??"").replace(/\s+/g," ").trim();
+  if(/สถิติอาหารกลางวัน\s*วันที่/.test(s))titles.push({row:ri,col:ci,title:s});
+ }));
+ if(!titles.length){msg.textContent="ไม่พบหัวข้อ “สถิติอาหารกลางวัน วันที่ …” ในข้อมูลที่โหลดได้ กรุณาตรวจสอบแท็บหรือสิทธิ์แชร์ Google Sheets";msg.className="status";return;}
+ let made=0;
+ titles.forEach((t,ti)=>{
+  const nextSameRow=titles.filter(x=>x.row===t.row&&x.col>t.col).sort((a,b)=>a.col-b.col)[0];
+  const nextRowTitle=titles.filter(x=>x.row>t.row).sort((a,b)=>a.row-b.row)[0];
+  const endCol=nextSameRow?nextSameRow.col:Math.min(Math.max(...matrix.map(r=>r.length)),t.col+10);
+  const endRow=nextRowTitle?nextRowTitle.row:matrix.length;
+  let headerRow=-1,starts=[];
+  for(let ri=t.row+1;ri<Math.min(endRow,t.row+8);ri++){
+   const row=matrix[ri]||[];
+   const hits=[];
+   for(let ci=t.col;ci<endCol;ci++)if(String(row[ci]??"").trim()==="ชั้น")hits.push(ci);
+   if(hits.length){headerRow=ri;starts.push(...hits);break;}
+  }
+  if(headerRow<0)return;
+  const blocks=starts.filter(s=>s+1<endCol);
+  const records=[];
+  for(let ri=headerRow+1;ri<endRow;ri++){
+   const row=matrix[ri]||[];
+   if(row.some(v=>/สถิติอาหารกลางวัน\s*วันที่/.test(String(v??""))))break;
+   blocks.forEach(start=>{
+    const cls=String(row[start]??"").trim();
+    if(!cls)return;
+    const count=String(row[start+1]??"").trim();
+    const teacher=String(row[start+2]??"").trim();
+    const extra=String(row[start+3]??"").trim();
+    if(!count&&!teacher&&!extra&&!/^(อ\.|ป\.|รวม|ยอด)/.test(cls))return;
+    records.push({cls,count,teacher,extra});
+   });
+  }
+  if(!records.length)return;
+  const card=document.createElement("article");card.className="daily-card";
+  const head=document.createElement("div");head.className="daily-card-head";
+  const h=document.createElement("h3");h.textContent=t.title;head.appendChild(h);
+  const badge=document.createElement("span");badge.className="daily-badge";badge.textContent=records.length+" รายการ";head.appendChild(badge);card.appendChild(head);
+  const wrap=document.createElement("div");wrap.className="table-wrap";
+  const table=document.createElement("table");
+  table.innerHTML="<thead><tr><th>ชั้น</th><th>จำนวนนักเรียน</th><th>ครูแจ้ง</th><th>เบิกเพิ่ม</th></tr></thead>";
+  const body=document.createElement("tbody");
+  records.forEach(rec=>{const tr=document.createElement("tr");[rec.cls,rec.count,rec.teacher||"—",rec.extra||"—"].forEach((v,i)=>{const td=document.createElement("td");td.textContent=v; if(i>0&&/^\d/.test(v))td.style.textAlign="right";tr.appendChild(td);});if(/^(รวม|ยอด)/.test(rec.cls))tr.style.fontWeight="800";body.appendChild(tr);});
+  table.appendChild(body);wrap.appendChild(table);card.appendChild(wrap);host.appendChild(card);made++;
+ });
+ msg.textContent=made?("แสดงตารางรายวันได้ "+made+" วัน · ข้อมูลอ้างอิงจากชีตที่เลือก"): "พบหัวข้อวันที่ แต่ไม่พบแถวตารางที่อ่านได้ กรุณาตรวจรูปแบบข้อมูลในชีต";
+ msg.className=made?"status ok":"status error";
+}
+
 function showData(matrix){
  if(matrix.length<1)throw Error("ไม่พบข้อมูลในชีตนี้");
  headers=matrix[0].map((h,i)=>String(h||"คอลัมน์ "+(i+1)).trim());rows=matrix.slice(1).filter(r=>r.some(v=>String(v??"").trim()!=="")).map(r=>headers.map((_,i)=>r[i]??""));
@@ -141,7 +200,7 @@ async function loadData(){
   const csvUrl=parseSheetUrl(url,tab);const res=await fetch(csvUrl,{cache:"no-store"});if(!res.ok)throw Error("เปิดข้อมูลไม่ได้ (HTTP "+res.status+")");
   const text=await res.text();if(/<!doctype html|<html/i.test(text.slice(0,300)))throw Error("Google ส่งหน้าเว็บกลับมาแทนข้อมูล กรุณาตรวจสอบสิทธิ์การแชร์ชีต");
   const matrix=parseCSV(text);if(!matrix.length)throw Error("ไม่พบข้อมูล กรุณาตรวจสอบชื่อแท็บและสิทธิ์การเข้าถึง");
-  showData(matrix);status("โหลดสำเร็จ · ตรวจข้อมูลล่าสุดเมื่อ "+new Date().toLocaleTimeString("th-TH")+" · รีเฟรชอัตโนมัติทุก 60 วินาที","ok");
+  renderDailyLunch(matrix);showData(matrix);status("โหลดสำเร็จ · ตรวจข้อมูลล่าสุดเมื่อ "+new Date().toLocaleTimeString("th-TH")+" · รีเฟรชอัตโนมัติทุก 60 วินาที","ok");
  }catch(e){status("โหลดไม่สำเร็จ: "+e.message+". ตรวจสอบว่าแชร์ชีตเป็น Anyone with the link (Viewer) หรือเผยแพร่ชีตเป็น CSV แล้วลองอีกครั้ง","error");}
  finally{$("loadBtn").disabled=false;}
 }
