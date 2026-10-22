@@ -16,7 +16,7 @@ button{cursor:pointer;border:1px solid #3b4b6c;background:#202e49;color:var(--te
 button:hover{border-color:var(--accent);transform:translateY(-1px)}button.primary{background:#6c86f7;border-color:#6c86f7;color:#fff;font-weight:650}
 .fields{display:grid;grid-template-columns:2fr 1fr;gap:12px}.field label{display:block;color:var(--muted);font-size:13px;margin-bottom:6px}.field input,.field select{width:100%;padding:12px;border-radius:10px;border:1px solid #34435f;background:#0d1527;color:var(--text);font:inherit;min-width:0}
 .actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:14px}.hint{font-size:13px;color:var(--muted);margin:12px 0 0}.status{margin-top:12px;color:var(--muted);min-height:24px}.status.error{color:var(--red)}.status.ok{color:var(--green)}
-.metrics{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}.metric{padding:18px;border-radius:14px;background:#0e1729;border:1px solid var(--line);min-width:0}.metric .label{font-size:13px;color:var(--muted)}.metric .value{font-size:clamp(22px,3vw,30px);font-weight:750;overflow-wrap:anywhere;margin-top:4px}.chart-wrap{height:330px;position:relative}.table-wrap{overflow:auto;max-height:560px;border:1px solid var(--line);border-radius:12px}
+.metrics{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:12px}.metric{padding:18px;border-radius:14px;background:#0e1729;border:1px solid var(--line);min-width:0}.metric .label{font-size:13px;color:var(--muted)}.metric .value{font-size:clamp(22px,3vw,30px);font-weight:750;overflow-wrap:anywhere;margin-top:4px}.chart-wrap{height:330px;position:relative}.table-wrap{overflow:auto;max-height:560px;border:1px solid var(--line);border-radius:12px}
 table{border-collapse:collapse;width:100%;font-size:13px;white-space:nowrap}th,td{padding:11px 13px;border-bottom:1px solid var(--line);text-align:left}th{position:sticky;top:0;background:#202d47;color:#dbe5ff;z-index:1}tbody tr:hover{background:#ffffff08}.empty{padding:28px;text-align:center;color:var(--muted)}
 .selectors{display:flex;gap:12px;flex-wrap:wrap;margin-bottom:14px}.selectors .field{min-width:190px;flex:1}
 footer{text-align:center;color:var(--muted);font-size:12px;padding:20px}
@@ -38,7 +38,7 @@ footer{text-align:center;color:var(--muted);font-size:12px;padding:20px}
 <div class="metric"><div class="label">จำนวนแถวข้อมูล</div><div id="rowCount" class="value">—</div></div>
 <div class="metric"><div class="label">จำนวนคอลัมน์</div><div id="colCount" class="value">—</div></div>
 <div class="metric"><div class="label">วันที่เก่าสุดในชีต</div><div id="firstDate" class="value">—</div></div>
-<div class="metric"><div class="label">วันที่ใหม่สุดในชีต</div><div id="lastDate" class="value">—</div></div>
+<div class="metric"><div class="label">วันที่ใหม่สุดในชีต</div><div id="lastDate" class="value">—</div></div>\n<div class="metric"><div class="label">วันที่ปัจจุบัน (ค.ศ.)</div><div id="todayDate" class="value">—</div></div>
 </div></section>
 <section class="panel"><h2>กราฟสถิติ</h2><div class="selectors">
 <div class="field"><label for="dateCol">คอลัมน์วันที่ (ถ้ามี)</label><select id="dateCol" disabled><option>รอข้อมูล</option></select></div>
@@ -76,7 +76,7 @@ function parseCSV(text){
 }
 function num(v){if(v===null||v===undefined)return NaN;const s=String(v).trim().replace(/,/g,"").replace(/[฿%]/g,"");if(!s||s==="-"||s==="—")return NaN;return Number(s);}
 function dateVal(v){if(!v)return null;let s=String(v).trim();let m=s.match(/^(\d{1,2})[/-](\d{1,2})[/-](\d{2,4})$/);if(m){let a=+m[1],b=+m[2],y=+m[3];if(y>2400)y-=543;if(y<100)y+=2000;return new Date(y,b-1,a);}let d=new Date(s);return isNaN(d)?null:d;}
-function fmtDate(d){if(!d)return"—";return new Intl.DateTimeFormat("th-TH",{day:"numeric",month:"short",year:"numeric"}).format(d);}
+function fmtDate(d){if(!d)return"—";return new Intl.DateTimeFormat("th-TH-u-ca-gregory",{calendar:"gregory",day:"numeric",month:"short",year:"numeric"}).format(d);}\nfunction updateToday(){ $("todayDate").textContent=fmtDate(new Date()); }
 function populateSelect(el,opts,chosen){el.innerHTML="";opts.forEach(o=>{const x=document.createElement("option");x.value=o.value;x.textContent=o.label;el.appendChild(x);});if(chosen&&opts.some(o=>o.value===chosen))el.value=chosen;}
 function renderTable(){
  const wrap=$("tableWrap");wrap.innerHTML="";const table=document.createElement("table"),thead=document.createElement("thead"),tr=document.createElement("tr");
