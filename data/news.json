@@ -1,7 +1,588 @@
 {
-  "updatedAt": "2026-11-10T15:40:43.068691+00:00",
+  "updatedAt": "2026-11-10T21:25:55.347825+00:00",
   "articleCount": 250,
   "articles": [
+    {
+      "title": "ข่าวฉาวเปิดแผล Nvidia ‘วิกฤติไร้ทายาทซีอีโอ’ หากไร้เจนเซน หวง บริษัทจะไปต่อยังไง? - bangkokbiznews",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tQkg2UlVEdlpCXzhJZ1VlQ25RZzhKZml3dXU5MWZhbUg4UlNTV0VHOUtmUng4VVpxcGNWemo0SWpmeFNkcnJmZFkzdmtBT3NpS180amRnbW5MQ3ZQVDlRamh4RjI?oc=5",
+      "published": "2026-11-10T21:16:59+00:00",
+      "source": "bangkokbiznews",
+      "category": "ธุรกิจ"
+    },
+    {
+      "title": "UNH Manchester Earns Top Regional College Rankings from U.S. News & World Report - University of New Hampshire",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQTZEaGpoOXhyRXRoMWRsbmREc3U2MjR5N21fbnM1VHFVcjI3ZG9sNEFHOTMtSURpY3Z6eFlDUmNKZm5Iakw1dTNqQTAxZW1lNzVlaVI1TThaMzMzbGxma3AzUHA3QnIyZ1BZNVljaURoMUxZa0R0T1JxcTloVWp4eE1NRmpCMEJ1cGVXQ2xhcDhWN2hvNExCaFFWY0c?oc=5",
+      "published": "2026-11-10T21:05:15+00:00",
+      "source": "University of New Hampshire",
+      "category": "โลก"
+    },
+    {
+      "title": "4 grizzly bears linked by DNA to deadly attack on mother and daughter in Canada - Audacy",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVUFnX3FXNHpkaHRiamEtVGdmUFJMb3pCc2J5WWlWYUZfQnBMWmFJaTlGNG96QXNyOFRUMlV3M3BXTXFqZGNyV2pWLVdreV9HblIxZURydTlMU3NtUjZJNWY5RFdnZUZBclVjUHV2THZnUkE3ajh4dDhRZDZGX01hQi1wTEdTVl9NQVpJd2tyNHVMZFBJOTRDcGd2cEFVb1dZbU00UHc1V3docnl5MzY4MG95bkk1NXZKWHNEZkxOQ1BISXdw?oc=5",
+      "published": "2026-11-10T21:01:00+00:00",
+      "source": "Audacy",
+      "category": "โลก"
+    },
+    {
+      "title": "Alleged espionage scandal and affair rocks Jensen Huang's world: What to know about the Nvidia CEO - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaHNDRE9PamxiQ2xoYlRjX3ZlUGtmOUQ3c0I1UWlOeElVWFZPWG9Vak1fQUhCcHRHcDlLT3VDdmQ3RUNrc25qWDZ4ODRKOUJUeU1ZSHRJUVBKdU4tZmM3aVdEVjlsZ1pwMjhPUXIxQUR4TnJLcFo3VmtFR3VVWGx2VVlINXBHcFFoVWNJLURGOFVnVEs4MVBka0xFX0pmTW94Um1qNWNmZFRjQdIBrwFBVV95cUxNclo3RkY1Q1luVVdPN1VuQ1NyZTdkZzQ2bElvRHlKajQwY1BpS3Npa2FpQmFtYW1pZjJvTUVjSHpQa1ZxaGp1NE1YTkJDclBvejhpN291VzhRanVMbTRfQUNhQVFxbTM3cUVBdF9kUUxmcHJ2MmRPandDYVlkRkNmUkx6UEtyWS01dWNXYnhHZkY4MlhSbkxLeGk5c2JZU1V2XzdKcXhSY1pzOVQ1cjNN?oc=5",
+      "published": "2026-11-10T20:57:58+00:00",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "category": "โลก"
+    },
+    {
+      "title": "'เอไอ' ดิสรัปต์แรงงานกระทบ 1 ใน 4 จี้มนุษย์เงินเดือน-เถ้าแก่ เร่งปรับตัว - bangkokbiznews",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lYVN6LTBfVGVtN0dWTzBaVk1mTWpSbkF6ZU1ud2RaRVFmeDB2dmNGWWJObEJYMFZKMFR5VEctQlFzNEF1bkQ0M25CVGozaXowbllTa1IwdWltSEww?oc=5",
+      "published": "2026-11-10T20:47:14+00:00",
+      "source": "bangkokbiznews",
+      "category": "เทคโนโลยี"
+    },
+    {
+      "title": "Mauricio Pochettino would consider Manchester United job if Michael Carrick is sacked - Paper Talk | Football News - Sky Sports",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcmRUUUtDRzcwbmpQMFc3M3l6RmpQTjlrMkNzbVRzd0V2UXAyQVRWdGdmWTlzLXZHb0cwZE9CNkZ2RzlhMjdaQWJsSFJQOTNrNUs3bkNaLWd2blVPV1ZXVC11RXNMWTk3THdXRGFwdWh1dzRMajdFUVhRZWNGU0d1dHhsQUl2Ul9vMnZkU0tTbEt3d2N2MlQtVnJNYUdIQWktZnRGSWJDVE45M2k2SWJnOGVkZHY3YnozU3hYUzJfallIOFI1cHhReFhWUWlIWGxGNF8tUWlVVndKUmdRTkE?oc=5",
+      "published": "2026-11-10T20:43:39+00:00",
+      "source": "Sky Sports",
+      "category": "โลก"
+    },
+    {
+      "title": "Spain holds state funeral for 69 killed in high-speed rail crash - Audacy",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcFgwa2R5WlZzQmc2WEs2OERqanNxZElyTU80dFJQb1BUdko3NVpVbHNHZmhzbHRJWWVIQllDM3lPNHBFZUF2b3R1cS1uRGozRHdWMmx4cTFwOGdZdTEzb0RoeWc3NDM1bV96aXh3UENRSjQ4T3NEY1dQYmJaNW5sOVRXOXlDSVpUTWZOcTBkVld5Q3lPVlpDeGk2ekhqUDlpVDViVXA0SDVSRzZu?oc=5",
+      "published": "2026-11-10T20:31:00+00:00",
+      "source": "Audacy",
+      "category": "โลก"
+    },
+    {
+      "title": "Alex Ovechkin suggests fans want Russian players at World Juniors - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55bEJuZlhSc2lhX3lNNVZpd0N3Snctak5ZSnZtTmJTa0tCYS14V2YzVUgwT3VPaHN6dElEejdTMEY2ZFBvdkpLbl9pQUFiZGZKQTdGbkxXN3B0QQ?oc=5",
+      "published": "2026-11-10T20:22:53+00:00",
+      "source": "CBC",
+      "category": "โลก"
+    },
+    {
+      "title": "Meta เปิดตัว Muse Ember ขับเคลื่อนเอเจนต์ AI ประหยัดต้นทุน - TechTalkThai",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbGppSHcxYk1ZeTJrX2U1YTRxemN5R2pzWDlLdDdjM2g0dXo2TzdJc1RXZ2RwY1pja2U5a0dPdFJMZDY1aGZOSy1XQ3NFM2dySWZHTDlsR1NOVXJzMUJScGJZc09xYnVTOXFzd19mWmdTbS1rMVh6Z01walNaNUt3bnlkM3FHY3hwM1B2SFhxajRjcXVw?oc=5",
+      "published": "2026-11-10T20:20:37+00:00",
+      "source": "TechTalkThai",
+      "category": "เทคโนโลยี"
+    },
+    {
+      "title": "ยืมมือ AI สู้ AI! ทรูเผยแฮกเกอร์รุกหนัก พบภัยไซเบอร์พุ่งเท่าตัว ชี้องค์กรไทยต้องเร่งรับมือ - bangkokbiznews",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81cTFyaUYxZHdfZDJQU0Z4NzF1eEJpRFl0ZVk1Z2k1YlloTnhpV3RDTFpwYjlfTjJjazVrYUhldl9YcVpTR1lVNWNPbDEyM1l5b1BoRG44VmE0QQ?oc=5",
+      "published": "2026-11-10T20:19:24+00:00",
+      "source": "bangkokbiznews",
+      "category": "เทคโนโลยี"
+    },
+    {
+      "title": "Thomas Markle, Meghan’s father, cut off his ankle monitor, DoJ says - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOODBNUlh1Z0JucHBpRmR1ZUhvYUhGd2RCcWRkZE9ZVUI5SENka204U1pBOGRMUmd0cUtPTEhwZFBMT0RuOTRZRHVVUl8xV0w5SjZrcDg2b3ZPX0lzT2w4c2lvYVo0NzR5NHFabjBmMFBlOElFTDlaOHlsdW42Tm9zcg?oc=5",
+      "published": "2026-11-10T20:11:00+00:00",
+      "source": "The Guardian",
+      "category": "โลก"
+    },
+    {
+      "title": "ShopeeVIP+ เพิ่ม YouTube Premium Lite เริ่ม 11 พ.ย. - Head Topics",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZcjVfZlVvZXFlXzVtcWFMdUhhVkJWTVRUaGl2Rl9lSzR2MTRLZTBKaTZKXy1aS1dub0dxTS02dTgwVjNwck1hMFI5YVJsVDdOV2xsSjMxMkczYnFuaThfczVoODNEemJqTGpZeg?oc=5",
+      "published": "2026-11-10T20:05:00+00:00",
+      "source": "Head Topics",
+      "category": "ไทย"
+    },
+    {
+      "title": "LUXEED Super Factory ใช้ AI Vision ตรวจคุณภาพ 32 ขั้นตอน - Head Topics",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4bHBoWmMzZzVjM01Bbk90YU5ac3lNNGJ0dFNaS3lvelBlS0FaSjN0a3RFWWdIckppUnFhbDRUMEtQSFloWjVLTGxmWVZaV2paZzFIcGlpeTZMMzVaSkZYWXUta3pZbWZ2cVAzUA?oc=5",
+      "published": "2026-11-10T20:05:00+00:00",
+      "source": "Head Topics",
+      "category": "ไทย"
+    },
+    {
+      "title": "Ovechkin responds to planned protest in Ottawa over his support for Putin - CBC",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZE16Zmd1T0s2cWZIbWlYa2pDOHlRQm5iU01icVZ5QWgtaldDTUNqdDJYNG1DY2tXc1Q2MTU1ZW1hZUFxcThyTGZQalZNbGFkbHE2VkU3VjlMR0dxTENzbTduWU42anMzcW02Q0NZUGZENVBEMDMydnRqQ0QzS21ncm92eU1YaE54alpURkk0bmFzUU5rTkN5NTJtb1VEMXNfR1RFZ2NPc1ZfMzBPMkhMZVZLS2dhQVRGMTVNcEt3?oc=5",
+      "published": "2026-11-10T20:00:10+00:00",
+      "source": "CBC",
+      "category": "โลก"
+    },
+    {
+      "title": "Cervical cancer - World Health Organization (WHO)",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YbGwxRnppT1RaNDdubnJjdHVudGV4b0tQMTRYQzF4VkhEbldzZTMzY0U1YTRQdWg1V1F3UVdZd1g5OXd4TXBzUndMZ19lRDlqTV9NQmtUVDRjaFJfcERtN1Eyb212bFh6S1JvRWtYQ250QQ?oc=5",
+      "published": "2026-11-10T19:56:10+00:00",
+      "source": "World Health Organization (WHO)",
+      "category": "โลก"
+    },
+    {
+      "title": "Gilded statue in DC mocks Trump for ‘dodging’ Vietnam war draft over bone spurs - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV2Z5UW1qRW05dlpaLTlsUm9xN1czUTBuLU1wanQ1ZElXRkJWMXFKN09sTm00dTVtTHBGUW1ncXVGT1d0THc2SnJDWE5zUFRZNWtEeGFVQmJzMnd4UmRtQWxnUkkyaGFsUVUtcGQ0WmxlUlpkRHBKTUZXWThwZ2JBMzVIVlp2X1dkTi1wck5R?oc=5",
+      "published": "2026-11-10T19:54:00+00:00",
+      "source": "The Guardian",
+      "category": "โลก"
+    },
+    {
+      "title": "มหิดลขยายการใช้งาน ChatGPT Edu ทุกวิทยาเขต มุ่งพัฒนาคนรุ่นใหม่ให้ใช้เอไอเป็น - bangkokbiznews",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TUjQwN29aMFAwSlIxa2xfWXVaU1g2QWdsYjFMWU5wRUgzdlpNMHRtbjR5eUp0aTVzTGJNaDJDbWctdXhVNTBVQzAtQ2lsb09kbm9Bcng4S3FUZw?oc=5",
+      "published": "2026-11-10T19:47:57+00:00",
+      "source": "bangkokbiznews",
+      "category": "เทคโนโลยี"
+    },
+    {
+      "title": "Fifty-Eight PACS Post-Acute Locations Named Top Nursing Homes for 2027 by U.S. News & World Report - Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOV2l2X3RYdkd0VDBiWGlBVW5WNDh6RXpEVHpMZW1JRlhBcW5OR1ZLSVY1dzZpNTc4cWRPMTRsU0EyeVJjMnRXNk5FUlh0ZV8yZnV4VEJlOENjSXVtWmsyNFlmTDB4TU1lTGRLeGNyRjdDTFhpNFFFVm5ISURNR1FZZTlPUGVWQlAyOG9uRmRpRl91YkYxN0FFZ016djhLSlEtcVpvQUV4RENLM1hoUVloSGRyYW1uYlhLaVZyc0cwXzNCdG9lWkpOZGpJVHlrVGtqb1BoclZWOGplbDRkSnktZnh4OEtmc2Jo?oc=5",
+      "published": "2026-11-10T19:45:00+00:00",
+      "source": "Business Wire",
+      "category": "โลก"
+    },
+    {
+      "title": "Retired ocean liner to become largest artificial reef in the world - Northeastern Global News",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0ya0NxNmpPS0lYUnQyRV8xdFZScXhyRmJrZk53aVFfa3dPZGY0cE1Pb0pJWXYyaGpQMXZIbWdWSTlrc1ZrXzFYUzVvUU1iOWQ3cmJDZTlvdjNQWVEzeVh3aHM2YlJ5M3BUQ3VYcEh0NDZxOGxJUkFoblRmalBRV2s?oc=5",
+      "published": "2026-11-10T19:42:25+00:00",
+      "source": "Northeastern Global News",
+      "category": "โลก"
+    },
+    {
+      "title": "แวดวงการเงิน : 11 พฤศจิกายน 2569 - แนวหน้า",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9aV1U5QWpjSGdMdmxaZTJpX294a2E5aXJybkNaZjNCeHVKV1VaUzdNMDVxckhnZzZRY0t1R0VqYXlYSTJjc21IOFJfazNNTF95QmxqT2hCaDFJY1l3SkdQT3NpVnBXbjVqaXNOeVVwbmYwZw?oc=5",
+      "published": "2026-11-10T19:40:05+00:00",
+      "source": "แนวหน้า",
+      "category": "เศรษฐกิจ"
+    },
+    {
+      "title": "รพ. ถูกน้ำท่วมเปิดให้บริการครบแล้ว 100% จ่อเปิดตัวคู่มือรับมือภัยพิบัติ 11 พ.ย. - TNN Thailand",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXa3JGbE1oMEtJSWR4dUNYNENyMkx1N0VjTTJjY2d6QWpmOTNUMHNHM1llX25ldUVRNk9lelNHX2JsVThfQW1ZQXBlV0FVRWtpWDI0VA?oc=5",
+      "published": "2026-11-10T19:39:16+00:00",
+      "source": "TNN Thailand",
+      "category": "สภาพอากาศ"
+    },
+    {
+      "title": "Strangers trade punches and chase thrills at Colombia’s pop-up fights - KSAT",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYTRkaWFCanF6VEVCYjBPeVJRTFhKaGlGMDFwbUFBRWtfdzhkQWhzcXNDbm1rQnI0bWhCelVtZUFBRHk0SjZCU09NNlNidWNNb2txVU1fRWlhZUU5aDZIQ2RzR3JocENRN19pVnM4SDhzVjFVWGZsN2o4S2dJYXdtOXZGUGpkZGcwSElicXV3R1NLQzJuTmthR0dBMzM0b0wtQXg1N3dHdnlqeFBvMGxzRGtB?oc=5",
+      "published": "2026-11-10T19:32:43+00:00",
+      "source": "KSAT",
+      "category": "โลก"
+    },
+    {
+      "title": "'His last World Cup and not last match' - Virat Kohli won't retire after 2027 ODI World Cup, claims childhood coach Rajkumar Sharma - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBKTXdvbEJKWGZySTlfdU8tcnA0TC1zcjB4M1pVZE9NTC1OYkM5czhwcXpLOG1jVGVBRkltYnFoWk9peDFEQ09Ua2VPbUVzTWNKMHRhaW1qRHJKTU0yVUlCQmEyYzRlMW94eTJrSFNDVVNta1lkWTFGV01iUW8?oc=5",
+      "published": "2026-11-10T19:26:01+00:00",
+      "source": "Yahoo Sports",
+      "category": "โลก"
+    },
+    {
+      "title": "Owning big cats is perfectly legal in much of Ontario. How many there are is a mystery - CBC",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DYUZXTnZkbTFVcmdUWldwU0RVRFY4dkdydmxVdExoSVVfdUlLaEdxVnNqeU1NRTJoOTdxLWc5bWhHbnhRNUJ2a1VEWHNuMGtCeHk5SW1lMW9FZ1BHSGlHd000Z1lHODZESkplYnJkTHpZWUJIOTRKQTZDUWw?oc=5",
+      "published": "2026-11-10T19:15:02+00:00",
+      "source": "CBC",
+      "category": "โลก"
+    },
+    {
+      "title": "Five WVU Medicine skilled nursing facilities recognized by U.S. News & World Report - WVU Medicine",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZlBvTzcxMjRGSExmV3UwcHIwblIwNTRSQjBJeDJ6eFR5NGtWYUpaVnQ4d1JrckxjOVRZZTZua0VWY1dKTmNCWnRxcjdLWGEwYzMxZ25UeGlZSG9GODFXckFwNVBHTUJTQmhrd1BRY3NnMmhod2psdWswVi1VRjVMSElROEZuZXRTRHp2a1VWN3JFVVkwR3lGcVJrTkpSNDFNWVdSS0JqMjZnMzdqbTM5c2tqSmdidGRDVUdaeWtqX2pHLS0ya3RadENYTy1uN05YQ1R0U3NBQTNmZkk?oc=5",
+      "published": "2026-11-10T19:14:29+00:00",
+      "source": "WVU Medicine",
+      "category": "โลก"
+    },
+    {
+      "title": "England’s 1966 World Cup winner’s medal to fetch $400,000 at auction - Nonstop Local News",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTlVxX2x1ejdDSmZZWDZUY0E0M2RReTIzYXotaEtCTGZ1S3l3c1BHSVo3akFsZ1FPd3NIbFM5OTktT1N5M0ctdmJId2IteE1sZzZWSnVVZGNTTVliVl9wLXVvQ1p5Tldadk1HYWJwYXR5QnpnOXk1eEs3NzluUWtLeFJtczJjMHBKUzJTREwxaFl4OVA0eE9TbUlsd1ZjNlczc0V6T3BSZEpKZDlrQzl3c0hvcmdOUVU3Q3RyaUdUd3ppTFpGTUFNTEtZUVdvOXlZV2Q2QzlPOThYTll1YnR6UjdqYjNVcEw4dWRDR09Ma3BDcG8?oc=5",
+      "published": "2026-11-10T19:09:58+00:00",
+      "source": "Nonstop Local News",
+      "category": "โลก"
+    },
+    {
+      "title": "น้ำท่วมล้อมรอบบ้านเรือนของพวกเขา บังคับให้ผู้อยู่อาศัยต้องปีนขึ้นไปบนห้องใต้หลังคาเพื่อหนีน้ำที่เพิ่มสูงขึ้น - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcnUtTmVIXzNja2MzM1dQUHN2Z1drOU5ab0hIZkdzbGd6RkxTYjB4NjFiUjVGZWg1YTVtVlJtRHpIang2YWFubE15RXZRMExsa1R0b2prZjBjZ0F5V1FvVEVNTkVPTm5UanpkanAwU3VCbndTYTg1d3JoVmlDYjBnTnZ1SkY?oc=5",
+      "published": "2026-11-10T19:07:34+00:00",
+      "source": "Vietnam.vn",
+      "category": "สภาพอากาศ"
+    },
+    {
+      "title": "ชีพจรโลกธุรกิจ : 11 พฤศจิกายน 2569 - แนวหน้า",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPNGJRX3puLUZsT2lZenNrXzZGTW1wOUtwWC15TVBrZmN3VGNEYnpEaExYenFLYTdBQm1UV2liVkJEYmNRZmZMSExUVzZ1WGRobDdZZTFDd2V0b2M?oc=5",
+      "published": "2026-11-10T19:04:35+00:00",
+      "source": "แนวหน้า",
+      "category": "ธุรกิจ"
+    },
+    {
+      "title": "Australia considers world-first criminal charges for AI companies that fail to prevent harm - ABC News & Headlines – Australian Broadcasting Corporation",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTkh6Q3VRSTNBUHZIX0tORThaOENtWjdxby1tdXAzSnZQb1pXbU8weThqdk43TGlSYW5EY29jaWpZREwyRk54cEc5Q0w3NEtWaVhPTFdDMUs5djdqUXdOT2VIUmdCUG83a3I0Y25iSnFtdnRfN0hjS21tUHdYTnZCRmdPeVZqRk45dng1YXh5dGJDSFcwUzdvV1NodWVkWFE1cXhpaQ?oc=5",
+      "published": "2026-11-10T19:01:25+00:00",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "category": "โลก"
+    },
+    {
+      "title": "เนื่องจากทราบว่าอ่างเก็บน้ำหลายแห่งจะปล่อยน้ำในวันพรุ่งนี้ ชาวเมืองญาตรังจึงนำรถยนต์ของตนขึ้นไปบนสะพานในคืนนี้เพื่อหลีกเลี่ยงน้ำท่วม - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYTBHVlBYdGJReWxYM3ljOTlqMTJ6eGUtWHN6QlUzdFRKOEdOSThjYWVwUU5SWVlVUkMwNFc1aE83NTR0Q08ycWdSbTdBay1Nd0N0NUp1cTdQZFVzSVdwMzFUY192cEYzendzeE9CU2RsajZNMjhzVTYwWGgwVUxyb1E3Z1QxWTJsNkFhMkVRWURaSlBheG1PbVZsamRrUFRXTHo2ZEpMRWJjR3lrbGF6Zw?oc=5",
+      "published": "2026-11-10T18:55:30+00:00",
+      "source": "Vietnam.vn",
+      "category": "สภาพอากาศ"
+    },
+    {
+      "title": "U.S. stocks fall after a discouraging update on inflation - BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNDB1OUxfdVFDWXdiQjJ0SDZYU0E2QnVhNmhfZVZiTGdLYkZaN3ZFdTBwN3RaX3pnMWNhSTdHRUFjSURaalMwdnVwWkl5X1VMZ255NWxtbzBSYW5fS2IzVkNOS2RWdW8tUXlEVks0b0J0N3FTa3U2LTlzN19KNmJ2R1hlTm5ZSGRjdG92cHdOOVFLTFM5QVdMZDVzclBqMGdUcXl5NTJKYnVIY0cwMkhxYW9TcEY3N3NCS3BCMFdMU0hiUWs?oc=5",
+      "published": "2026-11-10T18:54:14+00:00",
+      "source": "BNN Bloomberg",
+      "category": "โลก"
+    },
+    {
+      "title": "COP31: Why air quality is key to climate health - IQAir",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMUlWdlIta2pCWktHYW5Pa2xXZWExZFAzbEEzWTZOZ3p1R1JjeGI3dVBLbmttWjdKTEN6VHJTaVViS3JINFJFMEtJR3l6TVRVZXBtbVUwQ08ydnJxNGdwNURLTGUwdUdTa0ozX2M2MlpXRTBqSFBUS28zYVNWWWdROHl3NA?oc=5",
+      "published": "2026-11-10T18:51:51+00:00",
+      "source": "IQAir",
+      "category": "โลก"
+    },
+    {
+      "title": "Woman celebrates 100th birthday with Nashville Zoo zipline - Channel 3000",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQmVlY2lDVU1XaG9IWV9ubC1vWDExYnFEbnRRQ0xlRkJpTGJPbUlvcFlDb3YyMkRBTVFGSHBVdWlhOWZuYlpfZ1FYR1lVUTBTWWpmdzlEaGR3d0dxRHVNWUdnTVdGMlRzbnZiSW1mNTZvM25tdHh0M0RFXzRMT0VURXJfRmFPUE9WVU8xUUgwZWw2SGx6SWQ3N0U5S1A0MGhMeFYwM1VkUUd0UDgzUUVyLUdWb0N0YmR3eDFnN1h4M08zcENRVGFWbktTNDJBdU5IR0c2MllYdDBqZTg2N0s2TzNETHJhVEVNYS0zZnN1LWhzMWlUMnhpWA?oc=5",
+      "published": "2026-11-10T18:51:31+00:00",
+      "source": "Channel 3000",
+      "category": "โลก"
+    },
+    {
+      "title": "NYT: Trump wished Biden well in newly disclosed 2021 letter - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZUFqSDdxdnVBMmwwRjlfMW54RnV4MmFmVzA0RUxoa1F4WTE2MzJveVVKQUtnYnhJUDhNeUZsck5XWFgzdXhxeXhtYjhRRXJpR1BQcXNOU1B5NXFtb0owSnY1RnhRYlNqX1lKdW9iUS1ELWFjaWo0RmU2RGpkVlN5TE9fckg0emtTemFMdW13ME9Sbk9TVFhESzVYMUk?oc=5",
+      "published": "2026-11-10T18:42:47+00:00",
+      "source": "CTV News",
+      "category": "โลก"
+    },
+    {
+      "title": "The best nursing homes in SC for 2027, from US News & World Report - The State",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwM2RyeXhKZmhxNXNndlJWbHRSelkxZ0I3Vjd6VVRoWmwxQ2hZZFFLOV9lWGF3VW1BRUdsajlDamxqM19jaDhRSXV4SHpFREZoNWtxSF84OWRySFc0TFhZTDFqN3J3b1Raa29KY9IBbEFVX3lxTE83TEJKS1pFOHBGSWRxNE00dUxscnBmaGJ1X25YQnkxemZIQ3BOSy1NOGk0QW5VNFVYcTV0djZmaXpFN244cXhRQTU0VWRBYzktUnVrbjd4ei1udWpybjE5bFFsMEprQlhjYnN3Xw?oc=5",
+      "published": "2026-11-10T18:42:37+00:00",
+      "source": "The State",
+      "category": "โลก"
+    },
+    {
+      "title": "Watch Rory McIlroy's hilarious attempt at hitting the world's longest driver! Credit: @GOLF_com - Sky Sports",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLWZ4ajY5QWJCTVlZeGp0dlZuVERpLVVHWUR5TmtfOHVaN0g2ckpVXzRwRk4wQ0ZiLWlYZmktbXM4T1VvZGF5S2RjbnBrbkw4bHktUjNpbC1kZ21fVkxBX2sxWktjZTU5VG1POWNkejhhazJ5cW1RWXJyalotY21uajB1azNMUU1fa2pNbTBabTZNR3hoR01yWGFlcERWU2E0dG1aSkJtT2FTUzhxQ3pXb2Z1NGw?oc=5",
+      "published": "2026-11-10T18:40:16+00:00",
+      "source": "Sky Sports",
+      "category": "โลก"
+    },
+    {
+      "title": "Two arrested after Joe Biden makes surprise visit to Dublin - RTE.ie",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWS1jQWxSM2ZaTVN3aEQycEFZRDcwOTBXODlJekVwY2F3cjFBb1AzaXpIVXpBVmV3eDZHUFpqc3hPUlRoVmhtaGpRRTU1REhjUExtQU5ON2I2cFhGS3RGbHlZaExaQjJOSWNFTFRlWEpPLXNsME5HTmxsM1c1VkYzNU8xMGQ?oc=5",
+      "published": "2026-11-10T18:38:09+00:00",
+      "source": "RTE.ie",
+      "category": "โลก"
+    },
+    {
+      "title": "นายกฯ แสดงความยินดี เยาวชนไทยคว้าแชมป์เวที WCOPA 2026 ชื่นชมศักยภาพสร้างชื่อเสียงระดับนานาชาติ - LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORHRsb0s1YjVUaFRZTU1INVh2QlpYWTRMRkFMWW4xV25hWUEyWGpicjVJTnkzdlN5OEdDY0ktYl9JZVV3TEVQa1c3a3pQU2lGUEFnbTJGcndjeWRQU1V6V3BTU0lTbjcxZFR6akFpNjRQN3pTOXlRRm1OZHpYRDVSaER1UnhKdXNt?oc=5",
+      "published": "2026-11-10T18:37:32+00:00",
+      "source": "LINE TODAY",
+      "category": "ไทย"
+    },
+    {
+      "title": "BPS ผ่านเกณฑ์ Thai ESG ชูแผน JUMP+ ติดปีกธุรกิจ - Thunhoon",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1XN2VQQlNCUG10M2xhS2dRcWM3QTlpcXpLSVpWUk9QeEVLb1hzWXNHMmRueTFlUnBIMk50LWZuRG4wTFRBLWpQcVV1UmItaFNZOTVCMnVJR2pTNlFWcnJHZXQtSQ?oc=5",
+      "published": "2026-11-10T18:28:52+00:00",
+      "source": "Thunhoon",
+      "category": "ธุรกิจ"
+    },
+    {
+      "title": "Defiant Hegseth calls Republican's impeachment resolution a 'farce' - CBC",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMEc5a1d1UDFiSnF3R1JKS2dyS0FrNHRIcEJDVmNmWktCZE4zNjlSNUFTN3dDenBHOWxRdURubDB2UmpHZ3c2X09Xa0F5UWRWNzNUVHdZeEN1WGtwNHB6T2F2V0hHekg4RkVuMnNkSlpUcUdBcWUxcUg3eEoxTHBFVS1MVlpCZw?oc=5",
+      "published": "2026-11-10T18:16:19+00:00",
+      "source": "CBC",
+      "category": "โลก"
+    },
+    {
+      "title": "ไทยเบฟ ผนึก กรุงเทพมหานคร ผลักดันโครงการพัฒนาเศรษฐกิจฐานรากระดับเขต - bangkokbiznews",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11M0xtbFBrLVBQT0VxVlB2RHNvUU1YVEtFdkpkZm5RTGZFMUF4a0p1ekJ6WUdyb2gyRlpwdUpaUG5rNm53WWh2RVZEM0Jtam9ad2gtMExLNFhnZ19IanRqNVhZRi1wMUhxdkJYbHlB?oc=5",
+      "published": "2026-11-10T18:09:54+00:00",
+      "source": "bangkokbiznews",
+      "category": "เศรษฐกิจ"
+    },
+    {
+      "title": "Dublin: Arrests made after visit from former US President Biden - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmOTZFcFVIb2dsOXZHeWpPUUs5Ym9SeWlaY21hVmFrNEg0ZlRVbUlNYnpsWkVDcjZJeElCcVdNRHFwMDJ0WmNPU2ZyVGNQQUNYczROd2hMTS1CZ1E?oc=5",
+      "published": "2026-11-10T18:07:56+00:00",
+      "source": "BBC",
+      "category": "โลก"
+    },
+    {
+      "title": "Russia, Ukraine engage in 4-hour session on first day of U.S.-mediated talks in Abu Dhabi - CBC",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQek1DNXV0cExTdjVVRkttR0JfRXlIZTdGQ1o0RzEwc3owemFHbVVSOGMzX1Vlanljd0NnLXZudTczYkF1U3ZSak4yMXlCek9JV0gxbzRxTUd2bEc5N3AyMU1ucXZaYXhqNXVpdU1JUm1LVFRTSHRaYkRzOGdycldEcWEtckxzenA4NEVyT2FiTnRFTmdwcFE?oc=5",
+      "published": "2026-11-10T18:06:29+00:00",
+      "source": "CBC",
+      "category": "โลก"
+    },
+    {
+      "title": "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUUZnZ3l6S1IzdTFIcFVlbEFFNm03dThsTGpoUXBwV0ItZTBrYmVYbVRKZWZXcDNYbnZLazFGQmNsYldKRXltOC1xUkxFUk40OUxueDVmaVMtV05PUUlxY1ZleGVINFFxUlIySU5mM2VsTDZhQzR4OWEwTmhiOHo0NVQ4UXo2ZVpZM1BWVkN4bkVPUWNIZ3ZFNWpvQ3YzOEFG?oc=5",
+      "published": "2026-11-10T18:06:00+00:00",
+      "source": "ESPN",
+      "category": "โลก"
+    },
+    {
+      "title": "David Walliams, UK Celebrity, Is Accused of Sexual Misconduct - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZlVCV2VndVJ4TGZFSzJ6c0h2N2YzX3F1R3lSaUxMZkdnU0xuMjByY2doSm9yWXJnWmNaZzdDeHduZTU3cHZxQmdDLVRNakkyUmM0cEd3MHN5dTN1REVnZUdhTHRtOHRrak1JUGM4OEVZdlBpU1N5UFZIQ1dPS3BzWUYwTmlhVERUc213WmwwU0NLUUs3QXpjSjBmWQ?oc=5",
+      "published": "2026-11-10T18:02:20+00:00",
+      "source": "The New York Times",
+      "category": "โลก"
+    },
+    {
+      "title": "Studying solar storms from the bottom of the world - News Center - The University of Texas at Arlington - The University of Texas at Arlington",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR2s0eFVQV3JQWEkyclA5dEdyN01DUzZWQUdBVlpVSW9tRFBTcFZCLWpxaHNVamEyVnctcUlqVkNmaXdLVWdtYzNScDBERTlhaHZHUXNabjNucjFtQktScHdxMW5NLUhUMHdhcFNCMmFMWDN5Zkp0QXl2VGhmek04UzJya0NGWlR2R25wMlllWUY3YTZMZG95M2RuTnM1M08tc3c?oc=5",
+      "published": "2026-11-10T18:01:05+00:00",
+      "source": "The University of Texas at Arlington",
+      "category": "โลก"
+    },
+    {
+      "title": "Scott McTominay: Scotland midfielder had heart 'shocked' two days before World Cup opener against Haiti - Sky Sports",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQN1NmOEd2VHMxT05yUmlXLV9kWFVGTk9Kb3QtQkhraHJvdkpKU1ZvR25MVk1kc0VycmIxeGQySkFkRkp5MnJWQ0xpemU0aXd4c05FMkVSNVIyc3k2ZjFmQW1KVXZQUTRkOHZJbWFMNW94dzlJS2lXU3Jpc1hTaWJXMnJyTUQyN1pMcFVqVms5bU1HVnlxb2Z0MnRVTjdHMlVSckJKYkF2cW9wYjd6TlpHNzBFVUFaVXBud1JWUmJxOFpuTDByalM4clBVXzlzWlRTaEVrQy1Fc1V5WWd1MUR2R0tKOA?oc=5",
+      "published": "2026-11-10T17:55:35+00:00",
+      "source": "Sky Sports",
+      "category": "โลก"
+    },
+    {
+      "title": "Spain’s Election Contender PP Pledges Tighter Borders, Slower Climate Goals - U.S. News & World Report",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVndsdmoyOEJFck82bDNuTUZ0UmxodG9aRC1HbXFKY3hxNk9sM09VSGJRU0E2dVNkRXNkcVVHNFhwblNOdnItSmZBeXpmU3h6SWl1aDFfRE5xSEQ5eEFUTm9BdlRveXYzdlFpdktiTTlOQkpEV2FJVEg1eUdtdnFnWUN1NEVHMEhRcjBXRnB1LUt3aUk2UnowdE82Mk5YbDBWOFFOYUk1V0trMlNXM2N6TzBOWlRFa1FnSnRlclJlUk9VeTluUVE?oc=5",
+      "published": "2026-11-10T17:42:00+00:00",
+      "source": "U.S. News & World Report",
+      "category": "โลก"
+    },
+    {
+      "title": "Officer, police dog killed in backpack explosion in northern Spain - upi",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaktqTkxIdjZZbHFLc3liS1JOdnZqWG1CTVdYbUpxZ1RRUUFoUmI5cEhQdUZmZVRzYnExX1BOYmRBNXpZd1o0SmZ3NHpHRUdDY1hITk1OTEtHN3dLektPbDhvUG5PSGR2RDFCdlhKLUNwUm5CSC1OQ0Y3dHV6Yks4R294MUFNSVhoZUl4ME9rNjRjRUUzY0VyQzFPa3NRN0F4VkhabUNZbjVzanZnaWJaNVN30gG3AUFVX3lxTFB5dHNwM3Jod0RoWVFOUXFVbUQ1b0tRV0RXQWFteDdEeDB5R0sxZXBuUWgwLUV2ZlhFMG41OTdkMTUtTkpjYzNxYjhUM2VvRE5jUEFmT2dUcC01Sl9COGtYNzV3LXNXQnRVSkFEQ01HN1Q5R05IMlZYRVhfeTRWR3c1LTZyTWtoYjU5a3BzRXBuT1JfS1dabTdaVjYyNFJBSVlPb0NWWDdBYTR4UzBkcFZ5dm9NNjNYWQ?oc=5",
+      "published": "2026-11-10T17:39:40+00:00",
+      "source": "upi",
+      "category": "โลก"
+    },
+    {
+      "title": "Goldman Sachs และ Citi ร่วมแบงก์ใหญ่ลงทุน $270 ล้าน ตั้งบริษัทออก Stablecoin ดอลลาร์ - Siam Blockchain",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTlRkSkw0b3pXLWdOMl9GQm5PQ1hyRDJTNlFLcFFsaDVwU3I1cVJIcHZmdU81ZldDR3EzcG9mYW1GdjJjVHdmQ0FrTFBqUHdhV1lVSDMxYURzUzlYVFFHaVNhbTd6b1A0Rms1Q0JRZXptVnZ5ZFZnWWRxcVM5ZWhxRUh0NnJGaUk?oc=5",
+      "published": "2026-11-10T17:39:13+00:00",
+      "source": "Siam Blockchain",
+      "category": "ธุรกิจ"
+    },
+    {
+      "title": "UK Children's Author Walliams Named as Subject of Sexual Allegations by Media - U.S. News & World Report",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNc2RieWEyaTRFMHViZjV0NjJ0V1JMMkdYZXV2MjdJU1hNNG9iVmZLS0FUeVhRWWdiZU5jVFo3UjFBb1d3YXIxTWNDV0liTE80WjVRWXpTNDZWTTZPX3UxaWU1X1ZOQUJndEhTdS1KMjdRc0htLUNLY1hwMG1UNGY3dF9SaFRpdFd6T3poaTBuZ0hNV3dpMXEySlJTT0R3LVB6aENMMHhocXVlWWExSFRmQ0tRUlQwVmtyazhaMXBjbXJRSnl6T0JwMFNR?oc=5",
+      "published": "2026-11-10T17:34:31+00:00",
+      "source": "U.S. News & World Report",
+      "category": "โลก"
+    },
+    {
+      "title": "สภาพอากาศวันนี้ -16 พ.ย.ไทยฝนฟ้าคะนอง ลมกระโชกแรง ทะเลคลื่นสูง - Thansettakij",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJOFQ2a0RXTUtRelg0am9wcVdTMVRycllaUmktMl9DTHI2MmtTRG1NRTBCaW42cGpKaFpud28zV05pS1RTQUVHaHJLbjNvNzdQRXZoZDBXRUp4MXIx?oc=5",
+      "published": "2026-11-10T17:30:00+00:00",
+      "source": "Thansettakij",
+      "category": "สภาพอากาศ"
+    },
+    {
+      "title": "Analysis: Hegseth fights for his political life with appeal to Trump - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqT0ZaTEk5THF3NDFvWFdQQTdjaEZkd1FiYW5sbG0zYS1USEEwNXBPTmdEN3ZLSXIxM3d5LUt1LU4xMDlEZHVpVHJEWnRvVHhiVnlJdUk1WFBIdUk?oc=5",
+      "published": "2026-11-10T17:24:01+00:00",
+      "source": "BBC",
+      "category": "โลก"
+    },
+    {
+      "title": "ทยเจอภัยไซเบอร์โจมตีทุกวัน ใช้ AI เจาะช่องโหว่ | เที่ยงทันข่าว | 10 พ.ย. 69 - pptvhd36.com",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE51aFhHY2piZVc5VmdreGpVN3ZKdWhVSHI4dzl6aW0temZ3dWhHY09FdklBZkI0cWNCd3dkVE84QTdia3VJNTF1UWpwZkRZZHhxLVo0Sw?oc=5",
+      "published": "2026-11-10T17:13:04+00:00",
+      "source": "pptvhd36.com",
+      "category": "เทคโนโลยี"
+    },
+    {
+      "title": "ศึก“มูลนิธิ”ลามชายแดน “กระแสเงินดี”แต่“คนไม่พอดี”? - Head Topics",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GdkFvU1Jrd0t1OXdqSlRrR1dBQjJoYUk3R01oUWQ1NGNqdkNtanE4WFhBbFVEemlSUV9KbWw2Sms0VXBrS3ZYNnNFbVpkTVlUd2lEZ3YwTHN3NjhKZ3JhRHBzLUhJUDF3cHFOTGtn?oc=5",
+      "published": "2026-11-10T17:11:00+00:00",
+      "source": "Head Topics",
+      "category": "ไทย"
+    },
+    {
+      "title": "Top UK appeals court rules gay sex not a crime in the Caribbean nation of Trinidad and Tobago - KSAT",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQlFWbDRrQVV0SFpOek5MOTg1NFRzVUtxSmxfbzZHZXRUV2hKREhzVlJRU3V4N2dGdnd4aVZBQ1NMZE94b045dWhleXdsekJzaGZfaWdUWTc4aWpXalBybFduR3FRVk1FSVdEdVk0bEdleWhyNjV2NS1wZjUyTkl1R05mcnNVWDlROFNMN0VNTVUxNXVmNXRJN0NqQkE1WUNnaExzSEhaYldaRGdVYUdtSVFMRWEyaTVpXzVrcUFZNk1QSnJCRmlZR2VMam8wZllPS0tJ?oc=5",
+      "published": "2026-11-10T17:08:21+00:00",
+      "source": "KSAT",
+      "category": "โลก"
+    },
+    {
+      "title": "JMART โชว์กำไร Q3 แตะ 191 ล้านบาท โต 132% รับเจมาร์ทโมบาย-สุกี้ตี๋น้อยหนุน ปันผล 0.21 บ. | ข่าวหุ้นธุรกิจ - LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CTGxnT3MzUFdpQ3hCOXZYU2JJLXI0Q1JhRU0yUzBpUDZKeWw2dEl0b2FHc2EwWHJxNUx0bUs0WHJ6eVp4SmlmaDdPYUU4R1JXN0ZLVmZn?oc=5",
+      "published": "2026-11-10T17:04:37+00:00",
+      "source": "LINE TODAY",
+      "category": "ธุรกิจ"
+    },
+    {
+      "title": "มีการลงทุนกว่า 162,000 ล้านดองเวียดนามในการก่อสร้างทางด่วนบนภูเขา 3 สาย - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ0w4VGNibk5hY3ItalVMZHdTRlhhMFZHcEc2VEVyS3RTXy1TSERINm5FeHA2SXhTd1d4NWFORTJ5TlROd25udUJsNmxhb05rVlE0V0VUTGxQdWpNYjRRclByR21Zd2JpSTFHb1hpMHdpWVZldTRHMlR0T0t5M1hTUDhEcVlvYUNq?oc=5",
+      "published": "2026-11-10T17:03:45+00:00",
+      "source": "Vietnam.vn",
+      "category": "จราจร"
+    },
+    {
+      "title": "ฝนตกหนักทำให้เกิดการกัดเซาะชายฝั่งและน้ำท่วมรุนแรงในพื้นที่ลุ่มต่ำหลายแห่งในภาคกลางของเวียดนาม - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY09yVS13U3pYdG1IdWgxdGdjdUg5bktDVmRObzJxMGdaY0hEZ3NGTVJSdWdNdURBc3BndXE3Mi1Ec2tPdkhUczlwMFBtVllwaWlmcy1meTZxQW51S2I2SEhDWDJnakV0NUdva1JYcmdHeF8zQ2g3VGozTjRZejA4X216NUpTd1A5b2VzX0Z2bzBQR0Nj?oc=5",
+      "published": "2026-11-10T17:03:42+00:00",
+      "source": "Vietnam.vn",
+      "category": "สภาพอากาศ"
+    },
+    {
+      "title": "US News & World Report lists 9 best nursing homes in the Rochester area - RochesterFirst",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdXJkMmxoazB1Vy1nNEd6cFdKRHI2WWt4QjZGdFBSbEZ6eTQwT2h1XzhsckE5dlhqT2JZeWc4Ti03QU5MaXozWTd3QkFZNTFOU21UTF92VVBaaFp2djgzYy1YMXFwM0tkZEc5dUZpNDNBMlNUWkx3b3BwQTM2TWtNd3ktaFFCdHYtZi1nSTZIZEVOeHpLdjFoZ3V3MEVOdWVmZ3hMVW9rQjVrOUhNaEg4cHZZb9IBuAFBVV95cUxNNklOcjVyczZqbVV0ellvbHpPdkJ3V1VtRXdIdThFNkhkdEIyRTA2TTVTRlRWMlpXUzlvc1QzcFFIZElOMGpfcnZmWlZtOERlMm5kZ3puaVd3QTYxTm5nenE3N09Zd1JwRHhFaVpIcEVDSzdXY3FISUxyMjF3OVRhVXRyYkZHQzBDR0k5TEZtMEN4eHlLUklGMXVOR3VEWE9DT3lDbzB1STY2dTVST2hCYlY4Wm1vOWg5?oc=5",
+      "published": "2026-11-10T17:00:32+00:00",
+      "source": "RochesterFirst",
+      "category": "โลก"
+    },
+    {
+      "title": "Pope Leo Draws 650,000 in Another Strong Argentine Turnout - U.S. News & World Report",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUnFOVVRZakp5N3dobkJ3T2Q0V3FLWnVhN2staUFTWkd3VU1SZm9GZ2dUQ0gzbjZYWU1DbjlUc2VXU2FHWWJuR2ZCYW0yVnZtbkF6dmFIUW1rbnkwQ1FHRjZVbGw4OTVMVUw3d2VjbHllNGRXZE1xS0xER3JjN0RxWDdKTWVhSkdDTU1GZUhzWEhsS2tnNkdfdkJWMmZXUmVBVWIyQU9CWjJ1Wl9yUnV2Rmpn?oc=5",
+      "published": "2026-11-10T16:59:04+00:00",
+      "source": "U.S. News & World Report",
+      "category": "โลก"
+    },
+    {
+      "title": "รวม สล็อต ออ โต้โอกาสคาสิโนของประเทศไทยจะทำให้คุณตื่นเต้น ประสบการณ์ผู้ใช้คุณภาพสูงและการบริการลูกค้าที่เป็นเลิศจะทำให้ทุกการเล่นเป็นเรื่องสนุกโอกาสคาสิโนของประเทศไทยจะทำให้คุณตื่นเต้น ประสบการณ์การใช้งานระดับพรีเมียมและการบริการลูกค้าที่ยอดเยี่ยมจะทำให้ทุกการท - Portal Imbiara",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPcmdyMkRYbldsMnp3VEwxQTNSUGo4Q3pURkRiVUEzQmRmMXJXSGFCa1VGb05OUDFsQTZDeVJIdTlyTDJJVzN5X0ljaFhJdW01UHVFUVN3ZV9welF1ejdCRU5oOHA1NGhmd2hkVmNoNGpMMjUtS0piLXRVV0otbUtreFZ1Q1lDVEVjeHVfb0xCWThvVHVabmRCWEt2R0JOZzlpYkhidGJRTXJKeWFLdjJrdUpOR2xCMDVuUFU2bnZ6Z2JqRnJzTVFxV2lNZy1iaURic2c4NVBmWlNqbTBsRVdVWTZENDI4emhia25FNFhMQUJ5MzYySDVaS2VjcVJ5bXRtSU1XMGJnUERHRXo3LVE?oc=5",
+      "published": "2026-11-10T16:58:02+00:00",
+      "source": "Portal Imbiara",
+      "category": "ไทย"
+    },
+    {
+      "title": "Iran's Top Security Official Says No Talks Underway With US - U.S. News & World Report",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU01pam85cUh3NzZzQ3lZVHRoTXZ6d0pvRGZBWTVIWkFXLTFwZFFTcXMzUXNMWHJhTlVuaFdRN1hhdVVUUWo0SFBpM3Bhd0duLTVaWXpKZDU3R3ZzWUIwd2gxSFp4WjcxalNPV1I3V2xQUUxNUEZscmxDWXl4aDc1X2k2ZnlJcWRJYWZsNjE5S0Vuc3JmemZvaEVWbGk4OHMxS3BmYWtQMlNvTk8wTmlQajFR?oc=5",
+      "published": "2026-11-10T16:58:00+00:00",
+      "source": "U.S. News & World Report",
+      "category": "โลก"
+    },
+    {
+      "title": "ผู้แทนสภาแห่งชาติ: ทางด่วนเชิงยุทธศาสตร์ต้องส่งเสริมการบูรณาการการพัฒนาเศรษฐกิจ การป้องกันประเทศ และความมั่นคงของชาติ - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOY0w5SFYxQUllN00tRERqbl90elhIZnFxUXlRLXlpYXJDVGF6N3ExRmxQTGNXMXViemhESjVIbEFMZG5KU1BoY2w1NjRqNHN1enN1Vndja1hKbk81WnJzeFZLOTBtb1UxaDJFSmZCSE5QZXUyTjVvX09UVm5hWF9sSVotZHhhMHo1amFTZFBFNE1xSXlpN3VsTmF1cWpkbGdaUkVkT2Njb0JmZG1YMjRhRkpfd3JBa0I4djREbEI2aWY0TmJX?oc=5",
+      "published": "2026-11-10T16:57:23+00:00",
+      "source": "Vietnam.vn",
+      "category": "จราจร"
+    },
+    {
+      "title": "Texas man charged with murder of woman aboard MSC cruise ship - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONWRXUTZSTnhMUGlZczVpLTJUa2lCTWtXb2JGYlJ6NDczTXhLZS1FejRxUDlOMFpPTnFKTVVfRXZFQTYzb3U5SzBlNnRPTjJXVlZSTy1XOHhlQUo5aEowRmZLQ2xDbEdtSlNCQWZMd3JjZ3YwdFV3Q0x4SWRKaGxTVWlDTWxCekEz?oc=5",
+      "published": "2026-11-10T16:53:00+00:00",
+      "source": "The Guardian",
+      "category": "โลก"
+    },
+    {
+      "title": "MRDIYT โชว์กำไร Q3 แตะ 648 ล้านบาท โต 7% บอร์ดเคาะปันผล 0.06 บ. จ่อขึ้น XD 23 พ.ย.นี้ | ข่าวหุ้นธุรกิจ - LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrSzR0bWhBekhkYXYzYjc4b2EtTjdBamZZSUxDMHpNOXRucktQRmtZc1J5LUNsajFiNGx5YzYtMzdIWmdSWDRsWExZa2ZDemNVYld0dVBn?oc=5",
+      "published": "2026-11-10T16:52:30+00:00",
+      "source": "LINE TODAY",
+      "category": "ธุรกิจ"
+    },
+    {
+      "title": "Scotland vs North Macedonia: Scott McTominay reveals heart treatment at World Cup - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uaDlIOEU1U0NnZk1YOTFpdjY5MUZNOHJEcFRnVHYxdkpiUDNNX0tOUFo2cHowWEw1MU9TUkJRNEhOcUpWc09Xcmt1ZVlkcHNDVl9VdlFCS0Z6Tm9lcXBjX3RmaUdjR2U1?oc=5",
+      "published": "2026-11-10T16:46:31+00:00",
+      "source": "BBC",
+      "category": "โลก"
+    },
+    {
+      "title": "TCAP กำไร Q3 โต 5% แตะ 2.19 พันล้าน รับส่วนแบ่งบริษัทร่วม-ตั้งสำรองลด | ข่าวหุ้นธุรกิจ - LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKUVJQbDhJLXhDTk0xR0lXWC1zemZrUEh6UUx6dHlBcFNJZzluU1ZPSkhldzh6WDZEcFh3VmRFVi1xSEU0anZid2xHYU9tRGJsNU9va3hn?oc=5",
+      "published": "2026-11-10T16:45:39+00:00",
+      "source": "LINE TODAY",
+      "category": "ธุรกิจ"
+    },
+    {
+      "title": "Sophie visits Rohingya refugee camps on trip to Bangladesh - Sky News",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNTJGTzY4ZXZVWS1uZE9tQ1J1bEJKRWdEcE13SWNaQkdyeEpkN2NueHRUQVZvNkdsckx2LThCRTlNaExfaGJGdk55eWo1QjNHT3JNRG1BS1hCWjh5YUJ0bGNUbVEyb0pWTHlWM05TbXEzSXVqRTY1bkM0b0IydjBqX0NjLVdVbUtSMDNRU0w0OHRSTjFrakpVcWZR?oc=5",
+      "published": "2026-11-10T16:45:23+00:00",
+      "source": "Sky News",
+      "category": "โลก"
+    },
+    {
+      "title": "รองผู้ว่าฯ ธีระพงศ์ เปิดซ้อมแผนรับมือน้ำท่วมพระพรหม เตรียมเส้นทางเบี่ยงจราจร - www.topnews.co.th",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02Q1N3ejVNbUlIYW1ZY0tGaV9fZEpjYjZLaG1lQmNVTWxzYWUwajdQTVZkdUx6NlJPZWZTb1RvdXRfdUZPcDFfSVBEUjcyc1E?oc=5",
+      "published": "2026-11-10T16:43:20+00:00",
+      "source": "www.topnews.co.th",
+      "category": "สภาพอากาศ"
+    },
+    {
+      "title": "THG อวดกำไร Q3 โต 57 เท่า แตะ 297 ล้านบาท รับรายได้ผู้ป่วยเพิ่ม-ต้นทุนลด | ข่าวหุ้นธุรกิจ - LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE16U0NpWldvVG1kNnJ0djdmWlpXWnlSQXcwcGRBNU1ramdxLTNGOVIzMFI3OXZZcm9DeFJ2LW03dV9ReHJhSnhuOFp4RDM5dE9vSm1Da3dR?oc=5",
+      "published": "2026-11-10T16:41:29+00:00",
+      "source": "LINE TODAY",
+      "category": "ธุรกิจ"
+    },
+    {
+      "title": "'We are not the problem,' editor of news outlet that Egyptian court ordered to close tells AP - News4JAX",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQb1pXTGRqQkVQNTFoUmFCRG9nR0l3dEtJQlJ0Yi0xX0dmclYyS3ZBb3BUX29kWEgtX3JCbDczXy02SFBqRGdSNUNMQm4xdllQWkpTQ1dXSGN2dnVDWXl1WnpkVFVGQlpRZTAxUzdtdFlUeW9LNWhpYzFCMzB4UmlJdVp3Y2dScXl2Vk1CU3daX3h4Rm1DeGFBRHVJcWE5SjY0MDRvM1pMQjd5V0xRbTRCWU4zelhFZFB5SWJ5WHJHbDlDN184ZnNoNTQzbmxxTC0xcDl1LQ?oc=5",
+      "published": "2026-11-10T16:37:28+00:00",
+      "source": "News4JAX",
+      "category": "โลก"
+    },
+    {
+      "title": "BAM กำไร Q3 โต 10% แตะ 201 ล้าน รับขายทรัพย์ NPA เพิ่ม-ตั้งสำรองลด | ข่าวหุ้นธุรกิจ - LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xemNzQ3EwMGM5SHo0TF9LYVJKRnhKZmlDRTJKa1RNX3FpM2x5d28tTXdGcFdPaWhpY2JVYWdqT01acldtTkoyN2h3SkJoM2hiTGtZa29B?oc=5",
+      "published": "2026-11-10T16:35:38+00:00",
+      "source": "LINE TODAY",
+      "category": "ธุรกิจ"
+    },
+    {
+      "title": "ออสเตรเลียเพิ่มมาตรการความปลอดภัยด้าน AI ให้เข้มงวดขึ้น - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXS1hQb2pWUFh3SGxjeFZ0LW5RSzRiRWoxUFJBbElWVUhvNEwzQWY2Y1ZCZXJiQTJYYUlSSnFBbEdDLTlkeUNWT0c2ZnZtVGJtZW1jeWJWaXRDUXg0MldaSDRwUkdPV1k?oc=5",
+      "published": "2026-11-10T16:21:03+00:00",
+      "source": "Vietnam.vn",
+      "category": "เทคโนโลยี"
+    },
+    {
+      "title": "CIMB THAI ผนึก CIMB Group ยกระดับป้องกันภัยไซเบอร์ทั่วภูมิภาค พร้อมระบบติดตามความเสี่ยง 24 ชั่วโมง - LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oNGdhS2pUcGxDanRVZ01FendmbnlncXprMUxZY3JJRjNLRm9qbmVTeEc3UGR1ZXZOclBpZm94WXlFYUVOcWRuWXhvWFJZVzBLaUF5emFR?oc=5",
+      "published": "2026-11-10T16:11:24+00:00",
+      "source": "LINE TODAY",
+      "category": "เศรษฐกิจ"
+    },
+    {
+      "title": "จนท.เฟดส่งสัญญาณหนุนขึ้นดอกเบี้ย จับตาเงินเฟ้อ-AI - efinanceThai",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSy05V0loeG1yQmp2NWxqc1VEWW9OZW9HbmRsVHhtVE5YTzRWbGhnaUxyMVhKRFBNRExXRjJiR1pYUFlNNmVZYWptSTE4dTlDSW5UV2trUE5wcG1GMWJLNGs1YUJlNFpUaVg2aGdoNzdnVkZ4X2lPZFJQV2dLeWxpamJNUzNfd3M?oc=5",
+      "published": "2026-11-10T16:01:28+00:00",
+      "source": "efinanceThai",
+      "category": "เทคโนโลยี"
+    },
+    {
+      "title": "World War II Veteran reflects on Remembrance Day - Global News",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbU9fdVl4LThqcWY2RjJlNU5JbDRfUW1sQjZyd0phZWRCRmxnUjFEX3h2b3BaR3l6bUM3RDNZX2lKUGdyUmJSZkZaQllsZEk5TWp2bWVJMVQ5enlqbUVCT3dmWTJSVmg1aW9nMUt0WHFQMW9MVzQ5U2RCU2dNLWloTGZFM0tPSExreWY5bEpsUQ?oc=5",
+      "published": "2026-11-10T16:00:52+00:00",
+      "source": "Global News",
+      "category": "โลก"
+    },
+    {
+      "title": "ชง ครม. รับทราบผลพิจารณาญัตติ Net Zero บูรณาการรับมือโลกร้อน เสริมโอกาสเศรษฐกิจไทย - ข่าวสด",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWUk40QXFKY3IzSEM5SDYyNHJvRk9NdEk1M3gwY3NUSmFFaEtiQWo4NkFFbmFCeUp0cVZTdzZuRmdQbHk3OHRwOHJxU3d4Q00zTDhJZjhaQ0tJYkdh?oc=5",
+      "published": "2026-11-10T15:54:00+00:00",
+      "source": "ข่าวสด",
+      "category": "เศรษฐกิจ"
+    },
+    {
+      "title": "Bob Boone, World Series champion and part of 3-generation baseball family, has died. He was 78 - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcGNvQmFXbi03dnVCSGtUSkN1UDdxSlJXSFRiMkdIdG1aR2E0dVlSbVE0cWlDZldURFRkVGZ6M3VkanNDVTlvY19hZjVZMXdGWklKNWQ2OTlTRUhHeExXOEkzWXZ5VkQtbXFnTTUwdEZmTV83cnVCRU9xVkw0QklHbGQ0TWRLU1BqVjlLUGxQc1RSUnB5MDhoNTI4aGvSAaIBQVVfeXFMTXRnMllCbjRmVkw3WjhOUjRXZUdnTWJjbjU4LTRKYkptWVNqTnNjN2o1dTBLejNaUWZjN0FSLTlqTHIwWHMyTzg5Y3pzVWgwdFhWOWMzVUhRMmJCMTEyMkt4Q0djczJjMEx2N2dWdFgzMl9NRjMtOVo4VnIzMkVhQjhIT0xyNkRZRUtPTE9CSjVPeThVNlVMcDRLX0xRd0MtdWNR?oc=5",
+      "published": "2026-11-10T15:53:46+00:00",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "category": "โลก"
+    },
+    {
+      "title": "Bob Boone, World Series Champion and Part of 3-Generation Baseball Family, Dies at 78 - U.S. News & World Report",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdk4wdWYwcUczSU5IaWN6WWVIRGNVMXZqMmZhelo2Nms1b1l5U1FjYU53N2FuRUpXTU12TVk4UzR0alRCTW1qLUd2aTd0d2xYUk9kOHdOa0x6aWF5dXI4REtqZnIzYUZ3YzA0NnNBVjFOc2poWFRuSHFZdEpzcl8yWU1TTENmalRwS2N5UHNPSEhGc2RwZ21yU01SSkF6aFNpZ21EdXFpUGJYVGJJWXpRSmVFWlhqdnE4NXM1a01pVGJ1a3BhUkozWGJOYjJvaERud1JlbzBMQjRqWXVoWnFv?oc=5",
+      "published": "2026-11-10T15:45:00+00:00",
+      "source": "U.S. News & World Report",
+      "category": "โลก"
+    },
+    {
+      "title": "World News in Brief: November 10 - Nhan Dan Online",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE16S3lyV2VNZzVjXzE1d0ZtYUFjZmZRYms0VkZHM01BU3g1U25Rb3h3MTFOa1kwa296RVkyby1XaUZud2tWbXFrWGxmSTNBdWhXeG5SRVJqWjlXTHhTdXk0Vm85WnRKU1lDejVPVVJxa3ZXTzQwRVhYUg?oc=5",
+      "published": "2026-11-10T15:44:56+00:00",
+      "source": "Nhan Dan Online",
+      "category": "โลก"
+    },
+    {
+      "title": "‘มิชลิน ไกด์’ ประเทศไทย ฉบับครบรอบ 10 ปี สร้างสถิติใหม่ด้วยจำนวนร้านอาหารที่ผ่านการคัดสรรและร้านระดับดาวมิชลินสูงสุดเป็นประวัติการณ์ - thaitabloid.com",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ReGRLc1d3MWVsSFZBdURPNElSTEwtazFCaXpvT3JxMExmakhKaEdoZ3poQnFidldWc1BQQnViWkloQVExZGZXUFViLU9kZGY5?oc=5",
+      "published": "2026-11-10T15:41:00+00:00",
+      "source": "thaitabloid.com",
+      "category": "ไทย"
+    },
+    {
+      "title": "ไทยเบฟ ผนึกความร่วมมือกระทรวงอุตสาหกรรม และเครือข่ายธุรกิจห่วงโซ่อุปทานแห่งประเทศไทย ร่วมขับเคลื่อน มอก.9999 ยกระดับซัพพลายเชนไทย สู่การเติบโตอย่างยั่งยืน - Thaipost.net",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9WaGRsblVJa2VueEhZbHpJVG5fd3kxT3prb1NvX25TUHZlZ2ZlYlNlRnM4UkFkMW1NM2lyc0p2d0hNQjJkNVNVczRkbGFVNzJUT3p1S3dmdTk4eWZiVVFqbUJfTTdVdw?oc=5",
+      "published": "2026-11-10T15:36:00+00:00",
+      "source": "Thaipost.net",
+      "category": "ธุรกิจ"
+    },
     {
       "title": "นายกฯ จี้ตรวจธุรกิจก่อมลพิษ คุมเข้มขยะนำเข้า- เห็นชอบแนวทางกำกับ Data Center- MOU อุตสาหกรรมยานยนต์ไทย-จีน - ThaiPublica",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00T3hkRk16TWpyVFFsQ3BpMG0ydWxvNUtRN0xCS1VhTUE1Yjd3djgwZlJpUE9BYzkyVGs2MmRUTnlsaGtaQXNPamt6UGtSczMwa3RfSmw3Zy1FLUd5dXMyazU4UzFZX19VZ2c?oc=5",
@@ -10,18 +591,32 @@
       "category": "ธุรกิจ"
     },
     {
-      "title": "JMT ตั้งสำรอง-ต้นทุนลด รับส่วนแบ่ง JK อุ้มกำไร Q3 ทรงตัว 232 ล้านบาท | ข่าวหุ้นธุรกิจ - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xYU1ndXFhMk93d2xsNEtyaGZyNWZEMEotRUhhS3ZobnNPQkhycS1laTdQMGJPRUhVbkxDWUMwNWQyczI3ZVV6VXNBb2lWOXFDNXlNNWpR?oc=5",
-      "published": "2026-11-10T15:05:34+00:00",
+      "title": "Police officer dies and another seriously injured after explosion in northern Spain - Sky News",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMjVVemhsRnppanJRNmdBZjdJeTFoS3VIMm02b1ZRM1ZIM21XbWpqX2NPVkVFZDFLMkp2YVdxbHNvd19HTGl1dXhtb3N4T2ZKLUpRTGpncEgwbG9OTF82YURzbHZnM2YwTU1aSmwwaEU0TTF0Unl2OV93NmpNY09uTXlrREN2YVQ5RWJnX2QyMFdPZzVQZ1otSUdrdlNxYjVzYldrQTRZangxdzlhVEZUSTd2S0hrNy1zU09V?oc=5",
+      "published": "2026-11-10T15:28:39+00:00",
+      "source": "Sky News",
+      "category": "โลก"
+    },
+    {
+      "title": "รัฐบาล ลุยกระตุ้นเศรษฐกิจท่องเที่ยวรับไฮซีซั่น ผบช.ทท.ปล่อยแถว เข้มความปลอดภัยหาดป่าตอง - Matichon Online",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IR1pDeE9PanV0bE5ONkNYUUZKZjNTU0U2SjNCTjBtM2J1a2h3VjlhcWg5VjBhUDB5SmhwSUVGNHFCMjBPbHdVVnloMl80bGdJZHF5bl9DZWdzd0tkbGJQOA?oc=5",
+      "published": "2026-11-10T15:25:16+00:00",
+      "source": "Matichon Online",
+      "category": "เศรษฐกิจ"
+    },
+    {
+      "title": "เงินเฟ้อสหรัฐฯ ต.ค. โต 0.4% สูงกว่าคาด ดันบอนด์ยีลด์ 10 ปี แตะ 4.93% | ข่าวหุ้นธุรกิจ - LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jWmtkTHFOZFpxcndpMXc2Z0dVa05BS19ETDRVM3Qxb2JzaGlVOFpCbEx0YlpycklpNXZkUTBGWEdPemJwcFJOakRZSUtrU0huVTk4ZER3?oc=5",
+      "published": "2026-11-10T15:08:37+00:00",
       "source": "LINE TODAY",
       "category": "ธุรกิจ"
     },
     {
-      "title": "TI26 เข้าเทรด LiVEx 11 พ.ย. นี้ ระดมทุนต่อยอดธุรกิจ Cybersecurity-AI-Robotics | การเงินธนาคาร - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNWXJUNW82cjlrLTZ6Qm1OS21nbzNxZUkzU0toSW1kTmlNaXpjN2FNdDlXLVFSMlpFeDZmS0YtTGcxU0p4cmswZi1LeWFaM1RHWnplZkFn?oc=5",
-      "published": "2026-11-10T15:04:52+00:00",
-      "source": "LINE TODAY",
-      "category": "ธุรกิจ"
+      "title": "Bob Boone, World Series champ, Phillies Wall of Famer dies at 78 - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQV9hRi1ubm9NeDlNbUhaTWZDSGk4akZ5c2dLQmQtNzdpLXRrTl9IVzBJSmQzSDdITDVwWnZTbms3S3NZSFZLYm9XX2xRRUYxd0VKd1NKRkdCUHc2dnhXTjA0bkJtT0V3TDk0SGVjNmdiZm1Kc0k0dTdWaDM0bUJnaFhmcVlJdTR6RGFRZWdNOU0yMGE3bzM5SjVFOV8wRkY2alYxTVNvVW5LZ1kxYm1XNXBWUTNiMVdORWg0cVlkMkMydkNKakVueENqaWJuakHSAdcBQVVfeXFMTVdtWERkcy1wYUREWUtWd1VBRkEzYmx4a3dxT3VZUy1pY2o3NXJpSkV4Z2lmLUY4c3FxUFNEYmV3SlNLVi1fejF1Y0VudllWWERWSWphSVVvQnNxaGY5Y256Yy1zWFZ4SGtPYnVhdTJFdUlDZFJyWVpGS3lRd0kxbkktTDdXY1FmRENwVEw1SEVKMi1LcXRRT3dBMzgxSDR3OU9OdXc1aEVzUnVzcTNzVDhucmhHOU1uWmJBSjM5Vl9HeFVmdWU1bHlGUmdYODNweVphT0lqbHM?oc=5",
+      "published": "2026-11-10T15:02:00+00:00",
+      "source": "NBC Sports Philadelphia",
+      "category": "โลก"
     },
     {
       "title": "เจนเซน หวง ผู้นำ Nvidia ที่สหรัฐฯ ขาดไม่ได้ แม้เผชิญเรื่องอื้อฉาว - ผู้จัดการออนไลน์",
@@ -38,14 +633,7 @@
       "category": "ธุรกิจ"
     },
     {
-      "title": "วันนี้! ‘ปภ.-ออมสิน’โอนเยียวยาน้ำท่วม 7,381 ครัวเรือน รวม 48 ล้านบาท - เดลินิวส์",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkMWh1UXZfOEpEa3dmWlVnRDZ4eXVJQmpobFVGZ0lvblVYa3ZZbVhkTU85WEllZmc2UC1SUEpJUlNJY3AyQ3AxZ1QyR3ZRbDdwMU5v?oc=5",
-      "published": "2026-11-10T14:58:00+00:00",
-      "source": "เดลินิวส์",
-      "category": "สภาพอากาศ"
-    },
-    {
-      "title": "Bob Boone, San Diego native and World Series champion, dies at age 78 - cbs8.com",
+      "title": "Bob Boone, San Diego native and World Series champion, dies at age 78 | cbs8.com - cbs8.com",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQc0c5WlRDM1lnbUpqbjNhbDdkSUhLOThndmRtX2QyYW14OWtlU3Y0WUdNYVpCQUFoek0zcFdWbkdmV0daWDVvZ3l3QjdSU1lmRmNzSUdwSmo3bExIYzh6QWs1bnB4RE1QQXpZbEhRUWN2VnRqT2pDajR2MTdPYUp4cmpGZ1B3bVgwanQ0N0RsNlZ4Y2FLc3NqM2ZaRWlTWU9YRHVlN013ejE1ZF9OdHh2MnNFMHhoUGduRUdOYk4tZzREYWVQVTl5eEJZLWxiNEMyUFBVTw?oc=5",
       "published": "2026-11-10T14:54:00+00:00",
       "source": "cbs8.com",
@@ -66,13 +654,6 @@
       "category": "สภาพอากาศ"
     },
     {
-      "title": "ททท. จับมือ MICHELIN ฉลองครบรอบ 10 ปี MICHELIN Guide Thailand ประกาศรางวัลประจำปี 2570 ตอกย้ำศักยภาพประเทศไทยสู่จุดหมายปลายทางด้านการท่องเที่ยวเชิงอาหารระดับโลก - ผู้จัดการออนไลน์",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RYzRwRDVXc2xTZG0wVG9TUUdkRXdsSURhZW8ycFVDX1pIZDFkM1FHQndUMkZVdEpVcUpodmdBb0RvUnRPTlBhQ1ZTdDFtdVd2RU5lYXBCSGFxRk9sVzVsYVBNU1JpbjA?oc=5",
-      "published": "2026-11-10T14:52:00+00:00",
-      "source": "ผู้จัดการออนไลน์",
-      "category": "ไทย"
-    },
-    {
       "title": "ระเบิดพายุโน้ต! Paul Gilbert WROC World Tour – Live in Bangkok 2026 - spacebar.th",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUnJpRFdDY1BzWGw1djhYczBrbEk5T2pJZ084eEFLLXFmMnNSdER0QmlveVdOb0huLUNobzZtWlFRWlhwR0pMT2lnTmwzNTRYZEVCbFdnY3lYaGRLN2x1TGpid3RPbldZdF9XOThVb3BnczZDODB1TFM2bGttMTdBanl0VQ?oc=5",
       "published": "2026-11-10T14:52:00+00:00",
@@ -85,6 +666,13 @@
       "published": "2026-11-10T14:50:00+00:00",
       "source": "www.thairath.co.th",
       "category": "สภาพอากาศ"
+    },
+    {
+      "title": "COP31 Meets the Overshoot Era - Inside Climate News",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ZYnlMSVJkT2Y3X3JrTWxQcm56eWtVOGhXN21aYkd0aEpWRjg0NVJuV2J1RjlFbzZUQTVEYUk0ejZJR3NGRkdNUkpuUDZEY2FfeWoyRGsyQUdmNi1aVk50RlZKenkyelVURGtVUGh0VjZ2T1VyMUtFT1RB?oc=5",
+      "published": "2026-11-10T14:47:54+00:00",
+      "source": "Inside Climate News",
+      "category": "โลก"
     },
     {
       "title": "ประธานคณะกรรมการประชาชนจังหวัดอานเจียงได้เรียกร้องให้เร่งดำเนินการก่อสร้างทางด่วนเจาโดก-เกิ่นโถ-ซ็อกจางให้แล้วเสร็จก่อนเทศกาลตรุษจีนปี 2027 - Vietnam.vn",
@@ -115,11 +703,11 @@
       "category": "ธุรกิจ"
     },
     {
-      "title": "Mauricio Pochettino would consider Manchester United job if Michael Carrick is sacked - Paper Talk | Football News - Sky Sports",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcmRUUUtDRzcwbmpQMFc3M3l6RmpQTjlrMkNzbVRzd0V2UXAyQVRWdGdmWTlzLXZHb0cwZE9CNkZ2RzlhMjdaQWJsSFJQOTNrNUs3bkNaLWd2blVPV1ZXVC11RXNMWTk3THdXRGFwdWh1dzRMajdFUVhRZWNGU0d1dHhsQUl2Ul9vMnZkU0tTbEt3d2N2MlQtVnJNYUdIQWktZnRGSWJDVE45M2k2SWJnOGVkZHY3YnozU3hYUzJfallIOFI1cHhReFhWUWlIWGxGNF8tUWlVVndKUmdRTkE?oc=5",
-      "published": "2026-11-10T14:39:08+00:00",
-      "source": "Sky Sports",
-      "category": "โลก"
+      "title": "เขตคานห์เฮาจ่ายค่าชดเชยสำหรับโครงการขยายทางด่วนโฮจิมินห์ซิตี้ – จุงลวง – หมี่ถวน - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUEpqUW9lZ1JTVFFUejNKZTFnNEpPRnNiMVFpU2JsRFlBNkhQdEhuMGVHbVBDQjVWZEN4WTRHalNMVjNLeldrYlpnYmNXVENKcjdWTnRjU1JhR3JPWGNYTURadlRjSENDXzlFUk4tVzhTWklOYVJlUEZiUEpCQkVlUTlBcl9hbUZWSlBOSkVjRTJLVl9Wa0JSMUlWemxPMGZTajhsZFRhUlNKS3BmRHpmUmJkUW13eTlXLTgw?oc=5",
+      "published": "2026-11-10T14:39:02+00:00",
+      "source": "Vietnam.vn",
+      "category": "จราจร"
     },
     {
       "title": "กรมทางหลวงชนบท ยกระดับโครงสร้างพื้นฐานด้านคมนาคม หนุนเศรษฐกิจภาคอุตสาหกรรม เตรียมพื้นที่เริ่มก่อสร้างถนนสายแยก ทล.34 เชื่อมถนนสาย ฉช.3001 (ตอนที่ 2) - สวพ.FM91",
@@ -136,11 +724,18 @@
       "category": "สภาพอากาศ"
     },
     {
-      "title": "Pope Leo Draws 650,000 in Another Strong Argentine Turnout - U.S. News & World Report",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUnFOVVRZakp5N3dobkJ3T2Q0V3FLWnVhN2staUFTWkd3VU1SZm9GZ2dUQ0gzbjZYWU1DbjlUc2VXU2FHWWJuR2ZCYW0yVnZtbkF6dmFIUW1rbnkwQ1FHRjZVbGw4OTVMVUw3d2VjbHllNGRXZE1xS0xER3JjN0RxWDdKTWVhSkdDTU1GZUhzWEhsS2tnNkdfdkJWMmZXUmVBVWIyQU9CWjJ1Wl9yUnV2Rmpn?oc=5",
+      "title": "Italy Says EU Nations Failed to Commit to Red Sea Security - U.S. News & World Report",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX1RKRHVpZnhCWWpTbnlLTmtmRDdTRHBaOEVVTm5aY0ZIVFhHWlVTaHlCanZPN25JTTFtU3JSV0w1ZEVEN09lYW81U0ktTjc5R0lySEVCRG9Sbm5RaWx3TEFUdHlNbmhhYmlCZzdKMnd0emx2V05ocnFuSWt3a1Q1eERremNIZFpoQTNQWWVES2dqb0J0ZVltTHMtMk4yQ1lCTndnZ2pDZkwxTGVoS0tFUDRB?oc=5",
       "published": "2026-11-10T14:33:33+00:00",
       "source": "U.S. News & World Report",
       "category": "โลก"
+    },
+    {
+      "title": "รัฐมนตรี Tran Hong Minh กล่าวว่า: ไม่ต้องกังวลเรื่องงบประมาณไม่เพียงพอสำหรับการก่อสร้างทางด่วนใหม่ 3 สาย - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcUdtY2ZRYnhiMXNac3V2eGxjdXZ0Unphd0psdEFUQlFXeU5SN21tVXBVbWN0R0tfZmVhZml6VVVJV2ZFYnRkaVJGdDFjOWFnNVh5V1FoRlpvZzVRb29DYWJncjJ4SzdQNk5HVmQ5bE9jOHMtYlpPbzBXalp2cGJRdEV0aG1tZVZRb0Q4R29RRVA2eVlDMDJLNQ?oc=5",
+      "published": "2026-11-10T14:32:56+00:00",
+      "source": "Vietnam.vn",
+      "category": "จราจร"
     },
     {
       "title": "เกาหลีใต้ประยุกต์ใช้ปัญญาประดิษฐ์ ขณะที่ออสเตรเลียได้สรุปกฎหมายด้านความปลอดภัยทางไซเบอร์ - Vietnam.vn",
@@ -164,11 +759,11 @@
       "category": "โลก"
     },
     {
-      "title": "สมาคมสถาปนิกฯ จัดใหญ่ “สถาปนิก’70” ชูเวทีนวัตกรรม เปิดโอกาสธุรกิจก่อสร้าง - ผู้จัดการออนไลน์",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Oc0xUcFc1VVVoTVJVVDJhcWFjVmR6SE95U0xqNjVtb2dRX2FZX0tHMi1mUS1OOG11emVsNzItR1JRaHdZdXQ5NUs4cVR2cTlDQXgtaHpLM0NsZGhZQkNISQ?oc=5",
-      "published": "2026-11-10T14:29:00+00:00",
-      "source": "ผู้จัดการออนไลน์",
-      "category": "ธุรกิจ"
+      "title": "ข่าวล่าสุดเกี่ยวกับสภาพอากาศหนาวจัดในภาคเหนือและฝนตกหนักในภาคกลาง - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQckRMbkRwYVpkODVTNjlFZDFDYThLOTZuQ2UtaExXNGh0cW9PcV9QYnpfanBNMm1BM3FYUmtRYzZ5SFhRdmhlUjlYTVVmV3RhWUlXVzZwbF9xYkFlTkxQT2d4Y1lROFNvUjRibDJhcjdnaGlpYXZxUVl6WEl3UThfRlNWNWJXOTJCQmZ3M0pTRDJ1LXR6Z08tdTgtdG4?oc=5",
+      "published": "2026-11-10T14:27:58+00:00",
+      "source": "Vietnam.vn",
+      "category": "สภาพอากาศ"
     },
     {
       "title": "MTC สินเชื่อพุ่ง-ต้นทุนลด หนุนกำไร Q3 โต 13% แตะ 1.94 พันล้านบาท | ข่าวหุ้นธุรกิจ - LINE TODAY",
@@ -176,20 +771,6 @@
       "published": "2026-11-10T14:25:33+00:00",
       "source": "LINE TODAY",
       "category": "ธุรกิจ"
-    },
-    {
-      "title": "'Boy Meets World' cast talks new book - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1aVDN3ZDA1bU12N1I0d2lKMk9nMWxrWGhaaXZ1QnpGNS1PSTlIdjM2dTVVR0FBLU9YR0cxdkdYZFFWRHdiWk1lQXNxWHY?oc=5",
-      "published": "2026-11-10T14:23:17+00:00",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "category": "โลก"
-    },
-    {
-      "title": "Jannik Sinner: World No 2 confirms aim to return to tennis at Australian Open after lengthy absence with knee injury - Sky Sports",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcUpjdE50WTZOeTExcWRoa0d1TEhfdEhjbElCcWZDODJzOHZ2S2JJUUNyVE9vYWFLRWY4TlpTRXJaRGQwV1dwZUpxbDFURFh3VEtLMHFSWFVpUFJZcnVJeTRUY1UyQXpLMjNhTDNLS1dNaTFpLU9NQmVZdEQ1czZPRHhsb19DeEp5djdqU1NhNHQ4ZjRBNnlpblFjVVo5bTktVTRYXzdTUnhjYzV6VGQtRmZwSnA1VDRmb1NVX2drU21QWE5qVllkdlRoMWFyV3dSaElTMXZvRnhIR1V2ZXlwbWlMSXVydGlWOWpCRUNoWUhRbFlw?oc=5",
-      "published": "2026-11-10T14:22:35+00:00",
-      "source": "Sky Sports",
-      "category": "โลก"
     },
     {
       "title": "ฤดูหนาวเริ่มแล้ว! ปริมาณน้ำในเขื่อนทั่วไทยเพียงพอไหม? เช็กเลย - bangkokbiznews",
@@ -206,11 +787,11 @@
       "category": "จราจร"
     },
     {
-      "title": "‘วัชระพล’ เดินหน้าส่งมอบที่ดิน 7 ไร่ สร้างศูนย์โรคหัวใจ-ปลูกถ่ายอวัยวะ รพ.อุดรฯ - ดัน 4 เมกะโปรเจกต์ พลิกโฉมอุดรฯ สู่ฮับเศรษฐกิจอีสานบน ยกระดับคุณภาพชีวิตประชาชน วันที่ 10 พฤศจิกายน 2569 นายวัชระพล ขาวขำ รัฐมนตรีช่วยว่าการกระทรวงเกษตรและสหกรณ์ และ สส.อุดรธานี พรรคเพื่ - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMi2wdBVV95cUxQNnFUd29VSzJmdDFIUi1fcDhtRk42UzlsUnNYdUdJc0hxVkx6NGtFLXhHRVBrelpodkFQUE9fQ1Y5RVVfSDBjMXZnUjBmQkNxbi15MlduV1Q5ZEhpa3FfVWJ5VkdmSDVrQ1lUY2ZyTk83ZWlPY3FxMVJoeTQ2S0xRQzU2Ul9iS1oxaFdINk9oZnZhWWd6NTJiWGFzWktuaUVBNnNBUFJwQUVZN09uVjZLOUU4WVlPRWhOTTU1bjd6cHRTR3RCc1JUT1FDUHNxSFpnS3FDQkVicmpXejRkVFBOUVU0Z1V2bi11Q2w4YVROQzAtMGpoMDRDQjRrbkR1c0xiMWU5TXR5d1NMWnBCUlhJSkRXSThWRGZKWGk3Y1h1MWxiLTJJX2NvdmoxcXAtczNDanU1OGhkUFhfWFExRVM3YmFhcEhrR0R5aDVUVVJIYW13OFdGWVJpU21XTTFlcGQ4VnVCX3YyT1QtQ2gyS3QyelBpa0M5VGMxRkFPN2FOdkI1T0VzR3h4YzBXNUkyMWNXNXRyZVNKOVVHeUdQcTl6aW1qd0YyRkJ3NVBnRHkwaWwzbE1uYktrbEVOMFY0QmFscTVOR1pGbWxJSW1tNXpwUllMUi1CaFJqREo1czNxbURRSk1qYzRUZlJqRElLUHNpSVlScUh4RFVvTF9TVlMtT3lXam1Od2dsRVE1V3pfOXVKMWM2cDBIMFhjcTdsdVFzZWtaazA0NjdWaWJqWHliR2tiaWtmR2kwVWlHUzV6ak1CZVdCWHFvXzdobk1wX0hGXzNNNHd3RUFlQlFmMkt6VVcyMUl1ak0tblRmaDZlSzNCS2pPaFVpbmtHNFZBczljRzFLc0xkM0FxYk9taGN4WHVGMUdHSXhnSTZXLTk5SzJPMmpISjdFQkIyWF9Vdk1ael9HblBtMUtUdWdwanE0a3VXX1lGX3duNXNYcWlzdTd1Q29fM1N1R1Mzdzh3LWFZUW96M2cySXp4X1JUS2VfUWVxenNUNGoyN3Nnc1h3aHJhczlMVjhwcXREMVZlT3huYnhuM2Y3UVRETk14TUZnbVl5VFVpZ3ZxRi1nZnFrdE1LX0RRbEpGT3NKbmJ3a1E3cl9BdEpyNGsyQ0JFaFVQeGh1MHYxLW9Ja19RVEJJdVRsbHJ4NWNwMEVuTmFwVHQxU1pQMjBMaUI0TTdxSnlhV2p1aDhIOEExR0M4NVNEbDVxWWNqUlhRaWJ6YUtqSW10MnkyRlZoTGpVSVBNSUxicENzVU1SMWJVUjZMREJjZzJCYV9kQUJkSGd3bTRSMEJVcUU3dHlOYzFxanc?oc=5",
-      "published": "2026-11-10T14:16:27+00:00",
-      "source": "Facebook",
-      "category": "เศรษฐกิจ"
+      "title": "Factbox-What Are the Impeachment Articles Facing Pete Hegseth? - U.S. News & World Report",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMmJKZ1RtNlVLZE9MS3dRckZoei04RlRNQVh2dW1JeFMyWUlmQ2d1N3BMZjBPRVpKNHNCaDMtd0gxOFUzM00xT1ZFZ0p6WTJJV2xZdmw2WGN3REpudVFKempNRFExdjVXS29CYVlJMHdkRWFQaXNGZFMteFpheHQyMlBkaktLS0prT2ZzNW1YQV92S2ZhUzRuSDRabno3Zzk5QWUzTUQ2ZzhHTFQxdmhJWGtKNk5ZZw?oc=5",
+      "published": "2026-11-10T14:15:14+00:00",
+      "source": "U.S. News & World Report",
+      "category": "โลก"
     },
     {
       "title": "ประเทศลาวไคกำลังเผชิญกับสภาพอากาศหนาวจัด โดยอุณหภูมิลดลงเหลือ 6-8 องศาเซลเซียสในบางพื้นที่ - Vietnam.vn",
@@ -220,18 +801,18 @@
       "category": "สภาพอากาศ"
     },
     {
+      "title": "Conference of European Churches appoints new programme officer for peace - World Council of Churches",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdjc3STdyaFQ2MjZQM2Z6MHNaMXZ2VlJUMEgxamh2cGFza001Um9YWmp1NHRtZlFXQUN4dmRia1BBR2ZPdUFwQUFIb2w3WWJOT2hPVmpzdFp1bHpEODlHdnRPdHZIejgySWZpQnlMY05aVmRnWjFfOHctT0FxcE5QWjFjUmlBeXVYbndqSU1OanBDd0E3QUlQZG4ydjJxLXJTRE9mb2dn?oc=5",
+      "published": "2026-11-10T14:14:20+00:00",
+      "source": "World Council of Churches",
+      "category": "โลก"
+    },
+    {
       "title": "Anthropic เร่งสู่การทำ IPO ด้าน AI ครั้งประวัติศาสตร์ด้วยมูลค่าประเมินสูงถึง 1.02 ล้านล้านดอลลาร์ ขณะที่ข้อผูกพันด้านกำลังการประมวลผล 900 พันล้านดอลลาร์ดึงดูดความสนใจ - TradingKey",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUzZwRW9jX2xPLTMtWGR6VUVyd09VQm1HRVl0NEJmakcwTDhtMkZ6RlRMYmFuRllQZHZORFlPdGlMNV8yOU56TkdkcDZwdmFBRjlTemxzTHhrZGQ3MGVFbEFuZktTbVE1d3dSODRDWFVuTWcwQ3NZMEl1N2pNVWI3d3Z0LUtzSVJNZ1BpTHNqRXQxMmlqRV9Vb0FwdW1WeGpxdUFNTVJaM2Fad2t4STl4c0xzWjFYak50WmcyV2JhWmc5MmdlR1dtcEFqSzVWazBIMmNWY3pHQjZYc0lYQ2NKYm5KQndEaHdWREpXVzNn?oc=5",
       "published": "2026-11-10T14:07:29+00:00",
       "source": "TradingKey",
       "category": "เทคโนโลยี"
-    },
-    {
-      "title": "UNICEF Says Israel Blocks Gaza Basin Repairs, Warns of Flood Risk - U.S. News & World Report",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ0ZRNGhMbGxlckFHcnFUcGV3MVhQX096bnEyVUJZVW56VEl3WTgtbUN6eEVKUEZwaGJXQUVlVldxM3JrdHFiV1VhSGtJbC10UGMwT0VoVnpIZWFHMHZUcm1CeVA3RU1VX1gxUTVYSEtQaTRWdVNnMDhLNUZlRmp1eUhya3NzU2tUYUNzR1pHZmpRYTFsU3ByMkktT0FSdE9qQV9WdDI2elpydGl1SE5ndjUzZFk1ajFKNUE?oc=5",
-      "published": "2026-11-10T14:06:33+00:00",
-      "source": "U.S. News & World Report",
-      "category": "โลก"
     },
     {
       "title": "Truckers Block Roads in Chile Protesting Fuel Price Hikes - U.S. News & World Report",
@@ -248,17 +829,10 @@
       "category": "เศรษฐกิจ"
     },
     {
-      "title": "เงินเฟ้อสหรัฐฯ ต.ค. โต 0.4% สูงกว่าคาด ดันบอนด์ยีลด์ 10 ปี แตะ 4.93% | ข่าวหุ้นธุรกิจ - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jWmtkTHFOZFpxcndpMXc2Z0dVa05BS19ETDRVM3Qxb2JzaGlVOFpCbEx0YlpycklpNXZkUTBGWEdPemJwcFJOakRZSUtrU0huVTk4ZER3?oc=5",
-      "published": "2026-11-10T14:05:24+00:00",
-      "source": "LINE TODAY",
-      "category": "ธุรกิจ"
-    },
-    {
-      "title": "2026 World Trade Centers Association Member Forum Emphasizes the Importance of Trusted Relationships Amid Shifting Global Trade Landscape - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNMFBYM2tQVzNpS3MzWFY3WDZFazd1dXB1TWgzTEhPdld4c2FiZXB1Z1NKS1BreHlXNmRkUEpzRHFIbEVPMnExdDNkY05ReTEwcDlmdTM2QTRUZkJBbVk4eXQ2blAxTkJvaEZpSTVTdlNLd2ctTTI1NjhYWDZWMkpoMThJMEY0RWlYa25uQWdqSURlUEZtTWExeWNUbThjSlRiZGdIMmhTWE05TkhrV2lkczZLN0J4VE1PcnZ0dzQ4ZzQ4MkZ4X2RNRXg5NDRBc2ZCZjBmeUxGalZGaHU2VHVpX3o1T3JhUlIzYkt2SWxBa3ZuS0MtdC1wLUtoVmRJLWRzdjlvSzhKMVh2RVZfTXE3eWxkdy1ROGFWekpKT1RLQkxRQQ?oc=5",
-      "published": "2026-11-10T14:04:26+00:00",
-      "source": "PR Newswire",
+      "title": "Historic ocean liner to ‘live on’ beneath waves as world’s biggest artificial reef - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNU2lvczNuZmFoeThqMTAzNW11Z1JpRVhTSm1kV3RMelBhN1U5NlY1OUhPeFJ1N0pzV0xtYWdNRlBHLUpTRFAzalB4LWZGTThBS3M5ZlgtcGFJaWdXSmJBY1ZETVFyek52QXJJZ20wR1hUaUVwY2Y5WkZCUjRvOG1TOGVqVUEtMEItTjRKZUtR?oc=5",
+      "published": "2026-11-10T14:05:00+00:00",
+      "source": "The Guardian",
       "category": "โลก"
     },
     {
@@ -267,13 +841,6 @@
       "published": "2026-11-10T14:04:05+00:00",
       "source": "Vietnam.vn",
       "category": "จราจร"
-    },
-    {
-      "title": "แป้นพิมพ์บน One UI 9.5 กำลังจะฉลาดขึ้นด้วยเทคโนโลยี AI - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPa1RUUFo0VGRqTlFjdi1qdFB1TWlGMlMwOFBVNk02dXU3OHYxbW9RSHhtZkpvTGMzQldTU19tZnhCYlZ5bi00dC16VFFwMFBqLUplcjdHOHpHYWNacXdaUVhaU2Zyb3NkLTN2ODZPTHpPVEpETWFuTnNybE1NNDVpN1NR?oc=5",
-      "published": "2026-11-10T14:04:02+00:00",
-      "source": "Vietnam.vn",
-      "category": "เทคโนโลยี"
     },
     {
       "title": "รัฐมนตรีว่าการกระทรวงก่อสร้างกล่าวถึงโครงการทางด่วน 3 โครงการ มูลค่ากว่า 162,000 พันล้านดอง ที่กำลังจะมีการลงทุน - Vietnam.vn",
@@ -285,23 +852,16 @@
     {
       "title": "Bob Boone, former Philadelphia Phillies catcher and 1980 World Series champion, dies at 78 - CBS News",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM2pOSU5rT0JRQmtXbDRxa0JuTEY4SGNtcUhlNl9DQm55RWZqdEdaY29RYkV6cXA5SnJIUnRGYjR1Q2trREVmXzJ0cnVNRWpTZTl3X2FJcEtCdkVyOWptOG1ncGdCRmF0RU4yOXdfSWVsdDE1emtyaFVzZ3VzeWJkQXBneXNVSjlpY0NzaWx6Ni1pdzdINHdkd1NNcXdhQ0pNdGpr?oc=5",
-      "published": "2026-11-10T14:03:29+00:00",
+      "published": "2026-11-10T14:03:00+00:00",
       "source": "CBS News",
       "category": "โลก"
     },
     {
-      "title": "Bulgaria sets world record for energy storage - Energy Live News",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaHBESkNkNWFFZXJIUVpydGhTOG1mMXFQbzk0T0dnZGhSOFhTRkkxZUVfcG5TakFSbURvWUhfYUw3MDNBajQwZGFncTdJXzlnTFZ4ZThkT1hDSEVDamt0YU1ITDBJU2tJbm81YUJpdktoUWNwNkZUc3JqRFBwbENnLVFFblg4MjhkWDhMaS1vM0N0Zw?oc=5",
-      "published": "2026-11-10T14:00:15+00:00",
-      "source": "Energy Live News",
-      "category": "โลก"
-    },
-    {
-      "title": "'We actually didn't win the World Cup?': Michael Vaughan jokes as Kane Williamson brings up Ben Stokes incident from 2019 WC final - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaWVlWkc4QkJJQmMxelJrOGprYjdBbXpDaUlIOHp2ajB5dEF3TWJSWlpKSkNiR2hlbDh0VmI2SUdSOUk5ZVhPYngxSTktR0dEQ3gyWk9rQjFnWms4aXNlT2ZvVG1KT2dOTnlNZjhWYTRJZnhEd2hxNmtpX3d4R0lFdUtCaw?oc=5",
-      "published": "2026-11-10T14:00:01+00:00",
-      "source": "Yahoo Sports",
-      "category": "โลก"
+      "title": "สวทช.แนะ 10 เทคโนโลยีน่าจับตามอง ปี 2569 - 2570 - Thai PBS",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4aGVWTE5palhRVlRaMjZ0TlNnc2FPZGVEZk1ZSVh2Nk5tRmVLcC1QYWpEY2ZYMkt6Sk85WmV2Z3BOb1owSU1Lbm5VM3FLbUJRbXFlbloyVEc?oc=5",
+      "published": "2026-11-10T13:55:40+00:00",
+      "source": "Thai PBS",
+      "category": "เทคโนโลยี"
     },
     {
       "title": "หน่วยพิทักษ์ชายแดนภาคกลางของเวียดนามตอบสนองต่อเหตุการณ์น้ำท่วมและอุบัติเหตุทางทะเลอย่างแข็งขัน - Vietnam.vn",
@@ -309,6 +869,13 @@
       "published": "2026-11-10T13:54:29+00:00",
       "source": "Vietnam.vn",
       "category": "สภาพอากาศ"
+    },
+    {
+      "title": "Atmos Rewards adds GOL as newest global partner and broadens travel options to South America with GOL and American Airlines - Alaska Airlines",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMVJlTUMtSl9vUGNtNkE0a2UxVkhsUlZxd1FEeG5JSkRqNEc4S1JKRmJORnpqX1k1Nk9XVnY0YmtVNERZVUNsWlN1ZmpUQmtkdlFUSmlldVRuM0N4b3MzTDZnbWlSLWRVMGV2NzhDS25Mci1RdndMTmYyQUdsVDRjcU1aUTNjQjUyTmxodlV1RkJhcXN1eGs4RUZMbGFVaERBSmltVTdaY3pxYnNnZTRjbnd3V0VlbzFaV0VhLTNOYUxlcGFrVV9sWTlCMTcteVpoRUxiNHduQmN0MWJLdU9DcmFrMl9MUUxMQ3BzeW1wME0?oc=5",
+      "published": "2026-11-10T13:54:09+00:00",
+      "source": "Alaska Airlines",
+      "category": "โลก"
     },
     {
       "title": "\"ช่างเอ๋\" พร้อมทนายความ นำสเตทเมนต์ทางการเงินเพิ่มเติม มอบให้ตำรวจ ปอศ. - ไทยแทบลอยด์",
@@ -339,11 +906,11 @@
       "category": "เทคโนโลยี"
     },
     {
-      "title": "รพ. ถูกน้ำท่วมเปิดให้บริการครบแล้ว 100% จ่อเปิดตัวคู่มือรับมือภัยพิบัติ 11 พ.ย. - TNN Thailand",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXa3JGbE1oMEtJSWR4dUNYNENyMkx1N0VjTTJjY2d6QWpmOTNUMHNHM1llX25ldUVRNk9lelNHX2JsVThfQW1ZQXBlV0FVRWtpWDI0VA?oc=5",
-      "published": "2026-11-10T13:39:18+00:00",
-      "source": "TNN Thailand",
-      "category": "สภาพอากาศ"
+      "title": "Anthropic เคาะราคา IPO 70-78 ดอลลาร์ ลุ้นระดมทุนสูงสุด 6.44 หมื่นล้านดอลลาร์ | การเงินธนาคาร - LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xYklGaS1YS1EteTItWnI2Mm44SzdVSVRfenFoMnNXX2pEVWJmTFJVb0E2VEREYTBwNGRfdmEtWGptVUVMdDJIWlFvV0FIalZ4M0lid2Zn?oc=5",
+      "published": "2026-11-10T13:39:23+00:00",
+      "source": "LINE TODAY",
+      "category": "เศรษฐกิจ"
     },
     {
       "title": "“ชิปขาดแคลน-ระบบคลาวด์เดือด!” เจาะขุมทรัพย์ AI Hardware & Semiconductor Supply Chain - Thunhoon",
@@ -353,32 +920,18 @@
       "category": "เทคโนโลยี"
     },
     {
-      "title": "“นักธุรกิจสตรีตัวอย่าง” ระดับจังหวัดสมุทรปราการ ประจำปี 2569 จาก สสธวท - prakannews.com",
+      "title": "“นักธุรกิจสตรีตัวอย่าง” ระดับจังหวัดสมุทรปราการ ประจำปี 2569 จาก สสธวท - PRAKANNEWS",
       "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNMk1YWERyM1FLNHpxZTYxRWtYX1ZhWlljclJkbVdsaVFyUVNrNVR1ZkpieVIxRGZNczMtdTd5NUtOMUE0X3RYLWwzcHVXT2M4TTQyR0NSLUhtYUNtZnVkdkFKTkdsTWx3UVB3T0RqLXl2eGEzUTIwdjA5d3J1blo5VkxoajlBcWFDSTBhWXpKNjBPTDc3d0xBZGRwdzVjT1lCcHJXQXpFWm5XSlItU3h5dndVNHdSa2hITlBrcUc0OW5QLWxCalctTG54enFla1NRekhyR0VwdXgzNE1IZ3JEQUNrQnZNTDFQbmlNSjY4VEdLbUkyUFpTdzVNT0VKOHNoUDFFcV9rSFVIOHBJckFNMjhXbG9Vc2hYOVdTYUtEdTI4NHZuaEd2SkhmLVU5dEliVEZPQUE3UlhDMWRnZmh3RXB5WmJDalVYaDNPbDR3?oc=5",
       "published": "2026-11-10T13:36:46+00:00",
-      "source": "prakannews.com",
+      "source": "PRAKANNEWS",
       "category": "ธุรกิจ"
     },
     {
-      "title": "Iran threat prompts pullout of U.S. military planes from British base - upi",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUEdxakVKUmE1SG8teVdoLVczSUpCeDhuakNMbGxJOHMyQTdMYzJ5T3VGbUwzcmRDUVczWDdqd25SV3RadWZ6UXZkRG1ydlNkUXFVaWUwX0ZpYUE1MjdFbzUzYVRjU29hVEpSZWFNZDVJUUVxdjNXTWx5TUplQTRUV2FMTmZ2MjBBNzBQVlRSd2Z4RlNrazZ4NVliVEZ6SlV2QnRUQ0lrQjBSYWRMemh3TmZB0gG3AUFVX3lxTFBmNlplcElUdzM3TVgxWFdMYXdHY0g5MlpDOFMxY0g1UWFMd2hhcGs3OUwza2ZjZ3Fpb3NnQjlrdlNsTUdWaGV6M2F4Y0hoakQ3dzdkVUthcHBOVEVHNnhMbVBxZllTTURIT3FTLU1DQmE2TXNTdVhXYklLSDZVbXVua0J4X2o5b3FrOENzSkdscXJmeFUzaG5jZmVGNWtQLTU5SVVMSDdQd0FXNW01b0FCdHBvMEkzVQ?oc=5",
-      "published": "2026-11-10T13:36:27+00:00",
-      "source": "upi",
-      "category": "โลก"
-    },
-    {
-      "title": "Wall Street mixed in early trading ahead of a new peek at inflation - BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNDB1OUxfdVFDWXdiQjJ0SDZYU0E2QnVhNmhfZVZiTGdLYkZaN3ZFdTBwN3RaX3pnMWNhSTdHRUFjSURaalMwdnVwWkl5X1VMZ255NWxtbzBSYW5fS2IzVkNOS2RWdW8tUXlEVks0b0J0N3FTa3U2LTlzN19KNmJ2R1hlTm5ZSGRjdG92cHdOOVFLTFM5QVdMZDVzclBqMGdUcXl5NTJKYnVIY0cwMkhxYW9TcEY3N3NCS3BCMFdMU0hiUWs?oc=5",
-      "published": "2026-11-10T13:32:11+00:00",
-      "source": "BNN Bloomberg",
-      "category": "โลก"
-    },
-    {
-      "title": "10 เทคโนโลยีที่น่าจับตามอง 2569-2570 สวทช. ชวนปรับตัว เพื่อทางรอดใหม่รับมือโลกเดือด สังคมสูงวัย และวิกฤต PM2.5 - ผู้จัดการออนไลน์",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzY2Y2NmdmMGFfbURXRUo4V01mR0hWLV9oUEc3MzRKVjFpTVRBNDlNLXFfY29HMnZpLTJsTV8zbzBBMnNWaS0zcnNvZ2sycVlIMlJENnp0dWk3UHc?oc=5",
-      "published": "2026-11-10T13:31:00+00:00",
-      "source": "ผู้จัดการออนไลน์",
-      "category": "เทคโนโลยี"
+      "title": "CKP รับกำไรไซยะบุรี 9 เดือนโต 18% แตะ 1.33 พันล้าน ลุยหลวงพระบาง-โซลาร์ | ข่าวหุ้นธุรกิจ - LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FR0FDbWpWN0VOQ2cxUmI1V25qR2U2WmlEZW5wMHZrRHFYZXEzaWw4ajRobmgzaFRuZjBrRHdTQVM3NkZqRTEyckx3T3hNN1ozWXNEaDF3?oc=5",
+      "published": "2026-11-10T13:34:35+00:00",
+      "source": "LINE TODAY",
+      "category": "ธุรกิจ"
     },
     {
       "title": "กบน. เคาะลดดีเซล 1 บาท “เบนซิน-แก๊สโซฮอล์” 50 สต. มีผล 11 พ.ย.นี้ | ข่าวหุ้นธุรกิจ - LINE TODAY",
@@ -388,18 +941,25 @@
       "category": "ธุรกิจ"
     },
     {
-      "title": "Finland's defense chief visits 'like-minded' Japan | NHK WORLD-JAPAN News - NHKニュース",
+      "title": "Finland's defence chief visits 'like-minded' Japan - NHKニュース",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jRXZrZHA2X015Nk1KRWIwUEFBV2tudVFwcEdNY3c5UmRqSXZpT0plUXlSclhtUXVTT2xXdE9sbF9fTjlpRmZ6czhjUEczTlcyM0ItOWxyUzRnT0ptUGQzRW1YYw?oc=5",
-      "published": "2026-11-10T13:27:48+00:00",
+      "published": "2026-11-10T13:27:00+00:00",
       "source": "NHKニュース",
       "category": "โลก"
     },
     {
-      "title": "\"We Didn't Start Iran War\": Pete Hegseth's Defence Amid Impeachment Threat - NDTV",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSGNDdzJIX3NzLTllNzU0UUZUMHFOY1VLeWNsRGlzS0RtNFFnMENHb2hmaWJ2M2pmekJ1R1NxUW5WajlTTkltOTZ3dWNKU1ZBNHhEMW5FRlM4RDQ3UmdaUlJoOG1DLU4wbFU3UVZId2czV0w5ZEdWYXRIMkdMY3ZUeWNxZk9aaUJISklxR3lHcU54S29USFVCX2pGNDNGUHJ3WE9OTXNYd2hlLUHSAbMBQVVfeXFMTnkyMko1OHV6M1JGUWx1M3lJMUtodkVuTnRIXzVxUmZqQmRHa0JOTFJSTk9wbG8yMVA5dDhIQ201ZEFWX1E1cGU3S25lZ2dHUllBdFZTTEdKcGw3MXNEcjZyc3I1bDB5MUFwRzYxWGpwMVdha2M4cHBLUzhYdWdpNFFiVGprQ1FlRFpiRHIzWDhmNTI3cy1aZ3MxSUtXUkloRl92VFNucVU0UUxBTkRwd1hHSGs?oc=5",
-      "published": "2026-11-10T13:19:28+00:00",
-      "source": "NDTV",
+      "title": "French wartime resistance heroine Solange Alexandre dies aged 104 - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jZ2R3RF95bWM0MFlyM3JTdGFZeGlWc1lWYzVVMTF0YnBydXB3V09EcTdaSUtWcHpNeWpiaHRyS2Z4MVZGVmdXQldKdW1ZeXUxQXpBRXlIZ2NCdm8?oc=5",
+      "published": "2026-11-10T13:23:54+00:00",
+      "source": "BBC",
       "category": "โลก"
+    },
+    {
+      "title": "Innoquest ปักหมุดประเทศไทย!! ตอกย้ำบทบาท Innovation Lab ร่วมมือเครือข่าย Pathology Asia 7 ประเทศ เน้นคุณภาพบริการตรวจวิเคราะห์ทางการแพทย์ ผลักดันเทคโนโลยี-นวัตกรรมเพื่อสุขภาพ - thestatestimes",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BNy1ZUTAtRTJWa2NFM09VLUVyZGI5TjR2cDA1Y01XZWlKY3RUY0w2MzEzVXgzcktQYlcwY0ZISzVPc1g5ekpCTENXYkdkcUpYbVRqcQ?oc=5",
+      "published": "2026-11-10T13:23:23+00:00",
+      "source": "thestatestimes",
+      "category": "ไทย"
     },
     {
       "title": "ฝนตกหนักทำให้เกิดรอยแตกและถนนทรุดตัวบนถนนที่มุ่งหน้าไปยังหาดบายแคทวังบนคาบสมุทรซอนตรา - Vietnam.vn",
@@ -409,13 +969,6 @@
       "category": "สภาพอากาศ"
     },
     {
-      "title": "EU's Von Der Leyen Pledges €50 Million to Speed up Security Hub in the Black Sea - U.S. News & World Report",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbjljbmJlNzRaUW5uRTFxYXg0cklZYXMtclB2c0lXNjVjOW1nTVRYS3l6d1NFajl5S1pyUldNYTFITktOWTZzZW1lWXNtbWtmeTk3QmdEcFFKWmluUUY5QlZXRUV0Rldod2pkdTMtOG1sU25pMGNHSVhZQjNfWXQzd1d5UlYxUGUwZlBacDZoekk2ZXZjRVVCay1NS1ZjdS1MYzcxd1hsX1F4Wk4tak5vZGg0bDJMR2s4YUxkckdOTDRXdi1RWjBVbTBzUEk?oc=5",
-      "published": "2026-11-10T13:14:26+00:00",
-      "source": "U.S. News & World Report",
-      "category": "โลก"
-    },
-    {
       "title": "SINGER กวาดกำไร Q3 โต 242% แตะ 204 ล้านบาท รับยอดขายมือถือ-สินเชื่อขยายตัว | ข่าวหุ้นธุรกิจ - LINE TODAY",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uQUhKMEIzcERlN2JKWlNuWTM2WlgtWmRnQmd2WkIwZ1RIWFZ0RERzSUNRc1hxZS1qQjR5d1hGVHlFODYtTDBYQThHMUVzSlBHMklvbUh3?oc=5",
       "published": "2026-11-10T13:13:36+00:00",
@@ -423,11 +976,18 @@
       "category": "ธุรกิจ"
     },
     {
-      "title": "Greta Thunberg Arrives at UN Climate Talks Saying ‘Everything We Love Is at Stake’ - U.S. News & World Report",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWHY2ZmFHNVVFcXhBcTBCcTJhMUZydWVBZnZvWjNTamFkYThFRUw1Y2EtMDVGQmNrdWlFUlBTc3E5bjZqMmNyd1VZYi13SXNMYkZXWFNXTDRmZXJzdnFWVHpuUGpfZ3VUOV9nYUMwMUV4c0VMUm9OMm9rME5weEpnM2syMXlNLXNHVGd4UnVNSjF5bGFvSFl4R04zMTNqVlZVU1lmc2RjaGJoT1N5TUMxeDZCbVFpMUliUkVwRHEyQmxBZmwtSzk2Vy1rVkM2Skk?oc=5",
-      "published": "2026-11-10T13:12:00+00:00",
-      "source": "U.S. News & World Report",
+      "title": "Greta Thunberg warns ‘everything we love is at stake’ as she arrives at UN climate talks - KSAT",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS2U5RElPN3JFVEpzRHVOa254aVE4eDk2cVVCYl9YT1pRRF9KeHN1MHZGUnBqa1hSMHZ4QTBvZVZsTlA5NXpFdHRxTjNad2pWWnpNbUI4UWNEbFBZazNmRkJGazZhZ1VDQkN2T3I4Z2djWi10emVDSmlzQjF3RlFZOXNEdHllUi0ybnEtRmFIYk1DMHFwd3Y1bEtVLV9nbE9MZmpYRUc4MGFUSUJ5VlBKVVJUb1FhNWpqVHdSSTFfYlRHUjk0cmZUXzRn?oc=5",
+      "published": "2026-11-10T13:12:46+00:00",
+      "source": "KSAT",
       "category": "โลก"
+    },
+    {
+      "title": "GWM เปิดตัว GWM ORA 5 PLUS ครั้งแรกของโลกในประเทศไทย - Positioningmag",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2WW1XdVA0aHpINnVMSS1GRDlsWDhPNXg1WGktWHVmUEhSbmYzU3ktUVlZMTc2X3hQTzZGeWdQXzZDQmxsbnpHQzdEY1haeGNGWWdj?oc=5",
+      "published": "2026-11-10T13:09:05+00:00",
+      "source": "Positioningmag",
+      "category": "ไทย"
     },
     {
       "title": "SINGER กวาดกำไร Q3 โต 242% แตะ 204 ล้านบาท รับยอดขายมือถือ-สินเชื่อขยายตัว - ข่าวหุ้นธุรกิจออนไลน์",
@@ -442,13 +1002,6 @@
       "published": "2026-11-10T13:06:08+00:00",
       "source": "LINE TODAY",
       "category": "สภาพอากาศ"
-    },
-    {
-      "title": "Anthropic เคาะราคา IPO 70-78 ดอลลาร์ ลุ้นระดมทุนสูงสุด 6.44 หมื่นล้านดอลลาร์ | การเงินธนาคาร - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xYklGaS1YS1EteTItWnI2Mm44SzdVSVRfenFoMnNXX2pEVWJmTFJVb0E2VEREYTBwNGRfdmEtWGptVUVMdDJIWlFvV0FIalZ4M0lid2Zn?oc=5",
-      "published": "2026-11-10T13:04:56+00:00",
-      "source": "LINE TODAY",
-      "category": "เทคโนโลยี"
     },
     {
       "title": "เปิดสถิติใหม่! มิชลิน ไกด์ ประเทศไทย ครบ 10 ปี ร้านอาหารคุณภาพทะยานสูงสุดเป็นประวัติการณ์ - สยามรัฐ",
@@ -486,13 +1039,6 @@
       "category": "จราจร"
     },
     {
-      "title": "Slovak PM Fico Accuses Merz of 'Blackmail' for Linking Ukraine Funding to EU Budget Talks - U.S. News & World Report",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVEh4RHpZbmhlNTJzRDJqLWRoclhzZVEwMUFUU2wwRnFtRldzRngxSm1LQlpEZUFudmY5X1Buckk4TlRJVWhGRU12aDZNc1JUUi1uZFJJTmR2akZWQ2lFdGxVamJ2QzZnUW5JTXdnTDY5akdlb3pHZ3JYRVY0UEM0Q0xfVk9CM29DeWRxMVB4QlBCTGJLb3Z1Qk4zaTZLcWVsTFZkUC0yTng2STRpcUc1WWd0NVozYlZ1Z1VnbTI3MmRKMzJnbUViYktkQW9JN1ZxVGd6bE5FNFA?oc=5",
-      "published": "2026-11-10T12:49:00+00:00",
-      "source": "U.S. News & World Report",
-      "category": "โลก"
-    },
-    {
       "title": "กรมอุตุฯ ประกาศ ฉ.5 เตือนภาคใต้ฝนตกหนักมาก 10-13 พ.ย. - Thai PBS",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOSUxRdE82c0pDRV9PX2dHbGVGa0dCWl8yZ0QtbXV6WUw4VXVaT1lqMkFzWE82Q1Z2S3lLOXRYOVFFdGk0MFpRdUNNR3dPaDRLQmlZUloxSEQ?oc=5",
       "published": "2026-11-10T12:43:58+00:00",
@@ -507,13 +1053,6 @@
       "category": "จราจร"
     },
     {
-      "title": "First Thing: Oil price relief as Trump says US war on Iran ‘ending fairly soon’ - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVWRuMnJLWDducThsUU1nZTMydzQxamhDZWgzRi1qQ1BGZE9XZW9NVjRiTTJIMzlQRklseXdxbEtNS3NMem90UHVfTlB2aXdRRng2OWF3TTZxbmVJY25pbE1peDZtWVRlY3plSWhTTHRONURPYXhTTWhlckhLZmNNR0dnTnRuTTdoQnU3djhsYUtqQngteWlvcWlMUlZ4RVo4cXU0blZZRDUybVVWc1FRSnFtQQ?oc=5",
-      "published": "2026-11-10T12:39:00+00:00",
-      "source": "The Guardian",
-      "category": "โลก"
-    },
-    {
       "title": "Grenades, grief and a deepening political divide: five takeaways from Sonia Gandhi’s new memoir - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbWQ1Q2dPZzZJblBTeGFFRXYyelQ2YWlkdnFCb1BXVjR0RWN0Uk9vZmtiTkMxaHEzZU9mLTFGbVctNW85cGg1V1FqTTd6ck1oYTROMlk2VjlCdUlkU3ZkVWZfdEs1T3FJX1dWdHZjay0zWklfSzhoZlI5Q0tEQlZETkRqYk9hZFhIM2s4NUg2SnhORG8?oc=5",
       "published": "2026-11-10T12:39:00+00:00",
@@ -521,25 +1060,18 @@
       "category": "โลก"
     },
     {
-      "title": "France's President and Wife File New Lawsuit Against US Podcaster Owens - U.S. News & World Report",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYVJQQ2thLUswekhkVG9KeDU3VlN3Wk14MjI1VFFFTkg5XzNYeUJpN3lOOUF5T3VEQVBPWW80RUZxdDM3NFN1b1UyQzQxeW9WYVF4T1h2Z0JtakZnNmNWQUltQUM0eDNra3lJTEZ4bDMwWFo2cVdvcUpmSkxHVG5Wa1d3UjhUejVvZ1drUnBRYU45TWJDT1hSUWd3ZEZQMUdOMzRlXzJ5Tk1tUFk5SG5mcWFsdGZaNGg1TmhFWkswR05HQQ?oc=5",
-      "published": "2026-11-10T12:37:00+00:00",
-      "source": "U.S. News & World Report",
-      "category": "โลก"
-    },
-    {
-      "title": "Anthropic ตั้งเป้ามูลค่า IPO ที่ 1 ล้านล้านดอลลาร์ ทดสอบกระแสคลั่ง AI ของวอลล์สตรีท - ผู้จัดการออนไลน์",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wQXFLZDB3Vks1Znh2c3hha2RVYUFXWTRpelhEbmxPTHpjcFAxUXRwY2VfSlNXYWRHYjlZeUJpb19IcXZBYVZkcmU0WEJTZktMQXBReE1JRWpKTkplWUE?oc=5",
-      "published": "2026-11-10T12:36:00+00:00",
-      "source": "ผู้จัดการออนไลน์",
-      "category": "เทคโนโลยี"
-    },
-    {
       "title": "“โรบอทเทรด” กินวอลุ่มตลาด 53% แรงซื้อ DELTA ดันราคาหุ้นปิดบวก 6% | ข่าวหุ้นธุรกิจ - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdl94MzlLS0pDeW0xc1ZZS3ZTbEFXQjZjaC1pOWlGSGFYSHFFYTVnekMzQkN0RWRuTzF4UER3RW5FYmRmdHoxU045SE55dXpva3l4eHo1cHZiaExsM2ZoNG41VkY1NjFnZW1mWFJYTEthYndteTExX2JpSXZNVk1KSA?oc=5",
-      "published": "2026-11-10T12:31:57+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CRDRUbDUzNXFhRElhYnZleklCLXV3SFdzNGg0Qkp3TVU4ZlAyeThieTR3NS1qQUlSMEFybVd0SUtmWHBuT25HQzBicEY0WEhqSGVUUm9n?oc=5",
+      "published": "2026-11-10T12:35:31+00:00",
       "source": "LINE TODAY",
       "category": "ธุรกิจ"
+    },
+    {
+      "title": "At least 12 killed in Bulgaria motorway pile-ups involving dozens of vehicles - Sky News",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPX3pyYW1LbEg3VHNrdENFb3ptN2lUMk5pQUUwMXJlOXo1V2xqNjF2M0x3VXduNk1ISzRORlhHT3NkalhXY01QU28tUTFjX3NPaDYyNnFkTU1WU2tsaEtONEcxLWp3Q3NaNTJxa19RT2k1ZFpacllUQjJWWHVZQWhybUp0NTk2aEFLR2xwWHhReUhyZzJZNWgyNmFVejVBWXhhX0w0QjNiTnNxUERYX3RDU014aw?oc=5",
+      "published": "2026-11-10T12:33:19+00:00",
+      "source": "Sky News",
+      "category": "โลก"
     },
     {
       "title": "Nations Promise to Install More Rooftop Solar at UN Climate Talks - U.S. News & World Report",
@@ -577,13 +1109,6 @@
       "category": "จราจร"
     },
     {
-      "title": "Owning big cats is perfectly legal in much of Ontario. How many there are is a mystery - CBC",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DYUZXTnZkbTFVcmdUWldwU0RVRFY4dkdydmxVdExoSVVfdUlLaEdxVnNqeU1NRTJoOTdxLWc5bWhHbnhRNUJ2a1VEWHNuMGtCeHk5SW1lMW9FZ1BHSGlHd000Z1lHODZESkplYnJkTHpZWUJIOTRKQTZDUWw?oc=5",
-      "published": "2026-11-10T12:24:32+00:00",
-      "source": "CBC",
-      "category": "โลก"
-    },
-    {
       "title": "Russell Brand sentenced to more than 10 years in prison for rape and sexual assault; police investigating 'several' new allegations - Yahoo",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZVhqQVBtNTNtMnVuMy0zOXIzLWZpbjZoQ2xWejZMYktmazVaVndjSFdjUUluR2ZFeU5yRE9PbnZ4MzNxQTROd0s3NHpmUFhOQTRNQXo4S1BjbE4tOWp4ekJ0UXY1XzJ2eFB4MmJuRkFqMThva3loc0JjanRkSXdMWWZ2Y0YxMFFVLTBHM2JDTjRfbnN5aUQ4T2h4aWJCRHppeENfaDFFeVpmSjVsT3NpR1NCVk5FWjF0bDlPWmRORl92b1NNTEZHVUJGRmRfMXZtOWJWYTdsYw?oc=5",
       "published": "2026-11-10T12:23:57+00:00",
@@ -593,7 +1118,7 @@
     {
       "title": "El Nino set record strength in October | NHK WORLD-JAPAN News - NHKニュース",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5aSVdFd0J5QzJxX1pUTUY5X1JEVnhjbFdDdkdwY1Y3VXFsSTFuQ0JZeHFmcllCckJmQ0k1LVAydHFwVUpyTDl0YmhCUFFFRTJRTXlmTlJIc1UzMnVYZlFfc1c5cw?oc=5",
-      "published": "2026-11-10T12:18:48+00:00",
+      "published": "2026-11-10T12:18:00+00:00",
       "source": "NHKニュース",
       "category": "โลก"
     },
@@ -619,6 +1144,13 @@
       "category": "เทคโนโลยี"
     },
     {
+      "title": "XO อวดกำไร Q3 โต 96% แตะ 258 ล้านบาท รับยอดขายซอสพุ่ง-มาร์จิ้นฟื้น | ข่าวหุ้นธุรกิจ - LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11TEJNcGxlT0N0ak9id25fa0RxUFNybE85Q0hRTzRkaVpMMnBUSF80c24xS3J2ZFY5ek9kQ3NzRXhqNnVoWEVjV3Jwd1c5WXpVSlJKam5n?oc=5",
+      "published": "2026-11-10T12:09:32+00:00",
+      "source": "LINE TODAY",
+      "category": "ธุรกิจ"
+    },
+    {
       "title": "Anthropic เปิดเกม AI รุ่นใหม่ ปูทางก่อน IPO - TNN Thailand",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9KOGsxSDNiOXBrMXdOQ1A1T181WjFCbGQxRllGWFotTE5HRFJ1V3F2T1dUeHFJaWhIYlBVU044MlZPWHJyY0hweWV3NTcwOWVpNEc0M21NUVp4SUw3TXoxUUlPQQ?oc=5",
       "published": "2026-11-10T12:07:37+00:00",
@@ -633,28 +1165,7 @@
       "category": "เทคโนโลยี"
     },
     {
-      "title": "ครม. อนุมัติหลักเกณฑ์คุมเข้ม Data Center สร้างมาตรฐานไม่ให้กระทบประชาชนและสิ่งแวดล้อม - จส. 100",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiOWF3eFRSZ2czQU1nRzdlQllYQXM5bnI3YzRPUDVXVnhESU9PeFRFYU9lajNyMURIQ3c0SDROdllreW8zc2Q4STBjdVZVNHJsb0NidWhSOXlQQQ?oc=5",
-      "published": "2026-11-10T12:06:50+00:00",
-      "source": "จส. 100",
-      "category": "ธุรกิจ"
-    },
-    {
-      "title": "XO อวดกำไร Q3 โต 96% แตะ 258 ล้านบาท รับยอดขายซอสพุ่ง-มาร์จิ้นฟื้น | ข่าวหุ้นธุรกิจ - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11TEJNcGxlT0N0ak9id25fa0RxUFNybE85Q0hRTzRkaVpMMnBUSF80c24xS3J2ZFY5ek9kQ3NzRXhqNnVoWEVjV3Jwd1c5WXpVSlJKam5n?oc=5",
-      "published": "2026-11-10T12:06:10+00:00",
-      "source": "LINE TODAY",
-      "category": "ธุรกิจ"
-    },
-    {
-      "title": "Overnight strikes in Yemen kill at least 1 person and wound 9, and other Mideast news - KSAT",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPS2pXaVFpY3NuMF84NGh2QmtTXzJsOUNGc0VfejNGQTZnaENsZHNmRE9RWENXTXFCRkZLTTFjTUtPbWk5YldkSHFERjBpNndTa3BLODJGZHg4amxkNnJGUDhtQ2w0WXFEQUJyOWZjUUxneDBBRXFrb3dSUU5nU3ZoZExjMFVYeGx4U3dDamFCRDYteVB3c3RyRlYzbF80NGFCTjVwWUFFNUc0cWs4NFJZMmg0QnV5TzBiejBWRmZLNEFBS251Sl9v?oc=5",
-      "published": "2026-11-10T12:06:04+00:00",
-      "source": "KSAT",
-      "category": "โลก"
-    },
-    {
-      "title": "Israeli Strikes and Gunfire in Gaza Kill 4 People, and Other Mideast News - U.S. News & World Report",
+      "title": "Israeli Strikes and Gunfire in Gaza Kill 5 People, and Other Mideast News - U.S. News & World Report",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcG05OGJ1YzlRUU9KdVpPczFNMzVObURTWmpsOXhtZ2VZTHo1Nk1xeTJaVW54TGEybHNGZGFmMW5LR3VlNEM3VzNWWS1aMjJiUzFoRUxzVHlyNnBPd1dDMHNLTlNLQlNXV1YwMjUyOFRNS0hvS3hVZU1hUENoa2FyU21NQUptUGFiOEhSVFlvY0dfRWl0RnM2MmdheXRLZXZ4bWplbUJFdWxlWFBramh3OWVyV2QydXE0bTI5U0JRcHZfaTI1YlREZjdFYXJqWXRpSWFhRjVR?oc=5",
       "published": "2026-11-10T12:06:00+00:00",
       "source": "U.S. News & World Report",
@@ -666,13 +1177,6 @@
       "published": "2026-11-10T12:02:53+00:00",
       "source": "Facebook",
       "category": "เศรษฐกิจ"
-    },
-    {
-      "title": "ซัมซุงประกันชีวิต (ประเทศไทย) เดินหน้าสร้างการเติบโตอย่างแข็งแกร่ง จัดงาน “Power The Mission” ผนึกพลังฝ่ายขายทั่วประเทศ - Positioningmag",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwVG53Y1lzYzc3b1l3cmZVaWUwb19YOGV0OGxaTHg4WnNpMFFKSjlKWHRRSDZrZ1FVWS1jT3ZOWnRBa3VKNU5SMHRTazdjaXZmMDdF?oc=5",
-      "published": "2026-11-10T12:02:16+00:00",
-      "source": "Positioningmag",
-      "category": "ไทย"
     },
     {
       "title": "“วาสนา” อ่านเกมสหรัฐฯ-จีนต่อกัมพูชา ชี้เบื้องหลังยุทธศาสตร์มหาอำนาจ - Head Topics",
@@ -696,18 +1200,11 @@
       "category": "เทคโนโลยี"
     },
     {
-      "title": "ออสเตรเลียเตรียมใช้กฎหมายจัดการ AI ละเมิดข้อมูล - ช่อง 7",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5xd2s5WWsxd2FaMEJMQWdtYXltX0JmQVRmcVM4Q2ZiaTVTT1FRazBhUHQwbTVDV0lzRTR1cEtQS050RU4zRWh0c1RTWQ?oc=5",
-      "published": "2026-11-10T11:57:47+00:00",
-      "source": "ช่อง 7",
-      "category": "เทคโนโลยี"
-    },
-    {
-      "title": "Anti-scam conference underway in Thailand | NHK WORLD-JAPAN News - NHKニュース",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1tZGYwMXY2bzNscFY1NXBNSGhhOTNCRVNUaTRGbzFwWFhzeFI3S3lIcE5Cc3paRFhFanRNYnVsY1BuaHJlaXhBbzE2WC1hYnc5ZmdFWEVrNGdUR0J3NDc0Wm5Sdw?oc=5",
-      "published": "2026-11-10T11:56:38+00:00",
-      "source": "NHKニュース",
-      "category": "โลก"
+      "title": "ซีพี แอ็กซ์ตร้า ผนึก ล็อตเต้ ต่อยอดอาหาร-เครื่องดื่ม รุกเอเชียแปซิฟิก - ประชาชาติธุรกิจ",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1iQ1Q5bHIxSlBaU3ZlZ09lZUNDeDh2OEJGRlh2eGRKbTJmSXBld193RlV2NWEtTUE5WmJkUXlGaERvNk5YYVFndk1zNjFRX2t6Q3dYYkxpbkMxNmdJ?oc=5",
+      "published": "2026-11-10T11:58:30+00:00",
+      "source": "ประชาชาติธุรกิจ",
+      "category": "ธุรกิจ"
     },
     {
       "title": "การตอบสนองเชิงรุกต่ออุทกภัยและฝนตกหนัก เพื่อให้มั่นใจในความปลอดภัยด้านการขนส่งในภาคกลางและภาคเตยเหงียน - Vietnam.vn",
@@ -717,25 +1214,18 @@
       "category": "สภาพอากาศ"
     },
     {
-      "title": "JR East planning touch-free ticket gates - NHKニュース",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVX2dVU1hrVG85YS1TSGxJYkpHRmw4dDFUS3c2cVRxX3NxaVlhWTdsQUpoOVRlWE52NnduMUd6TlZPa2hSQnFlNkc3cTFVZnB3clR0TUcwcHNRRElsbGVsQ3d6RQ?oc=5",
-      "published": "2026-11-10T11:55:09+00:00",
-      "source": "NHKニュース",
-      "category": "โลก"
-    },
-    {
-      "title": "CP-CoEX โชว์ความสำเร็จหลักสูตรนำร่อง AI Business Accelerator ผนึก 7 พันธมิตรชั้นนำ ปั้นผู้นำยุค AI พัฒนา 7 โครงการจากโจทย์ธุรกิจจริง พร้อมเปิดเวที Dolphin Tank Final Pitch ต่อยอดนวัตกรรมสู่ธุรกิจ - - WeAreCP",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBZkpOR1dRcHR4QVktSzh4ZGZwNUdrWmhxN2tkc04zZS1vdWgyYklzaW82ejJCcWFQZmhTenNxWmt1RWNoRV9FeWJLRXZ5NzI1bGYtUEVJbVI2YW5EaU40UXI0Y08?oc=5",
-      "published": "2026-11-10T11:54:12+00:00",
-      "source": "WeAreCP",
-      "category": "ธุรกิจ"
-    },
-    {
       "title": "เปิดตัวคู่มือ มิชลิน ไกด์ ประเทศไทย 2570 เผย 53 ร้านอาหารคว้า “ดาวมิชลิน”ปี70 - Thansettakij",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmamhHcDE4d3l3cnR2eHQxOWZsZWlYNXRkM3QzVWxvTXZzVnJKNENMUDdRN0pFNWdreFl2cFREOG5saklpaVhOZjRzQXRwQkJRNGFEOWVOdVlSVmFSYURXRHBB?oc=5",
       "published": "2026-11-10T11:50:00+00:00",
       "source": "Thansettakij",
       "category": "ไทย"
+    },
+    {
+      "title": "ถ้า NVIDIA ไม่มี ‘เจนเซ่น หวง’ ใครจะพาอาณาจักรล้านล้านเดินหน้าต่อ ในวันที่ AI ยังโตไม่หยุด? - Brand Inside",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPU3p2QjBLRzBaTG5vdExUUnpxUS1XVzd6THBaUHhSRDBfaEQ2TmFEWXh1NjE4RE52VkpiSVBLaWRtY1Y4Z3BtRnNWdExvZGJaUzB1bTlQOWNOZVBPWG1QYkQydFU1N2RpXzJabUF4c1pIdjNHdjBQeDNROV9JZlNnTW04SmlZOHc?oc=5",
+      "published": "2026-11-10T11:47:47+00:00",
+      "source": "Brand Inside",
+      "category": "ธุรกิจ"
     },
     {
       "title": "มิชลิน ไกด์ ประเทศไทย ครบ 10 ปี ทำสถิติสูงสุด ร้านติดโผทะลุ 500 แห่ง “พรุ” สร้างประวัติศาสตร์สองดาวแรกภูเก็ต - LINE TODAY",
@@ -780,18 +1270,18 @@
       "category": "โลก"
     },
     {
-      "title": "ITEL เผยผลงาน Q3/69 EBITDA โต 16% แตะ 153 ล้าน | The Better - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wMTFaRVMtRXZpbnFmUGtYSnB5Ty1OOU5nVUR4cWN0eWNYeVFGSmlRejlsNndXbmRXX1labjRTWTNQSUU4bTZ0dHpwc0xYTUlpTGJmaVh3?oc=5",
-      "published": "2026-11-10T11:29:52+00:00",
+      "title": "MGC โกยกำไร Q3 โต 26% แตะ 319 ล้านบาท รับยอดขาย XPENG-ZEEKR หนุน | ข่าวหุ้นธุรกิจ - LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xVm9kd1EyNWppT3R4Njd4V01sV3JqSENqS0N1QjlVX3dpUU53TW9vSTNOeDUzNThYazlXaEl1VTB3UnhUb0MxYXZCQlp0cWU4ZVRFYlJ3?oc=5",
+      "published": "2026-11-10T11:28:35+00:00",
       "source": "LINE TODAY",
       "category": "ธุรกิจ"
     },
     {
-      "title": "Australia to tighten AI safety rules | NHK WORLD-JAPAN News - NHKニュース",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IYVpRaDVQYnJ2c3FkYk00MXBDNmQtU0RhTXh6U1RjcHRmRHVCeEFmRHgyUnU1a0Rsd0tMUDJ3QVdKdXNFVGRkdXdiUGNlZ3hVMGJPZUU5cm5UUG1lSHBNbzROTQ?oc=5",
-      "published": "2026-11-10T11:29:50+00:00",
-      "source": "NHKニュース",
-      "category": "โลก"
+      "title": "BTG ราคาหมู-ไก่ฟื้น ดันกำไร Q3 โต 12% แตะ 1.3 พันล้านบาท | ข่าวหุ้นธุรกิจ - LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50V3o3eV9FU1VwM3hmSVVBMnpZM3lBWE9QX3FnZ3NESUNpd2NGMzc0RURRb0M0cGg0aHdnMUNyOW5odVZxOHd6YTdCR2UtM0VzcUpweUxR?oc=5",
+      "published": "2026-11-10T11:28:35+00:00",
+      "source": "LINE TODAY",
+      "category": "ธุรกิจ"
     },
     {
       "title": "เชฟรอน คว้ารางวัลองค์กรรับผิดชอบต่อสังคมดีเด่น ต่อเนื่องเป็นปีที่ 17 - banmuang.co.th",
@@ -799,20 +1289,6 @@
       "published": "2026-11-10T11:27:00+00:00",
       "source": "banmuang.co.th",
       "category": "ไทย"
-    },
-    {
-      "title": "MGC โกยกำไร Q3 โต 26% แตะ 319 ล้านบาท รับยอดขาย XPENG-ZEEKR หนุน | ข่าวหุ้นธุรกิจ - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xVm9kd1EyNWppT3R4Njd4V01sV3JqSENqS0N1QjlVX3dpUU53TW9vSTNOeDUzNThYazlXaEl1VTB3UnhUb0MxYXZCQlp0cWU4ZVRFYlJ3?oc=5",
-      "published": "2026-11-10T11:26:13+00:00",
-      "source": "LINE TODAY",
-      "category": "ธุรกิจ"
-    },
-    {
-      "title": "BTG ราคาหมู-ไก่ฟื้น ดันกำไร Q3 โต 12% แตะ 1.3 พันล้านบาท | ข่าวหุ้นธุรกิจ - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50V3o3eV9FU1VwM3hmSVVBMnpZM3lBWE9QX3FnZ3NESUNpd2NGMzc0RURRb0M0cGg0aHdnMUNyOW5odVZxOHd6YTdCR2UtM0VzcUpweUxR?oc=5",
-      "published": "2026-11-10T11:26:13+00:00",
-      "source": "LINE TODAY",
-      "category": "ธุรกิจ"
     },
     {
       "title": "แมคโดนัลด์ คว้ารางวัล ‘AMCHAM Corporate Impact Awards 2026’ ต่อเนื่อง 15 ปีซ้อน - ผู้จัดการออนไลน์",
@@ -843,6 +1319,13 @@
       "category": "ไทย"
     },
     {
+      "title": "📍ปราบมิจฉาชีพ “ตำรวจภูธรภาค 2” แถลงจับแก๊งแอบอ้างเจ้าหน้าที่รัฐ ข่มขู่เรียกเงินบริษัทเอกชน 3.5 ล้านบาท รวบแล้ว 4 ราย . พล.ต.ท.วสันต์ เตชะอัครเกษม ผู้บัญชาการตำรวจภูธรภาค￼ 2 ￼ร่วมกับ พล.ต.ท.อิทธิพร โพธิ์ทอง ที่ปรึกษารัฐมนตรีว่าการกระทรวงทรัพยากรธรรมชาติและสิ่งแวดล้อ - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi_gdBVV95cUxQb3ZrTHNqUnNRNzd4WHRXdjRHblY1dVRYdnNDZEh6WEYzb1ZuQzl2amRaNDRwU3R4MlFGVDZfWlZzd1daRXZTTXU1YW9MZGJuWm1Sc1hZX3dmcjMtTUxJVEVHVEFvOEc3U01PeENvRmVtX3pWRmViak1lR21VQllkc3pnTXZ6LTROU2s5cTBrQ3dJOXZGd2I0Z2R3UHFsR3h2SXlmNVpITjJnMVE1XzhVVllHSFFheTRqOGZzRHN4QlBPOF9mUDZCZmR1MlhCcEViSjZrZUdwVHJOUUI4bjlVX3BvTy1RbHRzVmh0SDcwUUlERkxEeVdkZFlWNjBmT1BxNEtIckwwWnMtZktzYW5xejRPVDFuUWZSdERtSmMyeW9tNlUwZVA5emFYdXBzNHFPdEtJLVh4Y1lvUlp3cENOZ3pDLXhfQVY3a2g4dGEzWkxMYjZTY0otSDl4a2ptRWxCRlRCS1BKek1RSmJKdkJKLW5WNER0UmQ2S2dxMWlvWUFGZ2VPLTE5MlBJSWZBMVdrVjhoLWVqTHlUajBHQ1hfRWxQUTZEQVZOWkNFYkp0NGZjbUV5VjJ4Z2sxRVhDcDMzRDFremtnWk9HNUIydEpjLTdSZVpBU1Y4dVBYTVZFb3VSR1lXNWdLQzNzMXQzQ3NZc0U1WmZMVTNpYk1Td215LWR2cEZoalk4TU0yUVVwMWZQTzFXT1lhRklUQVcxQWtpVF9zekZpdzRDOWRYSm9waG1qcmJVZVpVOTU3S19sOHRkaGlSVlZrOXZrLXlERURXTGN0Zk5XT2lsMFF0U3hZZXRlSzRhejBXTk1DTGNwdmItcG5yT1Bkb1RLVElNX0tKTDdxQXF4NjBROTlDc2c5T1VIWnNDOXFxY1JfWWJyY19nbGpNUFV4UUpSVUZqOXYzcndhUUdjcWxwdGJVQzhTZTJVR214Q3NGNU1WcUJkcTVYeXhYYjJCdXdPWV9fdjBPTE9uTEFDWThJaWVuejlNcG84T1ZncWpVXzNERTFhN0k0YV9ueGFMcno2dFFwQ0tJaGpHUVNROV9neTBhUmNoVWVkNVJ4eGhaV0ZYUkd2QlI2dW85ME81dW5PTlFOcnZVeTJjRFVYcGJyZ1JnNlNuTTQtdG9qTXp2anh5SzZPOU5TZzR2X2xDNVItd3YxM0c2Tm9kY0VnbEJSekM0UXRpZEQ3VWJZMGV2TTVITjFEZWlNdUNTQmZ1bFpQWVBvbzN2VHhWOUc1YjM4NTM2dTAxVUhWamdCbEJCa3A0SkQ4c00wRkNRUG4zRFVhR1BXTG5vOEo0SUVvcHdmdzRQQXZGalVNVTVjTnY5T3g4NHkzTlc5NGxSVGVxeVVlUnU0dw?oc=5",
+      "published": "2026-11-10T11:20:11+00:00",
+      "source": "Facebook",
+      "category": "ธุรกิจ"
+    },
+    {
       "title": "AI เขย่าโลกการทำงาน! นายจ้างต้องยกเครื่องธุรกิจ มนุษย์เงินเดือนเร่งสร้างคุณค่าก่อนถูกแทนที่ - spacebar.th",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1oNUdzRjNKWGtPUnRzbkktUW5fNXFuMzI0QWlhdG8yVnBNeWNDNUI4SXhWM3hkaHhIaG1lSkFiRlVFUk9hODRZRU5CYXVOS3FoZm1rZFpDRklFTEVLV1FkcEJLaEhSVjFtOWxDdllUaGFVWGtTWlFR?oc=5",
       "published": "2026-11-10T11:20:00+00:00",
@@ -871,6 +1354,20 @@
       "category": "เทคโนโลยี"
     },
     {
+      "title": "TEAM อวดกำไร Q3 โต 136% แตะ 92 ล้านบาท รับออเดอร์ต่างประเทศหนุน-มาร์จิ้นฟื้น | ข่าวหุ้นธุรกิจ - LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6ZWV4ekFScm15cG5PUDZsX19QUWg4WDdwYUQ1ejlZWjFCV3dKSUZnSTlMQ01kbXpUb0RjeHo3cWU4OWp3cHB1MnEyVExwbjJCbGZNS3NB?oc=5",
+      "published": "2026-11-10T11:15:25+00:00",
+      "source": "LINE TODAY",
+      "category": "ธุรกิจ"
+    },
+    {
+      "title": "“อนุทิน” จ่อลงนาม Joint Statement ภาษีสหรัฐ ช่วงประชุม ASEAN–APEC | ข่าวหุ้นธุรกิจ - LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tX1B5X0lYUVhmMWVGTGlSdjVsUEMtYnd4eXd2VmJTa2dvVktTZUdlM2s5aU9HTzNnbFlKVFFDSmdTbnU5aFZNYVozOXcxZVpSeUl0akR3?oc=5",
+      "published": "2026-11-10T11:15:25+00:00",
+      "source": "LINE TODAY",
+      "category": "ธุรกิจ"
+    },
+    {
       "title": "เมื่อ AI เข้ามาช่วยเลือกสินค้า แบรนด์ต้องทำอย่างไรให้คนยังเชื่อใจ เพราะยุคนี้แค่ทำให้คนรู้จักแบรนด์อาจไม่พอ | The Better - LINE TODAY",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFU0FQQ2RkdlczVjBDOUYtazNyNzBzOHZVbmdCVVlsd1c4bXJ6NFVuem42Qk9LQW43QUs1UjFxM0pUMzhFZnBkVThMWnpWUGhkR0VHdmRR?oc=5",
       "published": "2026-11-10T11:15:11+00:00",
@@ -878,11 +1375,11 @@
       "category": "เทคโนโลยี"
     },
     {
-      "title": "หุ้นไทย ปิดบวก 23.24 จุด เข้าใกล้ 1,500 จุด ขานรับ ครม.ไฟเขียวเกณฑ์ Data Center | การเงินธนาคาร - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OTnEtMURTQXdkbjFvc2pYaHUtS014MGgxNU5LLVRpZFJpemY5WHJSdjVlSnM2ODR0dWpicHpjVUloWkZhYktmNmowUzFmZ3NpdkJwRUpB?oc=5",
-      "published": "2026-11-10T11:14:22+00:00",
+      "title": "SCGP เตรียมขายหุ้นกู้ 5 พันล้าน ชูดอกเบี้ย 2.50% เปิดจอง 1 ธ.ค.นี้ | ข่าวหุ้นธุรกิจ - LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3MVNCYkwyQWFtYmxQOU1OSGtoMzFJeklVOVhGN2g1ZFRxTF9LWk5Rd3RYUFpCY29rWWdkajYyMWpMMGZaWTF5VkFCTlZ2dEhTQ1JVTEpn?oc=5",
+      "published": "2026-11-10T11:14:32+00:00",
       "source": "LINE TODAY",
-      "category": "เศรษฐกิจ"
+      "category": "ธุรกิจ"
     },
     {
       "title": "ตลาดหุ้นเอเชีย ปิดบวกยกแผง! KOSPI พุ่งกว่า 4% นิกเกอิทะยานเกือบ 3% ทะลุ 60,000 จุด | การเงินธนาคาร - LINE TODAY",
@@ -892,7 +1389,14 @@
       "category": "เศรษฐกิจ"
     },
     {
-      "title": "NER คว้ารางวัล Outstanding Investor Relations จาก SET AWARDS 2026 - LINE TODAY",
+      "title": "หุ้น Defensive! รับโฟลว์ต่างชาติไหลเข้า | Market Today | การเงินธนาคาร - LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tTGFBTDVFTFBkeEVvS2dnbnoxaWY3aU4yOTlKd09RTk8xbi0ySFB5NWU4UkNPT1A3TDVhUm5tc2NGd1BzLWYwbjI3NW1KOERrRFZqb3Jn?oc=5",
+      "published": "2026-11-10T11:14:22+00:00",
+      "source": "LINE TODAY",
+      "category": "เศรษฐกิจ"
+    },
+    {
+      "title": "NER คว้ารางวัล Outstanding Investor Relations จาก SET AWARDS 2026 | การเงินธนาคาร - LINE TODAY",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81QXNKOGkxcU1YaGVad21rQlZYVUszUnVFbmdnOVJaU0lFYlJueTRjaFlkemdyQXRub1U1UGRZM2dfUm5KWmx3S0NBSmJqQnh5d3ZsN0JB?oc=5",
       "published": "2026-11-10T11:14:22+00:00",
       "source": "LINE TODAY",
@@ -920,32 +1424,11 @@
       "category": "ไทย"
     },
     {
-      "title": "SCGP เตรียมขายหุ้นกู้ 5 พันล้าน ชูดอกเบี้ย 2.50% เปิดจอง 1 ธ.ค.นี้ | ข่าวหุ้นธุรกิจ - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaHV1VGQ0SkxmTDRsQnhuaHUteHQzRDFJQ3JhdTJaY1VHd3NlRnAyS1ozeTdnNTdHaTl0cHgtTkZRWDY4MFpZZWhTSjJhc1RvYnZmSHB4RktyRFRLS1lNVDJ5dG1VSjhzUHhjSkdNSFFZeDlLSXM3RmR2dHVqejhjWA?oc=5",
-      "published": "2026-11-10T11:13:41+00:00",
-      "source": "LINE TODAY",
-      "category": "ธุรกิจ"
-    },
-    {
-      "title": "TEAM อวดกำไร Q3 โต 136% แตะ 92 ล้านบาท รับออเดอร์ต่างประเทศหนุน-มาร์จิ้นฟื้น | ข่าวหุ้นธุรกิจ - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6ZWV4ekFScm15cG5PUDZsX19QUWg4WDdwYUQ1ejlZWjFCV3dKSUZnSTlMQ01kbXpUb0RjeHo3cWU4OWp3cHB1MnEyVExwbjJCbGZNS3NB?oc=5",
-      "published": "2026-11-10T11:08:59+00:00",
-      "source": "LINE TODAY",
-      "category": "ธุรกิจ"
-    },
-    {
-      "title": "“อนุทิน” จ่อลงนาม Joint Statement ภาษีสหรัฐ ช่วงประชุม ASEAN–APEC | ข่าวหุ้นธุรกิจ - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tX1B5X0lYUVhmMWVGTGlSdjVsUEMtYnd4eXd2VmJTa2dvVktTZUdlM2s5aU9HTzNnbFlKVFFDSmdTbnU5aFZNYVozOXcxZVpSeUl0akR3?oc=5",
-      "published": "2026-11-10T11:08:55+00:00",
-      "source": "LINE TODAY",
-      "category": "ธุรกิจ"
-    },
-    {
-      "title": "ผู้ถือหุ้น Nvidia ฟ้องคดีกลุ่ม 'เจนเซน หวง' ปมสัมพันธ์นักธุรกิจจีนต้องสงสัยสายลับ - spacebar.th",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORFBQVVVTOTg2eHJoQVNuVjl2N2h5YkRITk9vZHhJNEJHaWhCbFcxMDFSWjhtOG1FYkhlMDFfckZiUngzU01mcHNjSFhKczk5d0ZXR0Y0cjllWVhCbVZIM0ZiSDAwRUU0bFN4Q2hMY1lWZWlSdFRpLTA1RE00V3Y3eVBmMkcydUVFVnJ2OGtYMWJ0dw?oc=5",
-      "published": "2026-11-10T11:08:00+00:00",
-      "source": "spacebar.th",
-      "category": "ธุรกิจ"
+      "title": "เมื่อ AI เข้ามาช่วยเลือกสินค้า แบรนด์ต้องทำอย่างไรให้คนยังเชื่อใจ เพราะยุคนี้แค่ทำให้คนรู้จักแบรนด์อาจไม่พอ - THE BETTER",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HbEFQSXptY0t2RWdGZEVYVHNxank5Y3UxNUxKRUUxeHBnc055ci1ac01nVlZUakE0S1R1Q0c0MUlRZ1VxcE9ORzlybkZxWkFzamk0OUhPRVdCSHM?oc=5",
+      "published": "2026-11-10T11:11:15+00:00",
+      "source": "THE BETTER",
+      "category": "เทคโนโลยี"
     },
     {
       "title": "สัมภาษณ์ซีอีโอ Acne Studios หลังประเทศไทยกลายเป็นหนึ่งในตลาดที่สำคัญที่สุดของแบรนด์ - thestandard.co",
@@ -969,13 +1452,6 @@
       "category": "ธุรกิจ"
     },
     {
-      "title": "ออสเตรเลียเข้มงวดกฎระเบียบด้านปัญญาประดิษฐ์ (AI) หลังระบบ OpenAI ถูกเข้าถึงโดยไม่ได้รับอนุญาต - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYk9FVFdOd3pOR2E4MVBha0ZsbnF4NnFEMTVQSEFHc2pKdlVCMjN3WC1nRWUyQ0NYOE5fOU94dVdnUEd3OW4zalBPcGxCeU1tbzc2dUQyYVJIeHY1YXB4SE1kbENCTlRsRTZtUjRYZ3JhZ2VBeU5GQjlVb2JBeHU0cFZVRGdoWUp4WGVBVVMtYw?oc=5",
-      "published": "2026-11-10T11:04:38+00:00",
-      "source": "Vietnam.vn",
-      "category": "เทคโนโลยี"
-    },
-    {
       "title": "SET ปิดบวก 23 จุด แรงซื้อ DELTA-GULF หนุน พ่วงขานรับ ครม.ไฟเขียวเกณฑ์ Data Center | ข่าวหุ้นธุรกิจ - LINE TODAY",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZZURvbXhFME4tOXhFVVlMNUNsMS1vRmVmeWxPeHp3UVpOQjNRS2I4aGwtR1JHbl9QUkE0VGVHa2dTOGo4TmNVNmRrSndFUnVxd094aUd3?oc=5",
       "published": "2026-11-10T11:04:31+00:00",
@@ -990,25 +1466,11 @@
       "category": "ธุรกิจ"
     },
     {
-      "title": "มันจุกจริงๆ! หมอวรงค์แฉ น้ำมันแพงคนไทยทุกข์ทั้งประเทศ แต่บริษัทน้ำมันกลับกำไรเพิ่ม 70%! หมอวรงค์ เดชกิจวิกรม สส.บัญชีรายชื่อ และหัวหน้าพรรคไทยภักดี ออกมาเปิดเผยตัวเลขผลประกอบการของบริษัทพลังงานรายใหญ่ สะท้อนความแตกต่างระหว่างความเดือดร้อนของประชาชนที่ต้องแ - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMiighBVV95cUxNQXJxZVp4aVZTcGxKbHpNOUpaaWdXUFNDbnpDUURRRGFOV0lEMnFGZE1mYS01ZDdTdEJwR0d5Xzd4eU84N3RyV0tEeGFhZ204VWhBSVhoRU9YSlhzODRTaVdndWZGQ1ZXMm1tb3JfRE9veHliYjQ3Z0RDYWxZM2tzYkFDVVlKZmFlZlVnZGxKNXo1WFQwX2tDNU5EVEJ1TEVXV3lnRWUzQ2xKMkVjYS0wVnJrazFjX0QyeEpHLWxUd21hMEN4ZWs1TV9pc2ZKQThiVjUwV1FPam9KdzEtVUZGQTljOVdGUWhqc1U2UVB1WjJNeU04NVVVaDFpeWxSYVRKRHRtSFNjQ1h4b1RhV2lPUFk5eEJ4b3J1S2N0cnRJNngyTVFrS0ZBR3RwV3RvS29HaC1pSUN4ckh4eUZLZEVzMmg4dDhXc2l0b0w3eWlxOXU1ZnNDTWVvZVMzZzF2RlJuczNIWTNYUDZnNl9HVnMxdnBVaWg0T2hBclQtQTlMTkxrbUpQbFRmRHBQTFkxOGNLVVFVTHp0c3ZqWUlBaHBmSXRQczIydlVUTU1KUHQ3Tkw2MU9ZVklWYnJGcFRLQTYxSVBVcHhXU1BaMjVySzJZeW9LZzJ5MTFFUVFlQzhiNHFPQjlqYjdreV9tbWFLc2c2b2k2alpXMDVaVTdNdXVXaXI0bkRuVDd2QWl2bUFOamo1azFkLU90RnNsN2NUcE9SYTBCbVgtTHhXT1hNaFp1amFfYV9ldmZTRGlKei1NbXA2VWo3YTA2Y0FQZ0RxT01oVng3MDNkZ1JOMWdBc0htQ0xhUjZkTU1qSklUbXpoUWlLUHFMd0xqT1dyczI0UFo2dENJQlFXeC0tS09FTkdGUFZhMTVwSVBrVmF1UmxnSFo1d2xzSlI4SWw0VFJ2bUdsWkVZTWxVd203eVV3LUVqclRPMl9KaHBEUFBhTWptMHZzQjJHdG5lVjNWR0g0NEtOQU94cmxwWDJodVR6VGRuTDVlbXVuSTFJMUEydF8ySjNiUEZDREg4MUttTC1zbnd5V2l3MFJUaGROLTZZUEQ4MTZZeDB5aTFnNk9sajN0Sm9Edm1yUnByN2o0emJ0ZHhSWHhyQi1GT1ZmMFIxVXZKT19xNENfNXN4dzNKOHI3alZFQXJYVW5JY1FodHRYNlQ2NGJaN2hzWjZ2T1ZOeTZJYjhxdzgwQU8xNjZQdlZyeXhaQkx6RHV2WUk5OThhRkhneEhnZGFmTUNkNWl5WmszcFh4eXp2MUdlQ1ZGVWNSN3lwbkE2SDZSWnBDYTdyUG9yWGZfSzE5ZTlCam55dGtzbmUzMzRYRm96TFVLOWptYmVmRmI5WlZyTzZ4dG0wbFJsU3EwdDdYRHd1QQ?oc=5",
-      "published": "2026-11-10T11:04:07+00:00",
-      "source": "Facebook",
-      "category": "ธุรกิจ"
-    },
-    {
       "title": "ทองคำร่วงกว่า 1% หลังถ้อยแถลงส่งสัญญาณคุมเข้มนโยบายการเงินของเฟดกดดันตลาด ก่อนสหรัฐฯ เผยดัชนี CPI - www.tmgm.com",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZnd4YWUyOFFVUVctMXlhTjlfOFFIY2FKWC13YmE5eHlmc1Jxbnl2anROZXlaZkdheW1uc2Q1dGEtR1lwdHBWQXV2aFY0UXF2QnA5QWdLaU1BMENhWkc0XzJicC03cXVrM3ZPczJDRkJQUWYxYmQyNHpGcjBqeFlxSjQ1Zmxadng0X0sycWZjRGRRU1ZfX2FaTnluOUd4WE5lcm1JR1poeHo3SVRRMVN0X3dETnAzczVrY2FfQzZoY2J5NjBPRlAw?oc=5",
       "published": "2026-11-10T11:03:04+00:00",
       "source": "www.tmgm.com",
       "category": "เศรษฐกิจ"
-    },
-    {
-      "title": "The World's Best New Zealand Wines of 2026 - Wine-Searcher",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOE95YmFRbGFVekNrdHh5eWhhYkIycHAyc3RIN0JrQkVIeG16NV9tSGZnVFMtOWtGQ3ZCUy1YbVFnZnVxWWxDOG5aVERfQ0ZCazVncHpjbUNDSGM4M3VOWjUwYXJENEFrb2k1TzJ5T25oNHpWVEVWRE1OUHllVzV5N1ozRUpnd29Z?oc=5",
-      "published": "2026-11-10T11:01:22+00:00",
-      "source": "Wine-Searcher",
-      "category": "โลก"
     },
     {
       "title": "JOURNALปรับแผนสู้เศรษฐกิจซบ ส่ง’บอดี้มิสต์’ราคาจับต้องง่ายเจาะนิวเจน - เดลินิวส์",
@@ -1030,20 +1492,6 @@
       "published": "2026-11-10T10:57:16+00:00",
       "source": "UN News",
       "category": "โลก"
-    },
-    {
-      "title": "China touts tech, AI cred at world Web Summit - Yahoo Finance Singapore",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5LdGd0YnBsYXBXc01pTE9FQ0k3QlhQZ3FtNGdHVTY0NmR2NzdoZl9PbC1RanFXZGYtZVY5d1FYMnlQVFZCTEVmalJIZTZmV2RWWTJCYkxJLVpYSGhib3o4c2VzZ29jbGlBa2oxZE04cG1pWV85azB2Y1FkMldwUQ?oc=5",
-      "published": "2026-11-10T10:56:38+00:00",
-      "source": "Yahoo Finance Singapore",
-      "category": "โลก"
-    },
-    {
-      "title": "MRDIYT โชว์กำไร Q3 แตะ 648 ล้านบาท โต 7% บอร์ดเคาะปันผล 0.06 บ. จ่อขึ้น XD 23 พ.ย.นี้ | ข่าวหุ้นธุรกิจ - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrSzR0bWhBekhkYXYzYjc4b2EtTjdBamZZSUxDMHpNOXRucktQRmtZc1J5LUNsajFiNGx5YzYtMzdIWmdSWDRsWExZa2ZDemNVYld0dVBn?oc=5",
-      "published": "2026-11-10T10:55:24+00:00",
-      "source": "LINE TODAY",
-      "category": "ธุรกิจ"
     },
     {
       "title": "“กองทุน-ต่างชาติ” เคาะซื้อหุ้นไทย 2.5 พันล้าน ดัน SET ปิดบวก 23 จุด | ข่าวหุ้นธุรกิจ - LINE TODAY",
@@ -1081,25 +1529,11 @@
       "category": "ธุรกิจ"
     },
     {
-      "title": "Canada Reimposes Sanctions on 11 Iranian Entities for Contributing to Nuclear Activities - U.S. News & World Report",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVGVkenBCRDZPTWoyRk1vekdjMlFzYmlscF9aNnV1SE52MDRsTmxFLTZUenBuRXcxNVdoUzNfbklyWXNRc01FcUpDQWxYeDB1eHBoRFMtWWFYZmRybVlWdEx1VGdQVjlOd1l5TEtldFN0SWdOOHd4QmhVTndaOVl6NWNEaGp1aWZDSnNxanZIdzNNMG84VmNycjFNVVlQOTZMOHhWR3RQZXdDeTRLYkRJUXVFVGtfbW9rYTZicldKLUpTWUVKS0o2N0VmQXVOYU5GRTB6RVdmMjRPdw?oc=5",
-      "published": "2026-11-10T10:44:00+00:00",
-      "source": "U.S. News & World Report",
-      "category": "โลก"
-    },
-    {
       "title": "ด่วน! ระเบิดป่วนสตูล สนั่นรัศมี 3 กม. เสาไฟโค่นยับ พบระเบิดแสวงเครื่องซุกอีก 2 ลูก สั่งปิดถนน 100% - สยามรัฐ",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5aLTkwaXNTTFRtZmtwa2NCcXpzM3NEaWlCMkRDalBBVFBnYkswS2tlYXdJTW1YS2lsOVBNa3RCbE9xSi1mVW9HMDkwdlZpNTQ?oc=5",
       "published": "2026-11-10T10:44:00+00:00",
       "source": "สยามรัฐ",
       "category": "จราจร"
-    },
-    {
-      "title": "ครม. เคาะ 16 ธ.ค. หยุดราชการพิเศษ พระราชพิธีถวายพระเพลิงพระบรมศพ “สมเด็จพระพันปีหลวง” - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pYUhJQ2FnSTdEUXZVbWlBZ3d0Y1I2UXRxdndES1pNMTZLNjVjNzJVUFducHZvWjZrTnBabGlJanpzRUV1QTB5Y3RSdzBJbU1wZjRqQk93?oc=5",
-      "published": "2026-11-10T10:43:35+00:00",
-      "source": "LINE TODAY",
-      "category": "ธุรกิจ"
     },
     {
       "title": "ภาคใต้ 5 จว.พรุ่งนี้ 11 พ.ย.กรมอุตุฯเตือนฝนตกหนัก ระวังน้ำท่วม - Thansettakij",
@@ -1130,15 +1564,15 @@
       "category": "เทคโนโลยี"
     },
     {
-      "title": "SGC โชว์กำไร Q3 โตเท่าตัว รับสินเชื่อ “ล็อกโฟน” แกร่ง ลุยต่อยอด Lock Appliance ปลายปี | ข่าวหุ้นธุรกิจ - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43VlZJSjdHbjFVNGc1bk1jVEx0cHU4UHFSdDlIQklwbjI4QTlTZXZLOUVXT2t5X090S0p1ZlhJa0xHenFidUlrWU1yRjFONUZUR2lJRGxB?oc=5",
+      "title": "SNNP เปิดกำไร Q3 แตะ 70 ล้านบาท เร่งผลิตเบนโตะ-โลตัส-ออกสินค้าใหม่ ดันไตรมาส 4 ฟื้นตัว - LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TOUFNdUxxZW9Ua3BFNXl2ckdGNVRSNmYwUHgzYjlRMzl3WVZGTElMYVR1aURiS2RUZERIYlFmLXo3bW9qclFLczhoZUZ5MGRET2RhRmxn?oc=5",
       "published": "2026-11-10T10:35:24+00:00",
       "source": "LINE TODAY",
       "category": "ธุรกิจ"
     },
     {
-      "title": "TVO จับมือ EcoOils ยกระดับจัดการ SBE สู่เชื้อเพลิงชีวภาพ หนุนเป้าหมาย Net Zero 2050 | ข่าวหุ้นธุรกิจ - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UZm0yOThnQ0RlXzJIeUwtLU5kdTJoWWZxaEFHRGE1VExDOUNBWFdNT3Z3aGtQdFNON0pPMWhITGJYbkY4UGFMRFVoSk9ScmhLbjVDNHRR?oc=5",
+      "title": "SGC โชว์กำไร Q3 โตเท่าตัว รับสินเชื่อ “ล็อกโฟน” แกร่ง ลุยต่อยอด Lock Appliance ปลายปี | ข่าวหุ้นธุรกิจ - LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43VlZJSjdHbjFVNGc1bk1jVEx0cHU4UHFSdDlIQklwbjI4QTlTZXZLOUVXT2t5X090S0p1ZlhJa0xHenFidUlrWU1yRjFONUZUR2lJRGxB?oc=5",
       "published": "2026-11-10T10:35:24+00:00",
       "source": "LINE TODAY",
       "category": "ธุรกิจ"
@@ -1158,11 +1592,11 @@
       "category": "ธุรกิจ"
     },
     {
-      "title": "SNNP เปิดกำไร Q3 แตะ 70 ล้านบาท เร่งผลิตเบนโตะ-โลตัส-ออกสินค้าใหม่ ดันไตรมาส 4 ฟื้นตัว - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TOUFNdUxxZW9Ua3BFNXl2ckdGNVRSNmYwUHgzYjlRMzl3WVZGTElMYVR1aURiS2RUZERIYlFmLXo3bW9qclFLczhoZUZ5MGRET2RhRmxn?oc=5",
-      "published": "2026-11-10T10:30:02+00:00",
-      "source": "LINE TODAY",
-      "category": "ธุรกิจ"
+      "title": "Meghan makes first public appearance since father's arrest - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iNHl0YUVON1RRMDNHN0RrTkNCV3NpbUZVQ2t4bTdSTV9ONWFaZjZLNW44Ql94cWJXS2VkZmthOGswRHJiOTgxOTNldkhWY0RqZTc2SE9LeHFobDg?oc=5",
+      "published": "2026-11-10T10:30:32+00:00",
+      "source": "BBC",
+      "category": "โลก"
     },
     {
       "title": "มหิดล จับมือ OpenAI เปิด ChatGPT Edu ทุกวิทยาเขต แห่งแรกในไทย - Thansettakij",
@@ -1172,25 +1606,18 @@
       "category": "ไทย"
     },
     {
+      "title": "ภาวะตลาดหุ้นไทย:ปิดพุ่ง 23.24 จุดกลับเข้าใกล้ 1,500 จุด ขานรับ ครม.ไฟเขียวเกณฑ์ Data Center-DELTA ทะยานแรง : อินโฟเควสท์ - สำนักข่าวอินโฟเควสท์",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uM3lQWG5VcjYzcXRoRnpFZW9PaHlkQkxGUjdaVzE3LV9nSXRNYlh6Tm4tTkxKc0V0MUZ4RjBIRk9OVno1WHAxclp2THdXUXQ3?oc=5",
+      "published": "2026-11-10T10:29:31+00:00",
+      "source": "สำนักข่าวอินโฟเควสท์",
+      "category": "เศรษฐกิจ"
+    },
+    {
       "title": "SAV โชว์กำไร Q3 โต 15% แตะ 148 ล้านบาท รับเที่ยวบินกัมพูชา-มาร์จิ้นเพิ่ม | ข่าวหุ้นธุรกิจ - LINE TODAY",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CY3pGV1lzX0NfdlRBcU5uU2UtUzd6QkVZa0VaMTVZRUlnSDZPcUgteDNKUUtPVkhwZjZVMTFhZWhrdHJOOXF4SGk5OEJlMzZUYTZCMkdR?oc=5",
       "published": "2026-11-10T10:28:34+00:00",
       "source": "LINE TODAY",
       "category": "ธุรกิจ"
-    },
-    {
-      "title": "‘สถานทูตจีน-ป่อเต็กตึ๊ง’ลงพื้นที่เยียวยาผู้ประสบภัยน้ำท่วม‘ฉะเชิงเทรา’ - แนวหน้า",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVNTQxZThnODN5TnhDSnNIWlZrWjl6S1E3dzVDVEFYWHJoMVVscFkxYlJJbDhwSWJ4Y0JKM0ZZNEw2d3g2b0JqU1gweHZrT1RCYlE?oc=5",
-      "published": "2026-11-10T10:27:48+00:00",
-      "source": "แนวหน้า",
-      "category": "สภาพอากาศ"
-    },
-    {
-      "title": "Pakistan Blames India's Diwali Fireworks for Lahore's Toxic Air - U.S. News & World Report",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTnRpdnhiVV9ZbkFydEdCWHZuUDBQcTN3Rnc0dmlmYXJVMExZVm9FdWVhWHJRNFEwazB6S0FnSEpVREo2ZEpqc2ViY2l2ZGlZTlVwdXlRRVF2M2hqV2VFbXQxOUVsUUt5Sk9hbk1VQXdlRzBUejVkZHRpUWZvbUlIVDhyUERRNTg1OUFHaFE4WWZhUDJSQ0JhV3lNdS1NX2ZmdzNOMU8xWkEyZUZQcjRsV1hzcm5XZw?oc=5",
-      "published": "2026-11-10T10:25:00+00:00",
-      "source": "U.S. News & World Report",
-      "category": "โลก"
     },
     {
       "title": "เจาะลึก AI ไทยตรวจจับน้ำท่วม นวัตกรรมประเมินภัยพิบัติเชิงลึก - posttoday",
@@ -1228,13 +1655,6 @@
       "category": "เทคโนโลยี"
     },
     {
-      "title": "พยากรณ์อากาศสำหรับคืนนี้และพรุ่งนี้ (11 พฤศจิกายน 2026): อากาศหนาวเย็นทางภาคเหนือ ฝนตกหนักถึงหนักมากในภาคกลาง - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc0dxbXpoVENZdWZXZlVNdVJKOWd4b0prRkV6dzFaQ3RZTlVNZGVWalpOdDdzczhqNlYwVG9PUlNqLWQ4Q3JzN2xQSXB1SWlfODh0WmMwYXF3RFREVDc5eHJhc081c0p6ellWWkwwd2xKMjF6dUpFeC1nXzVKV0xNa0s4TmhZT3diZlZrT3I1ZHBkZWlJQXFSUjg4dkpJM0lNbnZac3BISHNQNURDNENGRw?oc=5",
-      "published": "2026-11-10T10:18:59+00:00",
-      "source": "Vietnam.vn",
-      "category": "สภาพอากาศ"
-    },
-    {
       "title": "ทางเลือกใหม่ในการรักษาโรคเบาหวานด้วยอินซูลินไอโคเดค ชนิดฉีดสัปดาห์ละครั้ง เพื่อลดอุปสรรคในการรักษาด้วยอินซูลิน - Positioningmag",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XamlJUDQ4TE5WNzRDWHphaUtnMWxyYlZtQWVhZlNlc1pFVTZtNXNWeVZuTERLRi1EcFZrYm0wd0U3UFpwVlFwR1ZqZlRYMk5JWkk4?oc=5",
       "published": "2026-11-10T10:18:55+00:00",
@@ -1249,20 +1669,6 @@
       "category": "เศรษฐกิจ"
     },
     {
-      "title": "ทางด่วนพระราม 3 งบบาน ครม. เปิดช่องกู้เพิ่ม 7,200 ล้าน - Head Topics",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UMVdoRTZ0UEotdG02N0xCMDY5SWlXdlhzVFhYNEtRc0NYbzlHYnlyaktuYTNBYUEzWjdOSFhmWjN5czVXQ3JtQThtN0x6RmdJd0Qxc0JuVVk0aE1DMjJVSXJhaDJXRzBHdVVhMDRn?oc=5",
-      "published": "2026-11-10T10:18:00+00:00",
-      "source": "Head Topics",
-      "category": "จราจร"
-    },
-    {
-      "title": "สภาพอากาศวันพรุ่งนี้ 11 พ.ย. เตือนภาคใต้ฝนตกหนัก ทั่วไทยอากาศเย็น ลมแรง - The Bangkok Insight",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUZFJxTUtqMmRLcUdvQUdRSUI0MWZkcGZtMTNDekllVDNLV0N0cmtnaVFheVcyODA2cWhua19qd2Z5aHRXN2lsV1ZrdmN5VzdCQVY2eDVpVUNPckI4TW5TMUthdFctWl9qZ3o5dzhDZ1kxU0FZNlI4d0YzTzg?oc=5",
-      "published": "2026-11-10T10:16:42+00:00",
-      "source": "The Bangkok Insight",
-      "category": "สภาพอากาศ"
-    },
-    {
       "title": "อากาศแปรปรวน “ไทยตอนบน-ใต้” ฝนตกหนัก กรมชลฯ เตือน 11 จังหวัดลุ่มเจ้าพระยา เฝ้าระวังระดับน้ำสูงขึ้น - spacebar.th",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaFh1QzVraFEtM2xIbFJ1V0k2OWh5ZTBOVDlBWjJQUFBwelAyUG9JTXg2YU9UdlY3RTZlaUc3YVV3QkF6RzFUNGlUdE80TDRGa3NVSHRxWUZrUGM2Z19fbWdYY09CV0VMZG1WeXBlZURBUmpETTdOOEZVeFdXNjJIb0tjWlluRUx2bkFnenFIenVlelFUdDBmdnpBOUV0UkF1M3VpajBkcmNJcWVDWUotRw?oc=5",
       "published": "2026-11-10T10:15:00+00:00",
@@ -1270,18 +1676,11 @@
       "category": "สภาพอากาศ"
     },
     {
-      "title": "BIG LOT: รายการซื้อขายบิ๊กล็อตตลาดหุ้นไทยวันนี้ (By Time) : อินโฟเควสท์ - สำนักข่าวอินโฟเควสท์",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5uSWQwa25EbGNhUGdSaEJkajFCVDNTUG1KQVE2N0pLQnBoeXUxWEpIcnZIYmltY1l3cFdRQ1FNdllBQWJUaE5QRF9ueUxCOWdC?oc=5",
-      "published": "2026-11-10T10:14:47+00:00",
-      "source": "สำนักข่าวอินโฟเควสท์",
-      "category": "เศรษฐกิจ"
-    },
-    {
-      "title": "CIMB THAI ผนึก CIMB Group ยกระดับป้องกันภัยไซเบอร์ทั่วภูมิภาค พร้อมระบบติดตามความเสี่ยง 24 ชั่วโมง - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oNGdhS2pUcGxDanRVZ01FendmbnlncXprMUxZY3JJRjNLRm9qbmVTeEc3UGR1ZXZOclBpZm94WXlFYUVOcWRuWXhvWFJZVzBLaUF5emFR?oc=5",
-      "published": "2026-11-10T10:14:43+00:00",
-      "source": "LINE TODAY",
-      "category": "เศรษฐกิจ"
+      "title": "จุฬาฯ ประกาศรางวัล The Most Powerful Brands of Thailand 2026 สรุป 31 แบรนด์ทรงพลังในยุค AI - Brand Buffet",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUEJhMG5XSG83d2RPZTRpRUVBVlp5akpmU1VBSFhLdEhYUHpHVzhyazN4NXBfcXdZeTVvZXBYMEpjLWFBZUF3R2Q3ci0wOGsxaGJJSDNhYWctWTI5SjZyS092TGNjR0JqSndnMWhYQzE4MWhyemZ3WlI3VVg4Z0lTRE1FWEtrSjN5bHgxd1VnYw?oc=5",
+      "published": "2026-11-10T10:14:00+00:00",
+      "source": "Brand Buffet",
+      "category": "เทคโนโลยี"
     },
     {
       "title": "THANI กำไรไตรมาส 3 โต 32% รับต้นทุนการเงิน-ตั้งสำรองลด - ข่าวหุ้นธุรกิจออนไลน์",
@@ -1319,13 +1718,6 @@
       "category": "ไทย"
     },
     {
-      "title": "สรุปกระดานรายใหญ่วันนี้ ADVANC มูลค่าสูงสุด 23.62 ล้านบาท | ข่าวหุ้นธุรกิจ - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtbzNER0o0QlVFbndqNWRRLWVmSFZ6bWt4enpHUk05d293MGUyeEpEeHNWQVhqMmd2ck5EMS1mVWE0aDhKdWI1RnhXQ0Q4MWtxMVcyd0RB?oc=5",
-      "published": "2026-11-10T10:05:31+00:00",
-      "source": "LINE TODAY",
-      "category": "ธุรกิจ"
-    },
-    {
       "title": "MAJOR จัดมาราธอนหนังไทย 72 ชั่วโมง ชิงเงินรางวัล 1 แสนบาท เปิดสมัคร 13 พ.ย.นี้ | ข่าวหุ้นธุรกิจ - LINE TODAY",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZdzZETUpDcVRpelhBRm81LThsdl93V2l1Ukxfa2M1eVE3WDdRa0FScExqdGxNTVc4WVh5NUEzaTg0N1hxb1ZfUjRUazdQbjVsWUFmeW53?oc=5",
       "published": "2026-11-10T10:05:20+00:00",
@@ -1338,13 +1730,6 @@
       "published": "2026-11-10T10:05:08+00:00",
       "source": "LINE TODAY",
       "category": "สภาพอากาศ"
-    },
-    {
-      "title": "หุ้น Defensive! รับโฟลว์ต่างชาติไหลเข้า | Market Today | การเงินธนาคาร - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tTGFBTDVFTFBkeEVvS2dnbnoxaWY3aU4yOTlKd09RTk8xbi0ySFB5NWU4UkNPT1A3TDVhUm5tc2NGd1BzLWYwbjI3NW1KOERrRFZqb3Jn?oc=5",
-      "published": "2026-11-10T10:04:48+00:00",
-      "source": "LINE TODAY",
-      "category": "เศรษฐกิจ"
     },
     {
       "title": "ผู้ว่าฯ สงขลา ถอดบทเรียนน้ำท่วม ดันนวัตกรรม “Hat Yai ROD” ลดความสูญเสีย - ประชาชาติธุรกิจ",
@@ -1361,396 +1746,11 @@
       "category": "เศรษฐกิจ"
     },
     {
-      "title": "Nvidia สอบปม “เจนเซน หวง” พัวพันชู้สาวหญิงต้องสงสัยสายลับจีน | 9 พ.ย. 69 | การเงินธนาคาร - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91aEplNkI0MzVqSC12OUNTWktRYW5Vc3gzSmh3cDZlM2dvODJKTzhNNkpzWHQ0bzVQUWVsMjdEXzlEX1ZnazlhN1ZMZlBFdEtWYTQyQWln?oc=5",
-      "published": "2026-11-10T10:04:19+00:00",
-      "source": "LINE TODAY",
-      "category": "เศรษฐกิจ"
-    },
-    {
       "title": "ไอเดียแล็บ ปั้น “The New KOLAXY” รับเศรษฐกิจครีเอเตอร์โต ยกระดับ AI-Data เชื่อมธุรกิจครบวงจร - ข่าวสด",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83YUZhWmI1MGVjVF9pU01jVFNEN1oyTnU5OUl2WUNYNUdka2NfMklWVXE1a0JVRkxpaGF1MTlIeHJoalBkd0JOUFV0akppNUhXT0ZKTlhUanZjRGcyLVE?oc=5",
       "published": "2026-11-10T10:03:00+00:00",
       "source": "ข่าวสด",
-      "category": "เทคโนโลยี"
-    },
-    {
-      "title": "NBC News - Breaking Headlines and Video Reports on World, U.S. and Local Angles - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE4zc0JGX3QybTRFVHlFdTEtbnUzTWxEM0xmd0JEMFBuOW9Ockl0aEhSZGo5cDdrSmdUMFpZRw?oc=5",
-      "published": "2026-11-10T10:02:11+00:00",
-      "source": "NBC News",
-      "category": "โลก"
-    },
-    {
-      "title": "Why the World Is Still Running on Fossil Fuels After 30 Years of Climate Talks - Inside Climate News",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNENuMTF6aHNja3NsRVVtTUpTcFFWaS1WdHpGa0lPRHk1QTVMV1NKZE1RbFdkbGJRV0N3M2VfZGxGR1ZLSjQ0SFZBU2p1Y2xscy1wNkI4dmlkb2Y0bEJOdThRRzU0YURCb3NQcnZUVDFXWnE1TkozaU5keC1scE00NjVXazZwN1VZUTlHRnVFMUg?oc=5",
-      "published": "2026-11-10T10:00:00+00:00",
-      "source": "Inside Climate News",
-      "category": "โลก"
-    },
-    {
-      "title": "US Air Force evacuates tankers from base in England due to Iran threat, Wall Street Journal reports - KSAT",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTEY3aVVUb0RCVXdXVTRfTTV3MWFVS2Z1cFR3N0pGTXo5eGx4OGpsSUdST3VtVlZhWnN3aDktdkdCR2ZiOEw3MjlXcFB5dWVoLUxRRVJqYnpWMWJZU1FkbkpaRU0xWUFWdHZ5RzNvR25yS1VRa1diTTVBZVFwX0xkOFdoRFQzUlFscUs0ZDhKRk11bTFnNmx6UFJYWkFWNGVUeVd1LW9uMkFrcWpNM1BJTmlXblp0RDk2cjd6VXNyc2hhS05jdzJhWEpKNkJ3Q2hWZnZVMW13WlVVQQ?oc=5",
-      "published": "2026-11-10T09:58:51+00:00",
-      "source": "KSAT",
-      "category": "โลก"
-    },
-    {
-      "title": "USD/JPY: ความเสี่ยงที่การเติบโตทางเศรษฐกิจญี่ปุ่นจะผิดคาด – ING - www.tmgm.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ2xtTWNqZ2ZFeW5zMGtocjBpejdKYjI3c3NwSElySEI1Z2JjNmRsMWVoR1g1VWJpOTBCRXdtV2hNMnZ1cnVCRXoyQ09mQ2RYOWxjUVBycnBkeWdzd09udG42MVc3NGNIcHVZcmVpN0FoMGw4SHhyV1BvZXI0REdEUTJSeGVaajZ6MHVyeTBRZW9ia19oUEU3YmJKS2hsYUFvNEpCRGg4eDRRVkE?oc=5",
-      "published": "2026-11-10T09:56:50+00:00",
-      "source": "www.tmgm.com",
       "category": "เศรษฐกิจ"
-    },
-    {
-      "title": "Garena ปล่อยแคมเปญ \"สนามประลองพายุคลั่ง\" รับศึก FFWS Global Finals 2026 - ผู้จัดการออนไลน์",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6WkU3X3ItMkFGOHVlZ3BhQklBLW9kd2xDY2djSTNOMmplQXltdDNKRldUUkhIX3Z0YVBDbVYwWmVwZXhGUll3REVCRGQ0TVE5ZHhienQ3cUhDQjQ?oc=5",
-      "published": "2026-11-10T09:56:00+00:00",
-      "source": "ผู้จัดการออนไลน์",
-      "category": "สภาพอากาศ"
-    },
-    {
-      "title": "สรุป SET100 วันนี้ AMATA บวกสูงสุด 10% | ข่าวหุ้นธุรกิจ - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XWmo0NlJ4TlBScjJaa2dhZWYweF9pd2dIU1FyY1ptTkxMVTM4X1d2dnRPbXRwM2kyeWxVZ2x3RFExc1MtQTQza3hoZUF4Y2tsNkE1ZTlR?oc=5",
-      "published": "2026-11-10T09:54:30+00:00",
-      "source": "LINE TODAY",
-      "category": "ธุรกิจ"
-    },
-    {
-      "title": "WHA เฮ! ปลดล็อกดาต้า เซ็นเตอร์ เร่งปั้น AI Campus รับทุนโลก - Hoonsmart",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBaZVRGYWkxSG55ZHhyc2VMS2ZCUWFQbnptTG00ajkxWk5rN0N6RW9iOTlvYV8zaE5DUTRxT2hEMUdWaDE3YlhKeUxGZkVvUQ?oc=5",
-      "published": "2026-11-10T09:54:04+00:00",
-      "source": "Hoonsmart",
-      "category": "เทคโนโลยี"
-    },
-    {
-      "title": "กสิกรไทยตอกย้ำความสำเร็จ AFTERKLASS Fin-Kareer Sandbox ช่วยเยาวชนค้นพบตัวเองก่อนเลือกเส้นทางอนาคต - ThaiPublica",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmbXVVMmp2cXZta1JPamJvRnB3Z3hNa3pEekVlYU50R2FvckU0WnZWX1N3NGQ1emlwaVJhX2JkLWlDbkIxSTM4ajk0c1k0ZGJrb3AwTGt0TWlCMEh1S1E?oc=5",
-      "published": "2026-11-10T09:50:18+00:00",
-      "source": "ThaiPublica",
-      "category": "เทคโนโลยี"
-    },
-    {
-      "title": "เปิดข้อสั่งการนายกฯ ประชุม ครม. 10 พ.ย. เร่งดูแลเกษตรกร-จับตาชายแดนเมียนมา | การเงินธนาคาร - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56UW0tWm9qOEZCTDAtd0JVOW5MazBocDlIWTFyaTY1b3M4WGkxWUhLZ2puazJoeVN6YWE5b1JoRG1qTWt4MTBmVTA2Ti12SFc4TWt6Sk5n?oc=5",
-      "published": "2026-11-10T09:49:35+00:00",
-      "source": "LINE TODAY",
-      "category": "เศรษฐกิจ"
-    },
-    {
-      "title": "ภาวะตลาดหุ้นอินโดนีเซีย : ดัชนี คอมโพสิต (^JKSE) — 10 พ.ย. 2569 - efinanceThai",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVW5jcWhzYmJaRWFZemJZNmE2OE5PemV2Z0ZGLW83YmlQelUxdjdUdzNCSzJKSi0wOTIzaVhNclRyRFg1NE4tR0NySjd1SVRKNWVRYXk1YV9PM2JnNHhTeUVaM1FnSHgxMWh0RkZKeU1Dd0ZyY1ZTRXNqNEtheFBTUEVNQkh1dkE?oc=5",
-      "published": "2026-11-10T09:47:05+00:00",
-      "source": "efinanceThai",
-      "category": "เศรษฐกิจ"
-    },
-    {
-      "title": "pg ทดลอง เล่น ฟรีโอกาสคาสิโนของประเทศไทยจะทำให้คุณตื่นเต้นทุกครั้ง มาเปิดบัญชีฟรีและรับเงินจริงที่คาสิโนโอกาสคาสิโนของประเทศไทยจะทำให้คุณตื่นเต้นทุกครั้งและเปิดโอกาสให้คุณชนะมากขึ้น - Portal Imbiara",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPUE9TUklCT1lWQkh6SHUyT3Q5RXhmQzJDYnQwTTVET1FMdy1KQThFMU1tdXRCZVpvYVZJeTh6VC1iVTZoT0duLVFkSkoya0xHOHd0a0d3SVFzNGVMUU5uM3pfWU5jUHhrUDM4LU53OGI2MzlLNkVfcURuN0RvTGNqZFN4MnRmajRoQUd1U3VUbUE0dVVwOWttcUNtUE9xMy1qcW5FdlFrQ01zQkJYa1NpZmRFOEFNMTVUNjMzTkVSWGMzenBvTDJzQlVycmVBQmVrRWEwVV94UWp5WmdKZlFEY01WaW80VWZ2QkN5Y0pJcGtwdnBCUTRzVG1hR3JJVHhKNTVKOHVB?oc=5",
-      "published": "2026-11-10T09:41:48+00:00",
-      "source": "Portal Imbiara",
-      "category": "ไทย"
-    },
-    {
-      "title": "'เท้ง' เตือนร่างข้อบังคับ ภท. ลิดรอน อำนาจฝ่ายค้าน - Head Topics",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oZ1RnUEVBRXlkc3liYy1XY3NpbnRwb2tYZlAyUGxMN2hCaFFRZkNjQk9Db0NOQVJ6SXpaTlN6VkQ5ZGc1eHVXMW1uS2hyeWJ0bGRKRU9kVndQekdlbHVVZzhmTnVfYkJjMkV6UW13?oc=5",
-      "published": "2026-11-10T09:40:00+00:00",
-      "source": "Head Topics",
-      "category": "ไทย"
-    },
-    {
-      "title": "รัสเซีย ไทย เดินหน้าขยายการค้าและลงทุน ผ่านเวทีเศรษฐกิจปี 2569 - TNN Thailand",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9STGJQWTJZOXpoXzg5dXMtSHM4a3RjWWlncHFYTEhodkpscGVKenZwZkVZQXJWYnJIZTBmNk9NckFacXZZd1dUMDU4bElGWnBBRFd3Xw?oc=5",
-      "published": "2026-11-10T09:39:04+00:00",
-      "source": "TNN Thailand",
-      "category": "เศรษฐกิจ"
-    },
-    {
-      "title": "อย่าตื่นตระหนก \"ดร.ปริญญา ชี้ ภัยไซเบอร์ยุค AI น่ากลัว ย้ำแฮกเกอร์ใช้ช่องโหว่โจมตีมือ - www.topnews.co.th",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2N1gzd25NdnVOU1hRQi1PUS0yZWxmS0xERGVkTjhDTl9mc3V1emozX3dzT01LY2JUMzZuSWtVQlFaUmx5N29jS0t3aTc2MWRzWHJ5Zm1B?oc=5",
-      "published": "2026-11-10T09:38:18+00:00",
-      "source": "www.topnews.co.th",
-      "category": "เทคโนโลยี"
-    },
-    {
-      "title": "ท็อปส์ เปิดตัวกระเป๋ารักษ์โลกฝีมือผู้ต้องขัง ร่วมสร้างสรรค์ “Pretty Ugly Bag” ปีที่ 2 - ThaiPublica",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2cTN2QU5ZQVdHYkQxSmIwWFZZWVNPM0xyZ3FJQ1B6b1ZjSnRSWkE0WVRGMU1ITEtxSG5fbHBuXzFGbHdlRXFlOFpxYm8zTkpEQm9KRy1YWl90QjdNU1RrMFR4cVR3OWxiTkg0?oc=5",
-      "published": "2026-11-10T09:38:11+00:00",
-      "source": "ThaiPublica",
-      "category": "ธุรกิจ"
-    },
-    {
-      "title": "‘เอส แอนด์ พี’ เปิดเส้นทางธุรกิจอาหารสู่ความยั่งยืนตลอดห่วงโซ่คุณค่า ร่วมงาน SX2026 มหกรรมความยั่งยืนที่ใหญ่ที่สุดในอาเซียน [PR] - Brand Buffet",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBVHZnc2hNSTRYREZHSEs4N0d6Ujh5b2lCMFlTOXM2ZGhSeVBWbE9aOVkxVWMwa3o5YmRpRWRjUk4tTlpJSVdodzVMb1dEV0pBQWsyWFFpZmJnVkpDOXRv?oc=5",
-      "published": "2026-11-10T09:37:41+00:00",
-      "source": "Brand Buffet",
-      "category": "ธุรกิจ"
-    },
-    {
-      "title": "Watch: Man smashes Chinese government building with excavator - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuMF9oRXRuR1BZc3NuUFN0ZkdmaWNCeDZobTd0N3VWZzl1NUQwV3M5cnhzZXNKSEJnUldEY1pFZ3U4a3Vid2h0NVBOM01ibkZzN3JNUHVod3lSVVU?oc=5",
-      "published": "2026-11-10T09:37:15+00:00",
-      "source": "BBC",
-      "category": "โลก"
-    },
-    {
-      "title": "NER คว้า Outstanding IR จาก SET Awards 2026 ตอกย้ำความเชื่อมั่นนักลงทุน | ข่าวหุ้นธุรกิจ - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oVDA5OGZUX1l3ekJSUTNLb2F6a2gtRlBvRlNZTThLQmhFOF9OM3JmMGF3UjRYRlZPT3k0WnJ3OV96VWxsTi1WUHFEbVpaYkhvUF9oYUJ3?oc=5",
-      "published": "2026-11-10T09:35:20+00:00",
-      "source": "LINE TODAY",
-      "category": "ธุรกิจ"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang's Woes Evoke Sympathy, Disbelief in His Birthplace Taiwan - U.S. News & World Report",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOX2RlQkRoV1lObXVoZU05Qk1nX1ZjeVJTbUVuWDRhTDd3NG1OMmY4SXRMd09PaW1BZjAwMlR0RmxnVUwtak1WYnJsbjV2S21sVlRqdE1qX1k1d09lNFUyajhvaTJZTkx6Q2N3TFFBdGpfd3otTWRrQ0w3VkVMbXNZaE9qZG96eWk0YmtEdFhacXctNklQa3VRUy02dmpJX2VlSkszX1Nld1VsdHpQdmk5VmM5MkFRa2tpNWtaWEdNOEhxMFpsU29ZMWJ0R0tfQQ?oc=5",
-      "published": "2026-11-10T09:35:19+00:00",
-      "source": "U.S. News & World Report",
-      "category": "โลก"
-    },
-    {
-      "title": "“ไทย” ถก “ศรีลังกา” เร่งนำเข้าแรงงานผ่านระบบ MOU ป้อนภาคก่อสร้าง-เกษตร | การเงินธนาคาร - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JN3JfRlFjZjRBMHV0MDN2Y2syN2pWZGUxN21HUmZGZ0czbVlMbGhrQnlPZEpvWmJLa1M2NzdKNU54Wl81UHhUaFRUUXpVOWJ2Q1o0b0Rn?oc=5",
-      "published": "2026-11-10T09:35:08+00:00",
-      "source": "LINE TODAY",
-      "category": "เศรษฐกิจ"
-    },
-    {
-      "title": "“อสังหาฯ เวลเนส” โตกระฉูด ลูนิคฯ ปั้นลักชัวรีคอนโดจอมเทียนเจาะกลุ่มลองสเตย์ - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nRzBNZXZmT0tBbFBfVEVyVDlLY0VGNURKTFotSHpQS1FMZGo1QXFCT2d3allJcGp3a1Rsa1Q5aUFMNHgyZDhnWkRGbjlrWkFoT3c0LU5R?oc=5",
-      "published": "2026-11-10T09:35:08+00:00",
-      "source": "LINE TODAY",
-      "category": "เศรษฐกิจ"
-    },
-    {
-      "title": "สรุปรางวัล ‘มิชลิน ไกด์’ ประเทศไทย ทุบสถิติใหม่ กวาดดาวสูงสุดเป็นประวัติการณ์ - komchadluek",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EUjBPQjJva19NclNjaHFsV3FOYkxVa3FXUzRscWVIOF8tY1pHd0VoQU13anNGV3g1SGJyNkhfOTk0ZmVMUmdTdF85dTVqejNkOHVxUkgzd3lWeS0xWUVRYVhSOGM0U0Fi?oc=5",
-      "published": "2026-11-10T09:35:00+00:00",
-      "source": "komchadluek",
-      "category": "ไทย"
-    },
-    {
-      "title": "ธนาคารแห่งประเทศไทย ยกระดับป้องกันภัยไซเบอร์กับธนาคารทั่วประเทศ - ศูนย์ต่อต้านข่าวปลอม ประเทศไทย",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWGRMZkFPY20tQXRLWDU0VmpMYXN4cU41c2hkVlQ0YXdlSzNZbUlFZ1RvV1BaNzJEaGpVTzRmVFN3NnZjbWlJeEtvVGIzUW9aR1hhUmFfb0xTNkJPVFlubmpyUDdZNkxBUzAxVjVTNGdqd2tfZVN2ZmRnLWtMV2ZWSnZzaUFuWElkZmc?oc=5",
-      "published": "2026-11-10T09:30:35+00:00",
-      "source": "ศูนย์ต่อต้านข่าวปลอม ประเทศไทย",
-      "category": "ไทย"
-    },
-    {
-      "title": "ครม.เห็นชอบตั้งศูนย์อาเซียนรับมือโรคระบาด ไทยเป็นที่ตั้งสำนักเลขาธิการ-ศูนย์ตอบโต้ภาวะฉุกเฉิน - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iRUJ1SG1McDFtQkNHWUZSbEpDaV9ndmU4a0pUZ3lfN2RqaF9CS3ZLTU80XzRDQTUyclUxUzgwdVdWRklhZXhtRW10MmhMNmtKMmRoQ2d3?oc=5",
-      "published": "2026-11-10T09:30:07+00:00",
-      "source": "LINE TODAY",
-      "category": "เศรษฐกิจ"
-    },
-    {
-      "title": "เปิดประวัติ 'อลิซ หวง' นักธุรกิจหญิงจีนโยงสัมพันธ์ ซีอีโอ Nvidia สะเทือนชิป AI - เนชั่นทีวี สถานีข่าว 24 ชั่วโมง",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EcDVKZTZnc1JER3FuOUZGUDk1R2FRNUtidmd5NHhDcFljXzJKVkpsdWUxclh5RUYxZXJodlJVV3ItMkk0TWFLcUw1dk5FYkNRYzNYWjdCSHJHZw?oc=5",
-      "published": "2026-11-10T09:29:00+00:00",
-      "source": "เนชั่นทีวี สถานีข่าว 24 ชั่วโมง",
-      "category": "ธุรกิจ"
-    },
-    {
-      "title": "ไทยเจ้าภาพ HTFN ครั้งที่ 40 ผนึก 88 ประเทศ ดัน Hub โลจิสติกส์โลก - bangkokbiznews",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yMF8xTkpvSElxVm01a3ZHbGlPV2Y1bzliLU5NTVBVUXA0eXBLYmFFVjNUNF9kS1BQZmIxcjJWSE80QmhrMXRBMmEwR1R2ejNEa1k2UTZR?oc=5",
-      "published": "2026-11-10T09:28:00+00:00",
-      "source": "bangkokbiznews",
-      "category": "ไทย"
-    },
-    {
-      "title": "ไทยยูเนี่ยนติด Top 100 บริษัทขนาดใหญ่ที่สุดในเอเชียตะวันออกเฉียงใต้ จาก Fortune Southeast Asia 500 ปี 2569 - ThaiPublica",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PMV8zVERDWUppaW0zRlJsc3d3WU1MRWlyX0QzSGxHT2FoMDBWWDFLWG40aW1NTThvanExTHRvQzBydWwwNDlwY2RGcEdfN2tCc2RxSDd3dnl1Mkc4b1ZIT002bVNucG9aRnFoUXVZOUdOck5CbTJpS3lVaVNZQQ?oc=5",
-      "published": "2026-11-10T09:25:37+00:00",
-      "source": "ThaiPublica",
-      "category": "ธุรกิจ"
-    },
-    {
-      "title": "ASL เชียร์ซื้อ OR เป้า 15.90 บ. ลุ้นกำไรปี 70 โต 18% รับค่าการตลาดน้ำมันฟื้น | ข่าวหุ้นธุรกิจ - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FdlBNbHNaS3d4SHJobl9PUmk1QU5nczdpWlQ3NUhKekg2cnNISTJIdGhwck1KdjdkbEY5U1lyUVBUUFhEMmlrZlNxTFpYV0hjUDgzRGVB?oc=5",
-      "published": "2026-11-10T09:24:29+00:00",
-      "source": "LINE TODAY",
-      "category": "ธุรกิจ"
-    },
-    {
-      "title": "ก.ล.ต. เปิดเฮียริ่งปรับงบการเงิน บล. เพิ่มเปิดเผยข้อมูลลงทุน–สินทรัพย์ดิจิทัล - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qU0JDNXBUbmp1LUtCdVREMVlqRlRHRHR2SHhSNDZWaWtCVzRuekpIU1pESjZfa3N5M1BQODNzYjhReFRNZkU5WnNxYTFkMEZKbGNHSEdhZTVJZGNDWVRkWGlaSzFtRVpzX1ZCZ0ZPbmk3ZHgzRWN3dmppU2wzQQ?oc=5",
-      "published": "2026-11-10T09:24:25+00:00",
-      "source": "LINE TODAY",
-      "category": "ธุรกิจ"
-    },
-    {
-      "title": "ครม.ไฟเขียวเพิ่มวงเงินทางด่วนพระราม 3 อีก 7,200 ล้านบาท ตั้งเป้าเปิดปี 2570 | การเงินธนาคาร - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHYklmalRZZkFyV3M0dlI1S25tZFJ3R0RYZWtuOGxjMDNVc0pmV0lPcWdoZ2M5eVpmUEIxTkhqdmpMYVJYU2hwMkRlUm5hSEg0SzVKeVpR?oc=5",
-      "published": "2026-11-10T09:24:18+00:00",
-      "source": "LINE TODAY",
-      "category": "เศรษฐกิจ"
-    },
-    {
-      "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oSkc2SGZUbzZJaFJZWklmQ3R4aDFFSWNySFVnRVBXSE9OemhseUg3YnVLTU9yaHMzMW56cy02dklLT0laNkdvZzVyRmdKZHdqaHhyR244UTlrTFU?oc=5",
-      "published": "2026-11-10T09:23:55+00:00",
-      "source": "BBC",
-      "category": "โลก"
-    },
-    {
-      "title": "ซีพี แอ็กซ์ตร้า ผนึกกำลัง ล็อตเต้ ต่อยอดธุรกิจอาหาร-เครื่องดื่ม ขยายโอกาสทางธุรกิจในไทยและเอเชียแปซิฟิก [PR] - Brand Buffet",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR041cjg1X3hIU1pIWVNCd25pSzUwNUU4c1hqcUhVdHVMNmxiQ2hIbS1ST2k2Nl9fa0FxOUtHSXJJMkxOYy1MWXd6YkxqQWhCUWtENXNJdTJVTTdqUHpYSGVSeHV0Ym5BYjdlSTQ1RE1wa2FXdmJfbGhwRzB3bW5fUmJ3?oc=5",
-      "published": "2026-11-10T09:23:46+00:00",
-      "source": "Brand Buffet",
-      "category": "ธุรกิจ"
-    },
-    {
-      "title": "ภาวะตลาดหุ้นฮ่องกง : ดัชนี ฮั่งเส็ง (^HSKI) — 10 พ.ย. 2569 - efinanceThai",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRkhyNUl6YTF0VTJWQnBWRUlINGVESG5fMU5HbkpLZExqcjlUOXBYbXFRU21POGozQTBBZDZ6MzZySDh4ZVJlU2g4TnloM2J4TU9NcXdzZU5KU2puc19ENlVMaFRhVVhhMFBsRDk3cmFpQnZHYVViZng5VGpkV2lLcVIzbEtmTVU?oc=5",
-      "published": "2026-11-10T09:22:43+00:00",
-      "source": "efinanceThai",
-      "category": "เศรษฐกิจ"
-    },
-    {
-      "title": "ครม.ไฟเขียวงบลงทุน 'ทางด่วนพระราม 3-ดางคะนอง' อีก 7.2 พันล้าน คืนหนี้ TFF - การทางพิเศษแห่งประเทศไทย(กทพ.) | มติครม. ข่าว - Head Topics",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5US3hhQk9FbWtHT0RubDZhUTJKZUdScHBXa1VCY1dYS0w5Uzd4UTl3WHdnejZ0M3F0anU5TzQzTXc4WXFyQlB5amRqX2FUMnd6SlMya08yTE1MZktIQ0U0MWUtVUlPRmV0MktCZ3NR?oc=5",
-      "published": "2026-11-10T09:21:00+00:00",
-      "source": "Head Topics",
-      "category": "จราจร"
-    },
-    {
-      "title": "ครม.เห็นชอบความร่วมมือด้านอาชีวศึกษาไทย-จีน ระยะเวลา 5 ปี | การเงินธนาคาร - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HN0R1akR0UFgtQ0Z5WHdpeEdRM2pYMGZGMnpTaGhtRWJlTmFmODRJTVJ2WDYtb0ZESFlGZndhT3h6Y3N2eGRtZ2UtNW5TOGNSVWNJcTRn?oc=5",
-      "published": "2026-11-10T09:19:18+00:00",
-      "source": "LINE TODAY",
-      "category": "เศรษฐกิจ"
-    },
-    {
-      "title": "ถอดรหัส Look Like Love ซื้อบ่อยไม่ได้แปลว่ารัก รอดอย่างไรเมื่อ AI เมินกระแสนิยม - Marketeer Online",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxcFJsUzVEMGhTQWlTMzdzTkFnZUVUNE9WQUNyajFUS2dRbVFhVXVHd1Jya1pUR0hZckdncFJPakFmVVMxemp2UzByc080YWV3VEgzQQ?oc=5",
-      "published": "2026-11-10T09:19:13+00:00",
-      "source": "Marketeer Online",
-      "category": "เทคโนโลยี"
-    },
-    {
-      "title": "'เอไอ' ดิสรัปต์แรงงานกระทบ 1 ใน 4 จี้มนุษย์เงินเดือน-เถ้าแก่ เร่งปรับตัว - bangkokbiznews",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lYVN6LTBfVGVtN0dWTzBaVk1mTWpSbkF6ZU1ud2RaRVFmeDB2dmNGWWJObEJYMFZKMFR5VEctQlFzNEF1bkQ0M25CVGozaXowbllTa1IwdWltSEww?oc=5",
-      "published": "2026-11-10T09:19:00+00:00",
-      "source": "bangkokbiznews",
-      "category": "เทคโนโลยี"
-    },
-    {
-      "title": "โบรกฯ มองปลดล็อก Data Center ไทยจ่อรับเม็ดเงินลงทุน AI ลุ้นหุ้นไทยยืน 1,500 จุด - ประชาชาติธุรกิจ",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVUTVTTWtwVlhRZkNHcHVBd01nS0oxdEE0SnZUZlhSNk93YWZzQkN0ejFkU0RrS1EyWnA0TC1hdXlaTnNSWWZzMVFDNUJhWkQ5cWFpdFFyV3Q0b1U?oc=5",
-      "published": "2026-11-10T09:16:52+00:00",
-      "source": "ประชาชาติธุรกิจ",
-      "category": "เทคโนโลยี"
-    },
-    {
-      "title": "“ไทย” ให้สัตยาบันสนธิสัญญาส่งผู้ร้ายข้ามแดนอาเซียน เป็นประเทศที่ 4 - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53MUNqYi1UUWZyVWZ4RTFRb1NNbjFIUHpaRlMycFZsUTBSYTB6YmxrZFhyU0Rwd1NpRThMRGJwb0hMODlTRG94ZXA3VE1TWVRCZGVHX0ZR?oc=5",
-      "published": "2026-11-10T09:15:07+00:00",
-      "source": "LINE TODAY",
-      "category": "เศรษฐกิจ"
-    },
-    {
-      "title": "กทพ. แจ้งปิดเบี่ยงการจราจรชั่วคราวบริเวณหน้าด่านดาวคะนอง ขาเข้ากรุงเทพฯ ช่องเก็บค่าผ่านทางที่ 4 และ 5 เพื่อติดตั้งคานขวางของโครงการทางพิเศษสายพระราม 3 ฯ สัญญาที่ 3 - สวพ.FM91",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5KdGlDWmpIUGZOS20xaUE3b1RGcVlucU05ZzItSXYxN2VhODZMR2h3WFd4bmpicHh3Zm1OZEJZMDBveS1DbDcwcDJVQnJ6dw?oc=5",
-      "published": "2026-11-10T09:15:03+00:00",
-      "source": "สวพ.FM91",
-      "category": "จราจร"
-    },
-    {
-      "title": "ก.อุตฯดึง10บริษัทชั้นนำไทยใช้มอก.9999 นำหลักปรัชญาศก.พอเพียง สู่ภาคอุตสาหกรรม-คู่ค้า-SME - ผู้จัดการออนไลน์",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BWmR2S20tc0JNZExGb3hlbHgzM2h1cmFsdkU5QzFHVHpfYmpDQ1lLNlBianNwZGxsZ2F2UDJaTnJwU3RRTFVWazlrbk4taEY4QWk5WGV6clZCX05ROFpudg?oc=5",
-      "published": "2026-11-10T09:15:00+00:00",
-      "source": "ผู้จัดการออนไลน์",
-      "category": "ธุรกิจ"
-    },
-    {
-      "title": "\"ภราดร\" ลุยภัยไซเบอร์! นัดถก สมช.-แบงก์ คุมเข้มระบบการเงิน-สื่อสาร - ททบ. 5",
-      "link": "https://news.google.com/rss/articles/CBMi9gVBVV95cUxNQ0JweF92dFRqd28xaEo2X20yUkpBZ3Y1OVZfSi1rQ2dGZ2xTNjdiWWhyTi1aUXR2TkZwUGZhTmlUOXRYZGt6SC1vcFF6ZlUyTHdCa2VGUThfOGljOW9uLUJ1TEFwaUlyaGVoNnM3cTBZd1N0NTdMZzJjVGdKWUpMbXFINmZMSTdVeHhzMzZqMW9wdC1OQmwwNG9pR2dscFJYOVR6dUhzTG02ckxZaVBTVDJLdWJCNi1oaXV2cmhzNXNGRjZqWFVtOWxHR0xOODdhOGJ6OUhBck1DajFCem9abl9yQ19hNUF4c0c2MFVMemRhWFpaUFJBZUVJRnNFS2EySVZvemN3MUZic3RFeVhZV0RpUmx3SFM0SGNCYU9RZ1VDZmRlMWZiOEhNTnNRMEhCODlRVDlzTnlqS2xLSklmeXNKY0FnLW5Ham5Lb2ZCYXplSHozWTdDVWpiNEg1a3dMU3Z1N1hIVWJzLVlQWG96NUduNGFRdzRoTEhaVG9Ec2ItSHowR0ZoZGdkX2hxOWZsQTNnUUdNZXNLeWFUajNxeW81MkhCcHBmZXlEeEdnZ2hKQlhvZ2lGZ0poOHZwbndDSnNCM181b3RVaHJLcEktYWQxZFN2WFJLeHhVeEVrdThnVGwzMTZyVmhoVUczUERfZGlkZkM2Z2RqRU1Fc25VRTBVT0k0NVRUWWRBdlFETmk2YU8xVHgzZjdyY3pPWGdXMkJNTFV2bzY0M2VmRlJ3S3R0a0tOZWIwT0FVM0tZaVFXSlhSbHoxNWxYemtHY1o5ZXY1enlhVUhGWnhkYy0tenEwQUhMWEUxQUl6Uks0YW1JT0dUWGFHdDBNT0RMS2dmTXhlaXVGVXItMF9scFV2QWRtYlNaR0lSaDVDenJCTDI0dVhRZ0RVU2luWE4wWExjLUJhbXNfbVAwSTgyVTljNGFDX1ZSS2MzYkFPSHBaR3JuNlQ3Snh5Ty04U05sVVhxZnQtSWtURElRWGhfUTRibHU0MXVMZw?oc=5",
-      "published": "2026-11-10T09:14:00+00:00",
-      "source": "ททบ. 5",
-      "category": "เศรษฐกิจ"
-    },
-    {
-      "title": "ถอด 6 มุมมอง ‘ดร.กอบศักดิ์ ภูตระกูล’ อ่านเกมเศรษฐกิจโลกและไทย ในวันที่ประเทศกำลังเปลี่ยนผ่านครั้งประวัติศาสตร์ - thestandard.co",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9VXzROSm1SemlVQXRJeGltME5DSlBMNy1lQ1lKSGEzS0RJM0FtekVTRnAxNzVUWV9UUlE0b1dMYXlucHFBdjZ6M3JBblExaXlzWHlLdngyVXNuRWRnYU9Ud3hrS09Gb3VtVlFZZTUtb2FLUW8?oc=5",
-      "published": "2026-11-10T09:11:26+00:00",
-      "source": "thestandard.co",
-      "category": "เศรษฐกิจ"
-    },
-    {
-      "title": "ข่าวฉาวเปิดแผล Nvidia ‘วิกฤติไร้ทายาทซีอีโอ’ หากไร้เจนเซน หวง บริษัทจะไปต่อยังไง? - bangkokbiznews",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tQkg2UlVEdlpCXzhJZ1VlQ25RZzhKZml3dXU5MWZhbUg4UlNTV0VHOUtmUng4VVpxcGNWemo0SWpmeFNkcnJmZFkzdmtBT3NpS180amRnbW5MQ3ZQVDlRamh4RjI?oc=5",
-      "published": "2026-11-10T09:10:00+00:00",
-      "source": "bangkokbiznews",
-      "category": "เทคโนโลยี"
-    },
-    {
-      "title": "BDMS ลุย WellEra มูลค่า 2.9 หมื่นล้าน เปิดตัว Capella Residences ปักหมุดเสร็จปี 73 | ข่าวหุ้นธุรกิจ - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00cmlqUkFiUzM4bnVJeml3cnRIUjdYeU5QQW5aa1I1UjQySnV5VU1wbmF2OUFQbGotY0x1Ry02TzJTdW1ydGlmZHh5X1dmSmFnMUN2NUp3?oc=5",
-      "published": "2026-11-10T09:08:34+00:00",
-      "source": "LINE TODAY",
-      "category": "ธุรกิจ"
-    },
-    {
-      "title": "มหาวิทยาลัยมหิดล จับมือ OpenAI เปิดตัว ChatGPT Edu ให้บริการครอบคลุมทุกวิทยาเขต เป็นแห่งแรกในประเทศไทย - ผู้จัดการออนไลน์",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wLVJaMGM0R3c4WkZYQ1VUWnJKYlJvSkdQN3BsZE95bzdwNmYybmJTUjMybDY0NlYwR2dXN1Y1SzVZNndUNzM3dWVXV2tTcnBIQVJYajdzek9qZw?oc=5",
-      "published": "2026-11-10T09:08:00+00:00",
-      "source": "ผู้จัดการออนไลน์",
-      "category": "ไทย"
-    },
-    {
-      "title": "ครูใหญ่เฝ้าเวรตลอดทั้งคืนระหว่างเกิดน้ำท่วม และครูสั่งอาหารมาทานที่โรงเรียนก่อนลงไปทำความสะอาดโคลน - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTHZpUVNNZnlKdDNtUGpzaEhSS1VLT2YyR1NWRFRQTDN0djJQWTNqQmdPSWYzV2JDbUlwZ1dSbWNrTmdpVVdDeEZKVVhTNEoyZzRMVk9FTXdqbklucVJQSEVEald3ZjBHZkY0YmRHYTJYWVNEUHRQdDQ0ZENyRUktS1Z4Sm5YTTkzQktYN2hRVlNBbmtkX1pUbVlHaGs0cmJ3?oc=5",
-      "published": "2026-11-10T09:07:46+00:00",
-      "source": "Vietnam.vn",
-      "category": "สภาพอากาศ"
-    },
-    {
-      "title": "ครม.ไฟเขียวเพิ่มวงเงินลงทุน 'ทางด่วนพระราม 3-ดาวคะนอง' 7.2 พันล้าน - Head Topics",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KWG0wdjhxZElTUGF6bDA5Qjgwdy0xNGNWYUdxOURsalBDa0ZWYWt5M015Nmd6bkF4OXgtUlRUTEhlWElKZDN2dUlBNDVWZm5vT3lIWjQ0WXV1Wkw1WmpLdmpOR3lUOVRtWWc3TmF3?oc=5",
-      "published": "2026-11-10T09:07:00+00:00",
-      "source": "Head Topics",
-      "category": "จราจร"
-    },
-    {
-      "title": "ตลาดหุ้นยุโรปเปิดบวก รับราคาน้ำมันร่วง หลังทรัมป์เบรกแผนใช้กำลังทหารใส่อิหร่าน : อินโฟเควสท์ - สำนักข่าวอินโฟเควสท์",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE50OGRkNVFQbUg4eDJuTHREQUZFLXlhRzNITTUwQkktbW1qVDRCTXpqWlE0TVBEM1dMeHhEMEZnQVoyMzBPQ0sycTdiTG9jQ3Jo?oc=5",
-      "published": "2026-11-10T09:06:41+00:00",
-      "source": "สำนักข่าวอินโฟเควสท์",
-      "category": "เศรษฐกิจ"
-    },
-    {
-      "title": "ครม. เคาะเก็บอากรสินค้า E-Commerce นำเข้า สูงสุด 30% สกัดของถูกไม่มีมาตรฐาน | การเงินธนาคาร - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DMVNBRDV5Z2RUZzUtaG5ORzlJaFBPSk1CR2RFV0E2RFNpT0JHN0xPdWNaY1Z0YVFxV2pNcHdtbDRUT0pTVFBNcmlNeTN6MnZoUGp1SFh3?oc=5",
-      "published": "2026-11-10T09:05:07+00:00",
-      "source": "LINE TODAY",
-      "category": "เศรษฐกิจ"
-    },
-    {
-      "title": "Asia Markets: สรุปภาวะตลาดหุ้นในภูมิภาคเอเชียประจำวันที่ 10 พฤศจิกายน 2569 : อินโฟเควสท์ - สำนักข่าวอินโฟเควสท์",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfY21wNEQ1VktjdGRHY2ppUUFuS2M2SUFDWWlwaWdyUjc2bXVKQnFrd05nQVdndENZbmNyeDQxRjVfSWJwTjhvWWNtT3NIZ3Vf?oc=5",
-      "published": "2026-11-10T09:02:37+00:00",
-      "source": "สำนักข่าวอินโฟเควสท์",
-      "category": "เศรษฐกิจ"
-    },
-    {
-      "title": "COP31 เดือด จี้ประเทศร่ำรวยจ่าย 'ค่าชดเชยภูมิอากาศ' ชี้เป็นหน้าที่ตามกฎหมาย - bangkokbiznews",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMT0tzekxXNk1KemFiUElhTWRoV0drbDJwdGptZDFDSjhoUjZsY21qLWVRcFFSbHd1TU04dkVEcjMxb3RuSGh2ZV9XVTU2bjFGZ2o5QjE0WlVMblEwcUZ2RGhMQQ?oc=5",
-      "published": "2026-11-10T09:02:00+00:00",
-      "source": "bangkokbiznews",
-      "category": "สภาพอากาศ"
-    },
-    {
-      "title": "ปมฉาวซีอีโอเขย่า Nvidia เปิดความเสี่ยงยักษ์ชิป AI ที่พึ่งพาผู้ก่อตั้ง ใครจะรับไม้ต่อ เจนเซ่น หวง? - www.thairath.co.th",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yOHFyaVdkVlBhOHlTcW1NUDFMcjB3RW5wel9lRVg0WHR3ejVRbVBWUmNHMWo5ZGVnQzNtbWJQa1ZKR282RXpndW5KQ0JHUzNIZVZkamRGVE1zalVLa2t6ZlFWRmVRN0x3MXc?oc=5",
-      "published": "2026-11-10T09:01:16+00:00",
-      "source": "www.thairath.co.th",
-      "category": "เทคโนโลยี"
-    },
-    {
-      "title": "“นวัตกรรมแห่งความสำเร็จ” เฉพาะปี 2025 Glico ทุ่มงบ R&D กว่า 6 พันล้านเยน พัฒนาสูตร “ความอร่อยเพื่อสุขภาพ” หนุนธุรกิจโตต่อเนื่อง - Forbes Thailand",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeGl3eXNtbG0zTlppVmtkd25qS1dxZUE5MG9NQ3M3V3F3aUhHb0VoMGYzXzdiY1dkNW94alNBaUFpR0Iwc3NpOUV2VWZmdFFPQmwwWWJETnVXalZrYXZhdmowNFdlN3YtT1pIc0JwYWZLUDAzLV80bnhJZzRWMDl4SWZ1akg0bHBQaV9aZjYtak9yZzBtVzhUcW5kbFRNR1JtM29DZFYxbTlyS0xSZGpyUWJR?oc=5",
-      "published": "2026-11-10T09:00:08+00:00",
-      "source": "Forbes Thailand",
-      "category": "ธุรกิจ"
     }
   ],
   "feedErrors": []
